@@ -1,0 +1,17 @@
+[Event "IITGN vs NITB vs IITTP Team Battle"]
+[Site "https://lichess.org/4wCIiEXb"]
+[Date "2020.12.12"]
+[White "jishanshaikh4"]
+[Black "universe1299"]
+[Result "1-0"]
+[UTCDate "2020.12.12"]
+[UTCTime "13:30:48"]
+[WhiteElo "1881"]
+[BlackElo "1895"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:00] } 2... Nc6 { [%clk 0:03:02] } 3. d4 { [%clk 0:03:01] } 3... cxd4 { [%clk 0:03:04] } 4. Nxd4 { [%clk 0:03:03] } 4... Nf6 { [%clk 0:03:06] } 5. Nc3 { [%clk 0:03:02] } 5... e5 { [%clk 0:03:07] } 6. Ndb5 { [%clk 0:03:02] } 6... d6 { [%clk 0:03:08] } 7. Nd5 { [%clk 0:03:00] } 7... Nxd5 { [%clk 0:03:09] } 8. exd5 { [%clk 0:03:01] } 8... Nb8 { [%clk 0:03:10] } 9. c4 { [%clk 0:02:57] } 9... a6 { [%clk 0:03:11] } 10. Nc3 { [%clk 0:02:57] } 10... Nd7 { [%clk 0:03:07] } 11. f4 { [%clk 0:02:52] } 11... exf4 { [%clk 0:03:01] } 12. Bxf4 { [%clk 0:02:54] } 12... Qf6 { [%clk 0:02:59] } 13. Qd2 { [%clk 0:02:48] } 13... Be7 { [%clk 0:02:59] } 14. Bd3 { [%clk 0:02:48] } 14... O-O { [%clk 0:02:59] } 15. O-O { [%clk 0:02:48] } 15... Nc5 { [%clk 0:03:01] } 16. Bc2 { [%clk 0:02:47] } 16... Qh4 { [%clk 0:02:42] } 17. Bg3 { [%clk 0:02:30] } 17... Qxc4 { [%clk 0:02:40] } 18. b3 { [%clk 0:02:20] } 18... Qb4 { [%clk 0:02:34] } 19. Be1 { [%clk 0:02:16] } 19... Bd7 { [%clk 0:02:16] } 20. Qe3 { [%clk 0:02:09] } 20... Qg4 { [%clk 0:01:51] } 21. Qxe7 { [%clk 0:01:50] } 21... Rfe8 { [%clk 0:01:46] } 22. Qxf7+ { [%clk 0:01:48] } 22... Kh8 { [%clk 0:01:47] } 23. h3 { [%clk 0:01:14] } 23... Qd4+ { [%clk 0:01:46] } 24. Kh1 { [%clk 0:01:12] } 24... Bb5 { [%clk 0:01:45] } 25. Bf2 { [%clk 0:01:05] } 25... Qxc3 { [%clk 0:01:45] } 26. Qf5 { [%clk 0:01:03] } 26... Rf8 { [%clk 0:01:42] } 27. Qxh7# { [%clk 0:01:02] } 1-0

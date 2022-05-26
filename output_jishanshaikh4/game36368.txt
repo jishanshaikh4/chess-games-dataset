@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/MZJfgroW"]
+[Date "2018.11.22"]
+[White "jishanshaikh4"]
+[Black "fokss"]
+[Result "0-1"]
+[UTCDate "2018.11.22"]
+[UTCTime "13:13:46"]
+[WhiteElo "1400"]
+[BlackElo "1541"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "C43"]
+[Opening "Russian Game: Modern Attack, Symmetrical Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... e5 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:01:59] } 2... Nf6 { [%clk 0:01:59] } 3. d4 { [%clk 0:01:59] } 3... Nxe4 { [%clk 0:01:56] } 4. dxe5 { [%clk 0:01:58] } 4... d6 { [%clk 0:01:55] } 5. exd6 { [%clk 0:01:56] } 5... Qxd6 { [%clk 0:01:54] } 6. Qxd6 { [%clk 0:01:51] } 6... Nxd6 { [%clk 0:01:53] } 7. Nc3 { [%clk 0:01:50] } 7... c6 { [%clk 0:01:50] } 8. b4 { [%clk 0:01:44] } 8... Be7 { [%clk 0:01:49] } 9. Bd3 { [%clk 0:01:41] } 9... Bf6 { [%clk 0:01:48] } 10. Bb2 { [%clk 0:01:37] } 10... O-O { [%clk 0:01:45] } 11. O-O { [%clk 0:01:35] } 11... Bg4 { [%clk 0:01:42] } 12. Rfe1 { [%clk 0:01:30] } 12... Bxf3 { [%clk 0:01:40] } 13. gxf3 { [%clk 0:01:30] } 13... Nd7 { [%clk 0:01:35] } 14. Rab1 { [%clk 0:01:23] } 14... Rfe8 { [%clk 0:01:31] } 15. Ne4 { [%clk 0:01:22] } 15... Nxe4 { [%clk 0:01:27] } 16. Bxf6 { [%clk 0:01:19] } 16... Nexf6 { [%clk 0:01:25] } 17. Rxe8+ { [%clk 0:01:16] } 17... Rxe8 { [%clk 0:01:23] } 18. Kf1 { [%clk 0:01:15] } 18... Ne5 { [%clk 0:01:21] } 19. Re1 { [%clk 0:01:14] } 19... Nxd3 { [%clk 0:01:18] } 20. cxd3 { [%clk 0:01:13] } 20... Rxe1+ { [%clk 0:01:16] } 21. Kxe1 { [%clk 0:01:13] } 21... Nd5 { [%clk 0:01:14] } 22. Ke2 { [%clk 0:01:13] } 22... Nxb4 { [%clk 0:01:13] } 23. Ke3 { [%clk 0:01:13] } 23... Nxa2 { [%clk 0:01:12] } 0-1

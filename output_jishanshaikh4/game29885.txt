@@ -1,0 +1,17 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/0gliYxuc"]
+[Date "2019.10.02"]
+[White "jishanshaikh4"]
+[Black "lichess AI level 5"]
+[Result "0-1"]
+[UTCDate "2019.10.02"]
+[UTCTime "06:00:12"]
+[WhiteElo "1509"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "900+15"]
+[ECO "A25"]
+[Opening "English Opening: King's English Variation, Reversed Closed Sicilian"]
+[Termination "Normal"]
+
+1. c4 { [%clk 0:15:00] } 1... e5 { [%clk 0:15:00] } 2. Nc3 { [%clk 0:15:13] } 2... Nc6 { [%clk 0:15:13] } 3. e3 { [%clk 0:15:26] } 3... h5 { [%clk 0:15:27] } 4. d4 { [%clk 0:15:40] } 4... exd4 { [%clk 0:15:39] } 5. exd4 { [%clk 0:15:55] } 5... Qe7+ { [%clk 0:15:52] } 6. Qe2 { [%clk 0:15:24] } 6... Nxd4 { [%clk 0:16:03] } 7. Qxe7+ { [%clk 0:15:37] } 7... Nxe7 { [%clk 0:16:15] } 8. Bd3 { [%clk 0:15:52] } 8... Ng6 { [%clk 0:16:23] } 9. Nge2 { [%clk 0:16:03] } 9... Ne6 { [%clk 0:16:33] } 10. Be3 { [%clk 0:15:52] } 10... Ne5 { [%clk 0:16:45] } 11. Bc2 { [%clk 0:14:07] } 11... Nxc4 { [%clk 0:16:56] } 12. O-O-O { [%clk 0:14:10] } 12... g5 { [%clk 0:17:08] } 13. Nd4 { [%clk 0:14:19] } 13... Be7 { [%clk 0:17:17] } 14. Nxe6 { [%clk 0:14:33] } 14... dxe6 { [%clk 0:17:29] } 15. Bd4 { [%clk 0:13:24] } 15... O-O { [%clk 0:17:39] } 16. Rd3 { [%clk 0:13:26] } 16... c5 { [%clk 0:17:49] } 17. Be3 { [%clk 0:12:25] } 17... Ne5 { [%clk 0:17:57] } 18. Rdd1 { [%clk 0:10:36] } 18... f5 { [%clk 0:18:06] } 19. h4 { [%clk 0:09:55] } 19... f4 { [%clk 0:18:16] } 20. Bd2 { [%clk 0:10:07] } 20... gxh4 { [%clk 0:18:26] } 21. g3 { [%clk 0:10:19] } 21... Nf3 { [%clk 0:18:37] } 22. gxh4 { [%clk 0:10:31] } 22... b6 { [%clk 0:18:48] } 23. Bxf4 { [%clk 0:09:34] } 23... Rxf4 { [%clk 0:18:57] } 0-1

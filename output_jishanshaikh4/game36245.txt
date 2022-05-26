@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/GaMhh7yC"]
+[Date "2018.12.01"]
+[White "chessdaddy53"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2018.12.01"]
+[UTCTime "08:06:16"]
+[WhiteElo "1500"]
+[BlackElo "1188"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:00:15] } 1... d5 { [%clk 0:00:15] } 2. exd5 { [%clk 0:00:11] } 2... Qxd5 { [%clk 0:00:13] } 0-1

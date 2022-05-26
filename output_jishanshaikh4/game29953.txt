@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/W3tLbUum"]
+[Date "2019.09.30"]
+[White "jishanshaikh4"]
+[Black "RiskyPawn"]
+[Result "0-1"]
+[UTCDate "2019.09.30"]
+[UTCTime "16:30:36"]
+[WhiteElo "1901"]
+[BlackElo "2009"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[Termination "Normal"]
+
+1. c4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. e3 { [%clk 0:01:00] } 2... d6 { [%clk 0:00:59] } 3. Be2 { [%clk 0:01:00] } 3... f5 { [%clk 0:00:58] } 4. Nf3 { [%clk 0:00:59] } 4... Nf6 { [%clk 0:00:58] } 5. d4 { [%clk 0:00:58] } 5... Be7 { [%clk 0:00:58] } 6. dxe5 { [%clk 0:00:57] } 6... dxe5 { [%clk 0:00:57] } 7. Qxd8+ { [%clk 0:00:56] } 7... Bxd8 { [%clk 0:00:57] } 8. Nxe5 { [%clk 0:00:55] } 8... O-O { [%clk 0:00:56] } 9. O-O { [%clk 0:00:53] } 9... Nbd7 { [%clk 0:00:56] } 10. Nd3 { [%clk 0:00:51] } 10... b6 { [%clk 0:00:51] } 11. Bf3 { [%clk 0:00:50] } 11... Rb8 { [%clk 0:00:50] } 12. Nd2 { [%clk 0:00:48] } 12... Bb7 { [%clk 0:00:49] } 13. b3 { [%clk 0:00:47] } 13... Re8 { [%clk 0:00:47] } 14. Bb2 { [%clk 0:00:47] } 14... Ne5 { [%clk 0:00:46] } 15. Bxb7 { [%clk 0:00:46] } 15... Nxd3 { [%clk 0:00:44] } 16. Bxf6 { [%clk 0:00:44] } 16... Bxf6 { [%clk 0:00:42] } 17. Bf3 { [%clk 0:00:44] } 17... Bxa1 { [%clk 0:00:40] } 18. Rxa1 { [%clk 0:00:44] } 18... Rbd8 { [%clk 0:00:38] } 19. Be2 { [%clk 0:00:43] } 19... Nxf2 { [%clk 0:00:36] } 20. Nf3 { [%clk 0:00:39] } 20... Ne4 { [%clk 0:00:34] } 21. Rd1 { [%clk 0:00:37] } 21... Rxd1+ { [%clk 0:00:32] } 22. Bxd1 { [%clk 0:00:37] } 22... Rd8 { [%clk 0:00:29] } 23. Nd4 { [%clk 0:00:34] } 23... c5 { [%clk 0:00:27] } 24. Nxf5 { [%clk 0:00:31] } 24... Rxd1# { [%clk 0:00:25] } 0-1

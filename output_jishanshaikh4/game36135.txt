@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/0Zx65VYZ"]
+[Date "2018.12.04"]
+[White "jishanshaikh4"]
+[Black "hertigtorulf"]
+[Result "1-0"]
+[UTCDate "2018.12.04"]
+[UTCTime "17:05:15"]
+[WhiteElo "1289"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "C00"]
+[Opening "French Defense: Normal Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... e6 { [%clk 0:02:00] } 2. d4 { [%clk 0:01:58] } 1-0

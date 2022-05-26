@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/VQ3bZNwR"]
+[Date "2019.01.12"]
+[White "jishanshaikh4"]
+[Black "K-Dot"]
+[Result "0-1"]
+[UTCDate "2019.01.12"]
+[UTCTime "03:43:53"]
+[WhiteElo "1379"]
+[BlackElo "1763"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[Termination "Normal"]
+
+1. g3 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Bg2 { [%clk 0:01:00] } 2... d6 { [%clk 0:01:00] } 3. Nf3 { [%clk 0:01:00] } 3... Nf6 { [%clk 0:01:00] } 4. O-O { [%clk 0:01:00] } 4... Be7 { [%clk 0:01:00] } 5. Re1 { [%clk 0:00:59] } 5... O-O { [%clk 0:01:00] } 6. d4 { [%clk 0:00:57] } 6... Nbd7 { [%clk 0:01:00] } 7. Nfd2 { [%clk 0:00:56] } 7... exd4 { [%clk 0:00:59] } 8. Nf3 { [%clk 0:00:55] } 8... Rb8 { [%clk 0:00:59] } 9. Qxd4 { [%clk 0:00:54] } 9... b6 { [%clk 0:00:59] } 10. Nc3 { [%clk 0:00:51] } 10... Bb7 { [%clk 0:00:58] } 11. Bg5 { [%clk 0:00:49] } 11... Re8 { [%clk 0:00:57] } 12. Bxf6 { [%clk 0:00:48] } 12... Bxf6 { [%clk 0:00:56] } 13. Rad1 { [%clk 0:00:46] } 13... Bxd4 { [%clk 0:00:55] } 14. Rxd4 { [%clk 0:00:44] } 14... Bxf3 { [%clk 0:00:55] } 15. Bxf3 { [%clk 0:00:43] } 15... Nf6 { [%clk 0:00:55] } 16. Ne4 { [%clk 0:00:39] } 16... Nxe4 { [%clk 0:00:54] } 17. Rxe4 { [%clk 0:00:38] } 17... Rxe4 { [%clk 0:00:53] } 18. Bxe4 { [%clk 0:00:38] } 18... Qe7 { [%clk 0:00:53] } 19. Bxh7+ { [%clk 0:00:37] } 19... Kxh7 { [%clk 0:00:52] } 20. Rd1 { [%clk 0:00:36] } 20... Re8 { [%clk 0:00:51] } 21. Rd3 { [%clk 0:00:35] } 21... Qxe2 { [%clk 0:00:50] } 22. Re3 { [%clk 0:00:34] } 22... Qxe3 { [%clk 0:00:49] } 23. fxe3 { [%clk 0:00:34] } 23... Rxe3 { [%clk 0:00:49] } 24. Kf2 { [%clk 0:00:33] } 24... Re5 { [%clk 0:00:47] } 25. c4 { [%clk 0:00:31] } 0-1

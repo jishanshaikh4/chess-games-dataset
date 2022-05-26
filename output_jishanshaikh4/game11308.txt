@@ -1,0 +1,17 @@
+[Event "QCT - Qualifier 1 Team Battle"]
+[Site "https://lichess.org/mWukfDc9"]
+[Date "2021.06.13"]
+[White "jishanshaikh4"]
+[Black "Misterlooser00"]
+[Result "1-0"]
+[UTCDate "2021.06.13"]
+[UTCTime "13:30:01"]
+[WhiteElo "2097"]
+[BlackElo "2097"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Opening "King's Pawn"]
+[Termination "Abandoned"]
+
+1. e4 { [%clk 0:03:00] } 1-0

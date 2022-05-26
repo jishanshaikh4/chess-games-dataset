@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/HwPGMmyW"]
+[Date "2021.04.15"]
+[White "jishanshaikh4"]
+[Black "chessian123"]
+[Result "0-1"]
+[UTCDate "2021.04.15"]
+[UTCTime "12:10:18"]
+[WhiteElo "2100"]
+[BlackElo "2002"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Leonardis Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. d3 { [%clk 0:00:59] } 2... Nc6 { [%clk 0:01:00] } 3. d4 { [%clk 0:00:59] } 3... exd4 { [%clk 0:00:59] } 4. Nf3 { [%clk 0:00:59] } 4... d6 { [%clk 0:00:58] } 5. Nxd4 { [%clk 0:00:58] } 5... Nf6 { [%clk 0:00:56] } 6. Nb5 { [%clk 0:00:57] } 6... a6 { [%clk 0:00:54] } 7. N5c3 { [%clk 0:00:56] } 7... Be6 { [%clk 0:00:54] } 8. Bd3 { [%clk 0:00:56] } 8... Be7 { [%clk 0:00:53] } 9. O-O { [%clk 0:00:56] } 9... O-O { [%clk 0:00:53] } 10. h3 { [%clk 0:00:56] } 10... Nb4 { [%clk 0:00:51] } 11. Be2 { [%clk 0:00:53] } 11... d5 { [%clk 0:00:50] } 12. a3 { [%clk 0:00:52] } 12... Nc6 { [%clk 0:00:48] } 13. exd5 { [%clk 0:00:52] } 13... Nxd5 { [%clk 0:00:48] } 14. Nxd5 { [%clk 0:00:51] } 14... Bxd5 { [%clk 0:00:48] } 15. Qe1 { [%clk 0:00:50] } 15... Bd6 { [%clk 0:00:45] } 16. Be3 { [%clk 0:00:49] } 16... Ne5 { [%clk 0:00:44] } 17. b3 { [%clk 0:00:47] } 17... Bc6 { [%clk 0:00:43] } 18. c4 { [%clk 0:00:46] } 18... Ng6 { [%clk 0:00:43] } 19. Nc3 { [%clk 0:00:45] } 19... Be5 { [%clk 0:00:41] } 20. Rd1 { [%clk 0:00:44] } 20... Qf6 { [%clk 0:00:36] } 21. Nd5 { [%clk 0:00:42] } 21... Bxd5 { [%clk 0:00:35] } 22. cxd5 { [%clk 0:00:42] } 22... Rad8 { [%clk 0:00:34] } 23. Bf3 { [%clk 0:00:39] } 23... Nh4 { [%clk 0:00:32] } 24. Qe2 { [%clk 0:00:38] } 24... Qg6 { [%clk 0:00:30] } 25. Bg4 { [%clk 0:00:36] } 25... h5 { [%clk 0:00:27] } 26. Bxh5 { [%clk 0:00:35] } 26... Qxg2# { [%clk 0:00:27] } 0-1

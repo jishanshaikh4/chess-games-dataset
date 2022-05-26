@@ -1,0 +1,17 @@
+[Event "IITGN vs NITB vs IITTP Team Battle"]
+[Site "https://lichess.org/ki5KM9zW"]
+[Date "2020.12.12"]
+[White "Shreyas_Suresh"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2020.12.12"]
+[UTCTime "13:36:30"]
+[WhiteElo "1284"]
+[BlackElo "1881"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C44"]
+[Opening "Ponziani Opening"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:00] } 2... Nc6 { [%clk 0:02:59] } 3. c3 { [%clk 0:02:52] } 3... d5 { [%clk 0:02:52] } 4. Bd3 { [%clk 0:02:39] } 4... Nf6 { [%clk 0:02:45] } 5. exd5 { [%clk 0:02:32] } 5... Nxd5 { [%clk 0:02:40] } 6. Be4 { [%clk 0:02:27] } 6... Bc5 { [%clk 0:02:36] } 7. Bxd5 { [%clk 0:02:15] } 7... Qxd5 { [%clk 0:02:38] } 8. d4 { [%clk 0:01:48] } 8... exd4 { [%clk 0:02:16] } 9. cxd4 { [%clk 0:01:46] } 9... Nxd4 { [%clk 0:02:15] } 10. Nxd4 { [%clk 0:01:45] } 10... Qxd4 { [%clk 0:02:10] } 11. Qxd4 { [%clk 0:01:44] } 11... Bxd4 { [%clk 0:02:12] } 12. O-O { [%clk 0:01:44] } 12... O-O { [%clk 0:02:12] } 13. Nd2 { [%clk 0:01:39] } 13... c5 { [%clk 0:02:10] } 14. Nc4 { [%clk 0:01:36] } 14... b5 { [%clk 0:02:10] } 15. Nd6 { [%clk 0:01:33] } 15... Ba6 { [%clk 0:02:08] } 16. Be3 { [%clk 0:01:29] } 16... Bxe3 { [%clk 0:02:02] } 17. fxe3 { [%clk 0:01:30] } 17... Rad8 { [%clk 0:02:03] } 18. Rad1 { [%clk 0:01:21] } 18... b4 { [%clk 0:02:01] } 19. Rd5 { [%clk 0:01:18] } 19... Bxf1 { [%clk 0:02:00] } 20. Kxf1 { [%clk 0:01:17] } 20... g6 { [%clk 0:01:56] } 21. Rxc5 { [%clk 0:01:15] } 21... Rxd6 { [%clk 0:01:56] } 22. Rc7 { [%clk 0:01:15] } 22... Rd2 { [%clk 0:01:52] } 23. Rxa7 { [%clk 0:01:16] } 23... Rxb2 { [%clk 0:01:53] } 24. Ra4 { [%clk 0:01:16] } 24... Rd8 { [%clk 0:01:53] } 25. Ke1 { [%clk 0:01:08] } 25... Rdd2 { [%clk 0:01:54] } 26. a3 { [%clk 0:01:07] } 26... bxa3 { [%clk 0:01:53] } 27. Rxa3 { [%clk 0:01:07] } 27... Rxg2 { [%clk 0:01:54] } 28. Kf1 { [%clk 0:01:07] } 28... Rxh2 { [%clk 0:01:50] } 29. Ra8+ { [%clk 0:01:00] } 29... Kg7 { [%clk 0:01:50] } 30. Ra1 { [%clk 0:00:59] } 30... Rh1# { [%clk 0:01:48] } 0-1

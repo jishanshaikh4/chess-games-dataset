@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/kpMG68pi"]
+[Date "2021.10.18"]
+[White "sourabhk_nitb"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2021.10.18"]
+[UTCTime "12:04:45"]
+[WhiteElo "2129"]
+[BlackElo "2175"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C21"]
+[Opening "Danish Gambit Accepted"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. d4 { [%clk 0:03:00] } 2... exd4 { [%clk 0:02:59] } 3. c3 { [%clk 0:03:00] } 3... dxc3 { [%clk 0:02:58] } 4. Bc4 { [%clk 0:02:59] } 4... cxb2 { [%clk 0:02:58] } 5. Bxb2 { [%clk 0:02:57] } 5... b6 { [%clk 0:02:57] } 6. Qd5 { [%clk 0:02:54] } 6... Qe7 { [%clk 0:02:48] } 7. Qxa8 { [%clk 0:02:42] } 7... Qb4+ { [%clk 0:02:46] } 8. Bc3 { [%clk 0:02:36] } 8... Qxc4 { [%clk 0:02:42] } 9. Qxb8 { [%clk 0:02:35] } 9... Qxe4+ { [%clk 0:02:39] } 10. Ne2 { [%clk 0:02:33] } 10... Kd8 { [%clk 0:02:36] } 11. O-O { [%clk 0:02:28] } 11... h5 { [%clk 0:02:35] } 12. Ng3 { [%clk 0:02:27] } 12... Qc6 { [%clk 0:02:30] } 13. Re1 { [%clk 0:02:23] } 13... h4 { [%clk 0:02:28] } 14. Nf5 { [%clk 0:01:52] } 14... h3 { [%clk 0:02:03] } 15. Re8+ { [%clk 0:01:49] } 15... Kxe8 { [%clk 0:01:49] } 16. Qxc8# { [%clk 0:01:49] } 1-0

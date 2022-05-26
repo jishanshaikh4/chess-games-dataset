@@ -1,0 +1,17 @@
+[Event "20th Weekend Blitz Arena"]
+[Site "https://lichess.org/04d04JbR"]
+[Date "2021.09.19"]
+[White "Rsr1234"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.09.19"]
+[UTCTime "15:48:22"]
+[WhiteElo "1107"]
+[BlackElo "2141"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:56] } 2... cxd4 { [%clk 0:02:59] } 3. Nxd4 { [%clk 0:02:55] } 3... Nc6 { [%clk 0:02:58] } 4. Nxc6 { [%clk 0:02:53] } 4... bxc6 { [%clk 0:02:58] } 5. Nc3 { [%clk 0:02:51] } 5... e5 { [%clk 0:02:58] } 6. e3 { [%clk 0:02:50] } 6... d5 { [%clk 0:02:57] } 7. Bd3 { [%clk 0:02:43] } 7... f5 { [%clk 0:02:54] } 8. O-O { [%clk 0:02:41] } 8... Nf6 { [%clk 0:02:53] } 9. h3 { [%clk 0:02:40] } 9... e4 { [%clk 0:02:50] } 10. Be2 { [%clk 0:02:35] } 10... Bd6 { [%clk 0:02:49] } 11. a3 { [%clk 0:02:33] } 11... O-O { [%clk 0:02:48] } 12. f4 { [%clk 0:02:23] } 12... exf3 { [%clk 0:02:46] } 13. Bxf3 { [%clk 0:02:22] } 13... Bc7 { [%clk 0:02:45] } 14. Bh5 { [%clk 0:02:00] } 14... Qd6 { [%clk 0:02:41] } 15. Rf3 { [%clk 0:01:39] } 15... Nxh5 { [%clk 0:02:36] } 16. e4 { [%clk 0:01:33] } 16... fxe4 { [%clk 0:02:31] } 17. Rxf8+ { [%clk 0:01:31] } 17... Kxf8 { [%clk 0:02:28] } 18. Qf1+ { [%clk 0:01:29] } 18... Kg8 { [%clk 0:02:27] } 19. b4 { [%clk 0:00:38] } 19... Be6 { [%clk 0:02:23] } 20. Bb2 { [%clk 0:00:36] } 20... Rf8 { [%clk 0:02:21] } 21. Qe2 { [%clk 0:00:32] } 21... Qh2# { [%clk 0:02:20] } 0-1

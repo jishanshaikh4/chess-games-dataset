@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/Lr29Kpzt"]
+[Date "2021.08.19"]
+[White "Ajay2001"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.08.19"]
+[UTCTime "11:10:47"]
+[WhiteElo "1721"]
+[BlackElo "2102"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B02"]
+[Opening "Alekhine Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. Nc3 { [%clk 0:00:56] } 2... Ng4 { [%clk 0:00:58] } 3. Qxg4 { [%clk 0:00:55] } 3... c5 { [%clk 0:00:58] } 4. Nf3 { [%clk 0:00:52] } 4... e6 { [%clk 0:00:57] } 5. Ne5 { [%clk 0:00:50] } 5... Nc6 { [%clk 0:00:55] } 6. Nxc6 { [%clk 0:00:48] } 6... bxc6 { [%clk 0:00:55] } 7. e5 { [%clk 0:00:47] } 7... d5 { [%clk 0:00:55] } 8. d3 { [%clk 0:00:45] } 8... Ba6 { [%clk 0:00:53] } 9. Be2 { [%clk 0:00:44] } 9... f6 { [%clk 0:00:53] } 10. Qh5+ { [%clk 0:00:42] } 10... g6 { [%clk 0:00:50] } 11. Qf3 { [%clk 0:00:41] } 11... fxe5 { [%clk 0:00:48] } 12. O-O { [%clk 0:00:40] } 12... Bg7 { [%clk 0:00:47] } 13. Qg4 { [%clk 0:00:39] } 13... Qe7 { [%clk 0:00:45] } 14. Bg5 { [%clk 0:00:38] } 14... Qd7 { [%clk 0:00:44] } 15. f4 { [%clk 0:00:35] } 15... exf4 { [%clk 0:00:42] } 16. Bxf4 { [%clk 0:00:33] } 16... O-O { [%clk 0:00:40] } 17. Rae1 { [%clk 0:00:30] } 17... Rab8 { [%clk 0:00:37] } 18. Bxb8 { [%clk 0:00:29] } 18... Rxb8 { [%clk 0:00:37] } 19. Bf3 { [%clk 0:00:27] } 19... Rxb2 { [%clk 0:00:35] } 20. Rxe6 { [%clk 0:00:26] } 20... Rxc2 { [%clk 0:00:32] } 21. Rfe1 { [%clk 0:00:25] } 21... Bc8 { [%clk 0:00:26] } 22. Nxd5 { [%clk 0:00:22] } 22... cxd5 { [%clk 0:00:23] } 23. Bxd5 { [%clk 0:00:21] } 23... Qxd5 { [%clk 0:00:21] } 24. Re8+ { [%clk 0:00:20] } 24... Bf8 { [%clk 0:00:21] } 25. Qxc8 { [%clk 0:00:20] } 25... Qxg2# { [%clk 0:00:19] } 0-1

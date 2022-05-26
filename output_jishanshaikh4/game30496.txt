@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/0qroR2bP"]
+[Date "2019.08.10"]
+[White "jishanshaikh4"]
+[Black "fatiheren769"]
+[Result "1-0"]
+[UTCDate "2019.08.10"]
+[UTCTime "11:37:34"]
+[WhiteElo "1721"]
+[BlackElo "1281"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[Termination "Time forfeit"]
+
+1. d4 { [%clk 0:00:30] } 1... d5 { [%clk 0:00:30] } 2. Nf3 { [%clk 0:00:30] } 2... c6 { [%clk 0:00:28] } 3. c4 { [%clk 0:00:30] } 3... dxc4 { [%clk 0:00:25] } 4. e3 { [%clk 0:00:30] } 4... Bg4 { [%clk 0:00:21] } 5. Nc3 { [%clk 0:00:30] } 5... Nd7 { [%clk 0:00:19] } 6. Bxc4 { [%clk 0:00:29] } 6... Qc7 { [%clk 0:00:17] } 7. h3 { [%clk 0:00:28] } 7... e5 { [%clk 0:00:12] } 8. hxg4 { [%clk 0:00:26] } 8... exd4 { [%clk 0:00:11] } 9. Nxd4 { [%clk 0:00:26] } 9... c5 { [%clk 0:00:09] } 10. O-O { [%clk 0:00:26] } 10... cxd4 { [%clk 0:00:06] } 11. Qxd4 { [%clk 0:00:26] } 11... O-O-O { [%clk 0:00:05] } 12. Qe4 { [%clk 0:00:25] } 12... Bb4 { [%clk 0:00:03] } 13. Bxf7 { [%clk 0:00:23] } 13... Ngf6 { [%clk 0:00:03] } 14. Qc2 { [%clk 0:00:19] } 14... Nxg4 { [%clk 0:00:02] } 15. g3 { [%clk 0:00:15] } 15... Rhf8 { [%clk 0:00:02] } 16. f3 { [%clk 0:00:13] } 16... Rxf7 { [%clk 0:00:01] } 17. fxg4 { [%clk 0:00:11] } 1-0

@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/eHd2LndS"]
+[Date "2019.08.15"]
+[White "sanjeet9"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.08.15"]
+[UTCTime "17:59:18"]
+[WhiteElo "1126"]
+[BlackElo "1575"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B00"]
+[Opening "Ware Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... a5 { [%clk 0:03:00] } 2. Nc3 { [%clk 0:02:56] } 2... e5 { [%clk 0:02:38] } 3. Nf3 { [%clk 0:02:54] } 3... Ke7 { [%clk 0:02:35] } 4. Nxe5 { [%clk 0:02:51] } 4... Ke6 { [%clk 0:02:34] } 5. d4 { [%clk 0:02:49] } 5... b6 { [%clk 0:02:31] } 6. h4 { [%clk 0:02:40] } 6... Ne7 { [%clk 0:02:29] } 7. Bc4+ { [%clk 0:02:24] } 7... Kd6 { [%clk 0:02:22] } 8. Nxf7+ { [%clk 0:02:22] } 8... Kc6 { [%clk 0:02:19] } 9. Nxd8+ { [%clk 0:02:21] } 9... Kd6 { [%clk 0:02:18] } 10. e5# { [%clk 0:02:15] } 1-0

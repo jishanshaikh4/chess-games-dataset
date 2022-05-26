@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/WpiGplNn"]
+[Date "2019.08.24"]
+[White "Vinayakpower"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.08.24"]
+[UTCTime "09:15:28"]
+[WhiteElo "1421"]
+[BlackElo "1800"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Bc4 { [%clk 0:01:00] } 2... dxc4 { [%clk 0:00:59] } 3. d3 { [%clk 0:00:58] } 0-1

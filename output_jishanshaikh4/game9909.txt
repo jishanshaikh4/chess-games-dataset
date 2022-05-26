@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/7EuD3G4w"]
+[Date "2021.07.28"]
+[White "SourabhK_SDAH"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2021.07.28"]
+[UTCTime "14:07:45"]
+[WhiteElo "2113"]
+[BlackElo "2043"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+[Termination "Normal"]
+
+1. Nf3 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:03:00] } 2. c4 { [%clk 0:02:59] } 2... c6 { [%clk 0:02:59] } 3. Nc3 { [%clk 0:02:59] } 3... g6 { [%clk 0:02:59] } 4. e3 { [%clk 0:02:58] } 4... Bg7 { [%clk 0:02:59] } 5. Be2 { [%clk 0:02:58] } 5... O-O { [%clk 0:02:58] } 6. O-O { [%clk 0:02:58] } 6... Re8 { [%clk 0:02:57] } 7. b3 { [%clk 0:02:58] } 7... d5 { [%clk 0:02:57] } 8. Bb2 { [%clk 0:02:57] } 8... e6 { [%clk 0:02:57] } 9. d4 { [%clk 0:02:56] } 9... Nbd7 { [%clk 0:02:56] } 10. h3 { [%clk 0:02:55] } 10... a6 { [%clk 0:02:56] } 11. Ne5 { [%clk 0:02:55] } 11... h5 { [%clk 0:02:55] } 12. f4 { [%clk 0:02:54] } 12... Nxe5 { [%clk 0:02:55] } 13. fxe5 { [%clk 0:02:53] } 13... Nd7 { [%clk 0:02:55] } 14. cxd5 { [%clk 0:02:51] } 14... cxd5 { [%clk 0:02:55] } 15. Rc1 { [%clk 0:02:47] } 15... f6 { [%clk 0:02:54] } 16. exf6 { [%clk 0:02:35] } 16... Nxf6 { [%clk 0:02:54] } 17. Bd3 { [%clk 0:02:34] } 17... Bd7 { [%clk 0:02:51] } 18. Bxg6 { [%clk 0:02:33] } 18... Rf8 { [%clk 0:02:50] } 19. Bxh5 { [%clk 0:02:28] } 19... e5 { [%clk 0:02:49] } 20. dxe5 { [%clk 0:02:26] } 20... Nxh5 { [%clk 0:02:47] } 21. Qxh5 { [%clk 0:02:25] } 21... Qe7 { [%clk 0:02:46] } 22. Nxd5 { [%clk 0:02:20] } 22... Qe6 { [%clk 0:02:41] } 23. Nf6+ { [%clk 0:02:16] } 23... Bxf6 { [%clk 0:02:39] } 24. exf6 { [%clk 0:02:16] } 24... Qxe3+ { [%clk 0:02:33] } 25. Kh1 { [%clk 0:02:12] } 25... Rxf6 { [%clk 0:02:26] } 26. Rxf6 { [%clk 0:02:05] } 26... Bxh3 { [%clk 0:02:12] } 27. Qxh3 { [%clk 0:02:01] } 27... Qe2 { [%clk 0:02:07] } 28. Rcf1 { [%clk 0:00:53] } 28... Qxb2 { [%clk 0:02:03] } 1-0

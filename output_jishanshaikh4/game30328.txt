@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/PjmmGYlh"]
+[Date "2019.08.26"]
+[White "Majojohny1411"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.08.26"]
+[UTCTime "05:32:07"]
+[WhiteElo "1500"]
+[BlackElo "1648"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. exd5 { [%clk 0:02:59] } 2... Nf6 { [%clk 0:03:00] } 3. Nc3 { [%clk 0:02:58] } 3... Nxd5 { [%clk 0:02:59] } 4. Nxd5 { [%clk 0:02:58] } 4... Qxd5 { [%clk 0:02:59] } 5. d4 { [%clk 0:02:57] } 5... Qd8 { [%clk 0:02:59] } 6. Ne2 { [%clk 0:02:56] } 6... Nc6 { [%clk 0:02:59] } 7. Nc3 { [%clk 0:02:56] } 7... Bg4 { [%clk 0:02:58] } 8. Be3 { [%clk 0:02:55] } 8... Bxd1 { [%clk 0:02:57] } 9. f3 { [%clk 0:02:55] } 9... Bxc2 { [%clk 0:02:55] } 0-1

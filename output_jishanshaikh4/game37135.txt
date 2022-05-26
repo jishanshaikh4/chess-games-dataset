@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/dgREiVCw"]
+[Date "2018.10.08"]
+[White "johnsterson"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.10.08"]
+[UTCTime "11:21:53"]
+[WhiteElo "1126"]
+[BlackElo "1176"]
+[Variant "Standard"]
+[TimeControl "180+7"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Fried Liver Attack"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:06] } 2... Nc6 { [%clk 0:03:05] } 3. Bc4 { [%clk 0:03:12] } 3... Nf6 { [%clk 0:03:09] } 4. Ng5 { [%clk 0:03:18] } 4... d5 { [%clk 0:03:15] } 5. exd5 { [%clk 0:03:22] } 5... Nxd5 { [%clk 0:03:21] } 6. Nxf7 { [%clk 0:03:27] } 6... Kxf7 { [%clk 0:03:25] } 7. Qf3+ { [%clk 0:03:33] } 7... Ke8 { [%clk 0:03:29] } 8. Bxd5 { [%clk 0:03:37] } 8... Nd4 { [%clk 0:03:30] } 9. Qf7# { [%clk 0:03:35] } 1-0

@@ -1,0 +1,17 @@
+[Event "InterNIT Lockdown Team Battle"]
+[Site "https://lichess.org/Yzud7m1x"]
+[Date "2020.04.30"]
+[White "jishanshaikh4"]
+[Black "CaissaHirak"]
+[Result "0-1"]
+[UTCDate "2020.04.30"]
+[UTCTime "17:05:20"]
+[WhiteElo "1749"]
+[BlackElo "1919"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Abandoned"]
+
+0-1

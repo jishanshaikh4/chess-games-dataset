@@ -1,0 +1,17 @@
+[Event "AICL IITKBHU vs NITUNITED Arena"]
+[Site "https://lichess.org/N8oaW8oS"]
+[Date "2020.03.23"]
+[White "jishanshaikh4"]
+[Black "Hirthickkesh"]
+[Result "0-1"]
+[UTCDate "2020.03.23"]
+[UTCTime "16:49:45"]
+[WhiteElo "1862"]
+[BlackElo "1754"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:02:00] } 1... d5 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:01:59] } 2... Nf6 { [%clk 0:01:59] } 3. Bf4 { [%clk 0:01:58] } 3... c6 { [%clk 0:01:58] } 4. e3 { [%clk 0:01:57] } 4... Bf5 { [%clk 0:01:57] } 5. c4 { [%clk 0:01:56] } 5... Qb6 { [%clk 0:01:56] } 6. b3 { [%clk 0:01:55] } 6... e6 { [%clk 0:01:54] } 7. Nc3 { [%clk 0:01:54] } 7... Bb4 { [%clk 0:01:53] } 8. Qc1 { [%clk 0:01:52] } 8... Ne4 { [%clk 0:01:52] } 9. Nd2 { [%clk 0:01:36] } 9... Bxc3 { [%clk 0:01:51] } 10. Rb1 { [%clk 0:01:35] } 10... Bxd2+ { [%clk 0:01:49] } 11. Qxd2 { [%clk 0:01:34] } 11... Nxd2 { [%clk 0:01:49] } 12. Kxd2 { [%clk 0:01:34] } 12... Nd7 { [%clk 0:01:48] } 13. Bd3 { [%clk 0:01:33] } 13... Bxd3 { [%clk 0:01:44] } 14. Kxd3 { [%clk 0:01:33] } 14... O-O { [%clk 0:01:42] } 15. cxd5 { [%clk 0:01:32] } 15... cxd5 { [%clk 0:01:40] } 16. Rhc1 { [%clk 0:01:32] } 16... Rac8 { [%clk 0:01:40] } 17. Rd1 { [%clk 0:01:25] } 17... Qa6+ { [%clk 0:01:39] } 18. Kd2 { [%clk 0:01:24] } 18... Qxa2+ { [%clk 0:01:38] } 19. Kd3 { [%clk 0:01:22] } 19... Qc2# { [%clk 0:01:36] } 0-1

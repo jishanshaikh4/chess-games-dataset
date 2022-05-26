@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/vn4UcLuH"]
+[Date "2021.04.16"]
+[White "jishanshaikh4"]
+[Black "HookedOnTea"]
+[Result "0-1"]
+[UTCDate "2021.04.16"]
+[UTCTime "13:05:46"]
+[WhiteElo "2100"]
+[BlackElo "2061"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... c6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... d5 { [%clk 0:01:00] } 3. exd5 { [%clk 0:01:00] } 3... c5 { [%clk 0:01:00] } 4. d4 { [%clk 0:01:00] } 4... cxd4 { [%clk 0:00:59] } 5. Nxd4 { [%clk 0:00:59] } 5... Nf6 { [%clk 0:00:59] } 6. c4 { [%clk 0:00:58] } 6... b5 { [%clk 0:00:58] } 7. b3 { [%clk 0:00:57] } 7... bxc4 { [%clk 0:00:56] } 8. bxc4 { [%clk 0:00:57] } 8... Bg4 { [%clk 0:00:48] } 9. Qa4+ { [%clk 0:00:55] } 9... Nbd7 { [%clk 0:00:46] } 10. f3 { [%clk 0:00:53] } 10... Bh5 { [%clk 0:00:44] } 11. c5 { [%clk 0:00:53] } 11... Nxd5 { [%clk 0:00:41] } 12. Bb5 { [%clk 0:00:52] } 12... e5 { [%clk 0:00:35] } 13. Nc6 { [%clk 0:00:50] } 13... Qc7 { [%clk 0:00:32] } 14. O-O { [%clk 0:00:49] } 14... Bxc5+ { [%clk 0:00:30] } 15. Kh1 { [%clk 0:00:47] } 15... O-O { [%clk 0:00:29] } 16. Bg5 { [%clk 0:00:41] } 16... N7b6 { [%clk 0:00:28] } 17. Qb3 { [%clk 0:00:39] } 17... a6 { [%clk 0:00:26] } 18. Ne7+ { [%clk 0:00:37] } 18... Bxe7 { [%clk 0:00:24] } 19. Bxe7 { [%clk 0:00:36] } 19... Qxe7 { [%clk 0:00:24] } 20. Bd3 { [%clk 0:00:35] } 20... Bg6 { [%clk 0:00:21] } 21. Nd2 { [%clk 0:00:34] } 21... Bxd3 { [%clk 0:00:19] } 22. Qxd3 { [%clk 0:00:34] } 22... f5 { [%clk 0:00:18] } 23. Nb3 { [%clk 0:00:32] } 23... Kh8 { [%clk 0:00:16] } 24. Rac1 { [%clk 0:00:25] } 24... e4 { [%clk 0:00:15] } 25. fxe4 { [%clk 0:00:20] } 25... fxe4 { [%clk 0:00:15] } 26. Rxf8+ { [%clk 0:00:19] } 26... Rxf8 { [%clk 0:00:14] } 27. Qxe4 { [%clk 0:00:19] } 27... Qxe4 { [%clk 0:00:13] } 28. h3 { [%clk 0:00:17] } 28... Ne3 { [%clk 0:00:12] } 29. Re1 { [%clk 0:00:16] } 29... Qxg2# { [%clk 0:00:11] } 0-1

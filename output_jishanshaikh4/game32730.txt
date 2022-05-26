@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/irle27ZJ"]
+[Date "2019.05.23"]
+[White "edi1991"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.05.23"]
+[UTCTime "08:47:26"]
+[WhiteElo "1802"]
+[BlackElo "1602"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. e5 { [%clk 0:00:59] } 0-1

@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/iZbwhETJ"]
+[Date "2019.01.07"]
+[White "jishanshaikh4"]
+[Black "A10Pilot"]
+[Result "0-1"]
+[UTCDate "2019.01.07"]
+[UTCTime "14:40:16"]
+[WhiteElo "1320"]
+[BlackElo "1427"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Lean Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... Nc6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... f5 { [%clk 0:00:59] } 3. Qe2 { [%clk 0:00:57] } 3... fxe4 { [%clk 0:00:59] } 4. Qxe4 { [%clk 0:00:57] } 4... d5 { [%clk 0:00:59] } 5. Qd3 { [%clk 0:00:54] } 5... e5 { [%clk 0:00:56] } 6. Qe2 { [%clk 0:00:51] } 6... e4 { [%clk 0:00:55] } 7. Qd1 { [%clk 0:00:51] } 7... exf3 { [%clk 0:00:53] } 8. Qxf3 { [%clk 0:00:49] } 8... Qf6 { [%clk 0:00:52] } 9. Qb3 { [%clk 0:00:43] } 9... Nd4 { [%clk 0:00:47] } 10. Qxd5 { [%clk 0:00:35] } 10... c5 { [%clk 0:00:44] } 11. Na3 { [%clk 0:00:32] } 11... Be6 { [%clk 0:00:39] } 12. Qe4 { [%clk 0:00:26] } 12... c4 { [%clk 0:00:33] } 13. c3 { [%clk 0:00:23] } 13... Bxa3 { [%clk 0:00:31] } 14. cxd4 { [%clk 0:00:21] } 14... Ne7 { [%clk 0:00:29] } 15. bxa3 { [%clk 0:00:18] } 15... O-O { [%clk 0:00:28] } 16. Bb2 { [%clk 0:00:17] } 16... Rae8 { [%clk 0:00:26] } 17. O-O-O { [%clk 0:00:11] } 17... Bf5 { [%clk 0:00:26] } 18. Qf3 { [%clk 0:00:09] } 18... Nc6 { [%clk 0:00:26] } 19. Be2 { [%clk 0:00:06] } 19... Qf7 { [%clk 0:00:25] } 20. Rde1 { [%clk 0:00:04] } 20... Be6 { [%clk 0:00:23] } 21. Bf1 { [%clk 0:00:01] } 21... b5 { [%clk 0:00:22] } 22. Re3 { [%clk 0:00:01] } 22... Qxf3 { [%clk 0:00:21] } 0-1

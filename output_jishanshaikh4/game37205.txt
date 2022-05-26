@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/gEldmkVQ"]
+[Date "2018.09.25"]
+[White "jishanshaikh4"]
+[Black "zwiebel_sauce"]
+[Result "1-0"]
+[UTCDate "2018.09.25"]
+[UTCTime "17:47:45"]
+[WhiteElo "1286"]
+[BlackElo "1221"]
+[Variant "Standard"]
+[TimeControl "300+5"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:05:00] } 1... c6 { [%clk 0:05:00] } 2. d4 { [%clk 0:05:03] } 2... d5 { [%clk 0:05:03] } 3. Nc3 { [%clk 0:05:04] } 3... dxe4 { [%clk 0:04:53] } 4. Nxe4 { [%clk 0:05:07] } 4... Bf5 { [%clk 0:04:41] } 5. Bd3 { [%clk 0:05:06] } 5... e6 { [%clk 0:04:26] } 6. g4 { [%clk 0:05:02] } 6... Bg6 { [%clk 0:04:21] } 7. Ng5 { [%clk 0:05:00] } 7... Bxd3 { [%clk 0:03:55] } 8. Qxd3 { [%clk 0:05:02] } 8... h6 { [%clk 0:03:50] } 9. N5f3 { [%clk 0:04:59] } 9... Nd7 { [%clk 0:03:38] } 10. g5 { [%clk 0:05:04] } 10... h5 { [%clk 0:03:30] } 11. g6 { [%clk 0:04:46] } 11... fxg6 { [%clk 0:03:33] } 12. Qxg6+ { [%clk 0:04:48] } 12... Ke7 { [%clk 0:03:37] } 13. Bg5+ { [%clk 0:04:49] } 13... Kd6 { [%clk 0:03:39] } 14. Bxd8 { [%clk 0:04:52] } 1-0

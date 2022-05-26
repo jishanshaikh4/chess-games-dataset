@@ -1,0 +1,17 @@
+[Event "All India Chess League Finals  Team Battle"]
+[Site "https://lichess.org/hrkYQRuX"]
+[Date "2020.03.30"]
+[White "MMjay"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2020.03.30"]
+[UTCTime "13:47:05"]
+[WhiteElo "1333"]
+[BlackElo "1839"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... c5 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:01:59] } 2... e6 { [%clk 0:01:58] } 3. Bc4 { [%clk 0:01:58] } 3... Nf6 { [%clk 0:01:57] } 4. c3 { [%clk 0:01:56] } 4... Nc6 { [%clk 0:01:57] } 5. d4 { [%clk 0:01:54] } 5... cxd4 { [%clk 0:01:57] } 6. cxd4 { [%clk 0:01:53] } 6... Bb4+ { [%clk 0:01:55] } 7. Nc3 { [%clk 0:01:48] } 7... Qa5 { [%clk 0:01:54] } 8. Bd2 { [%clk 0:01:45] } 8... O-O { [%clk 0:01:52] } 9. d5 { [%clk 0:01:41] } 9... exd5 { [%clk 0:01:50] } 10. exd5 { [%clk 0:01:39] } 10... Ne7 { [%clk 0:01:47] } 11. O-O { [%clk 0:01:35] } 11... Bxc3 { [%clk 0:01:41] } 12. Bxc3 { [%clk 0:01:31] } 12... Qb6 { [%clk 0:01:39] } 13. Bxf6 { [%clk 0:01:28] } 13... gxf6 { [%clk 0:01:37] } 14. d6 { [%clk 0:01:23] } 14... Ng6 { [%clk 0:01:35] } 15. b3 { [%clk 0:01:18] } 15... Qc6 { [%clk 0:01:34] } 16. h3 { [%clk 0:01:16] } 16... b6 { [%clk 0:01:33] } 17. Qd3 { [%clk 0:01:12] } 17... Bb7 { [%clk 0:01:32] } 18. Qf5 { [%clk 0:01:06] } 18... Ne5 { [%clk 0:01:28] } 19. Nxe5 { [%clk 0:01:04] } 19... Qxg2# { [%clk 0:01:26] } 0-1

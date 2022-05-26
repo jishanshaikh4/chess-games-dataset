@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/SbdTPKas"]
+[Date "2019.08.26"]
+[White "ulan79"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.08.26"]
+[UTCTime "06:11:38"]
+[WhiteElo "1194"]
+[BlackElo "1648"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. e5 { [%clk 0:02:59] } 2... d4 { [%clk 0:02:59] } 3. c3 { [%clk 0:02:57] } 3... Nc6 { [%clk 0:02:58] } 4. Bb5 { [%clk 0:02:53] } 4... dxc3 { [%clk 0:02:57] } 5. Bxc6+ { [%clk 0:02:50] } 5... Bd7 { [%clk 0:02:51] } 6. Bxb7 { [%clk 0:02:41] } 6... Rb8 { [%clk 0:02:49] } 7. Qb3 { [%clk 0:02:27] } 7... Bc6 { [%clk 0:02:46] } 8. Bxc6+ { [%clk 0:02:21] } 8... Qd7 { [%clk 0:02:45] } 9. Qxb8# { [%clk 0:02:16] } 1-0

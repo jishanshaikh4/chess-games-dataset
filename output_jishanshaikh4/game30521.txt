@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/i03sc4Cy"]
+[Date "2019.08.09"]
+[White "Arivald88"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.08.09"]
+[UTCTime "15:21:26"]
+[WhiteElo "1151"]
+[BlackElo "1723"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:00:30] } 1... d5 { [%clk 0:00:30] } 2. c4 { [%clk 0:00:30] } 2... Nf6 { [%clk 0:00:30] } 3. cxd5 { [%clk 0:00:29] } 3... e6 { [%clk 0:00:30] } 4. Nc3 { [%clk 0:00:28] } 4... Be7 { [%clk 0:00:29] } 5. Nf3 { [%clk 0:00:28] } 5... O-O { [%clk 0:00:29] } 6. dxe6 { [%clk 0:00:27] } 6... fxe6 { [%clk 0:00:28] } 7. e3 { [%clk 0:00:27] } 7... e5 { [%clk 0:00:28] } 8. Bd2 { [%clk 0:00:26] } 8... exd4 { [%clk 0:00:27] } 9. exd4 { [%clk 0:00:26] } 9... c6 { [%clk 0:00:27] } 10. Qc2 { [%clk 0:00:25] } 10... Nbd7 { [%clk 0:00:27] } 11. O-O-O { [%clk 0:00:25] } 11... Nb6 { [%clk 0:00:26] } 12. Be3 { [%clk 0:00:24] } 12... Nbd5 { [%clk 0:00:26] } 13. Nxd5 { [%clk 0:00:23] } 13... cxd5 { [%clk 0:00:26] } 14. Ne5 { [%clk 0:00:22] } 14... Bd6 { [%clk 0:00:25] } 15. Qf5 { [%clk 0:00:20] } 15... Bxe5 { [%clk 0:00:25] } 16. Qxe5 { [%clk 0:00:20] } 1-0

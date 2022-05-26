@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/DHwDbdxm"]
+[Date "2019.08.24"]
+[White "veteranov"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.08.24"]
+[UTCTime "06:49:31"]
+[WhiteElo "1438"]
+[BlackElo "1800"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Indian Defense"]
+[Termination "Time forfeit"]
+
+1. g3 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. Bg2 { [%clk 0:01:00] } 2... d5 { [%clk 0:01:00] } 3. d3 { [%clk 0:01:00] } 3... e5 { [%clk 0:01:00] } 4. Nf3 { [%clk 0:00:59] } 4... Bd6 { [%clk 0:01:00] } 5. O-O { [%clk 0:00:58] } 5... Be6 { [%clk 0:00:59] } 6. Re1 { [%clk 0:00:58] } 6... Qd7 { [%clk 0:00:59] } 7. Bg5 { [%clk 0:00:57] } 7... Bh3 { [%clk 0:00:58] } 8. Bh1 { [%clk 0:00:56] } 8... Be6 { [%clk 0:00:56] } 9. Nbd2 { [%clk 0:00:54] } 9... Nc6 { [%clk 0:00:55] } 10. e4 { [%clk 0:00:53] } 10... O-O-O { [%clk 0:00:54] } 11. exd5 { [%clk 0:00:43] } 11... Bxd5 { [%clk 0:00:54] } 12. c4 { [%clk 0:00:39] } 12... Be6 { [%clk 0:00:53] } 13. Rb1 { [%clk 0:00:34] } 13... Rde8 { [%clk 0:00:49] } 14. a3 { [%clk 0:00:23] } 14... h6 { [%clk 0:00:48] } 15. Be3 { [%clk 0:00:18] } 15... g5 { [%clk 0:00:47] } 16. b4 { [%clk 0:00:15] } 16... g4 { [%clk 0:00:40] } 17. b5 { [%clk 0:00:13] } 17... gxf3 { [%clk 0:00:36] } 18. bxc6 { [%clk 0:00:11] } 18... Qxc6 { [%clk 0:00:35] } 19. Bxf3 { [%clk 0:00:09] } 19... b6 { [%clk 0:00:34] } 20. Bxc6 { [%clk 0:00:08] } 20... Bd7 { [%clk 0:00:32] } 21. Bxd7+ { [%clk 0:00:07] } 21... Kxd7 { [%clk 0:00:32] } 22. Nb3 { [%clk 0:00:05] } 22... Reg8 { [%clk 0:00:31] } 23. d4 { [%clk 0:00:03] } 23... exd4 { [%clk 0:00:30] } 24. Nxd4 { [%clk 0:00:02] } 24... h5 { [%clk 0:00:28] } 25. Nb5 { [%clk 0:00:02] } 25... h4 { [%clk 0:00:26] } 26. Nxd6 { [%clk 0:00:02] } 26... Kc6 { [%clk 0:00:24] } 27. Nb5 { [%clk 0:00:00] } 27... hxg3 { [%clk 0:00:24] } 0-1

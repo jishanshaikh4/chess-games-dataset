@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/bxRSa17v"]
+[Date "2019.10.01"]
+[White "jishanshaikh4"]
+[Black "lichess AI level 6"]
+[Result "0-1"]
+[UTCDate "2019.10.01"]
+[UTCTime "21:10:52"]
+[WhiteElo "1872"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Reversed Sicilian"]
+[Termination "Time forfeit"]
+
+1. c4 { [%clk 0:02:00] } 1... e5 { [%clk 0:02:00] } 2. Nc3 { [%clk 0:02:01] } 2... c5 { [%clk 0:02:00] } 3. e3 { [%clk 0:02:02] } 3... Nf6 { [%clk 0:02:01] } 4. Nf3 { [%clk 0:02:02] } 4... Nc6 { [%clk 0:02:01] } 5. d4 { [%clk 0:02:02] } 5... cxd4 { [%clk 0:02:01] } 6. exd4 { [%clk 0:02:02] } 6... Nxd4 { [%clk 0:02:01] } 7. Nxd4 { [%clk 0:02:03] } 7... exd4 { [%clk 0:02:02] } 8. Qxd4 { [%clk 0:02:03] } 8... b6 { [%clk 0:02:01] } 9. Be2 { [%clk 0:02:04] } 9... Bb7 { [%clk 0:02:01] } 10. O-O { [%clk 0:02:05] } 10... h5 { [%clk 0:02:01] } 11. Re1 { [%clk 0:02:04] } 11... Be7 { [%clk 0:02:01] } 12. g3 { [%clk 0:02:05] } 12... Kf8 { [%clk 0:02:01] } 13. Bf1 { [%clk 0:02:05] } 13... h4 { [%clk 0:02:01] } 14. Bg2 { [%clk 0:02:05] } 14... Bxg2 { [%clk 0:02:00] } 15. Kxg2 { [%clk 0:02:06] } 15... hxg3 { [%clk 0:02:00] } 16. fxg3 { [%clk 0:02:07] } 16... Qc8 { [%clk 0:02:00] } 17. Qe5 { [%clk 0:02:00] } 17... Qc6+ { [%clk 0:02:00] } 18. Kg1 { [%clk 0:01:57] } 18... Bd6 { [%clk 0:01:59] } 0-1

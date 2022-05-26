@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/FuXOpWEP"]
+[Date "2018.11.22"]
+[White "jishanshaikh4"]
+[Black "fokss"]
+[Result "0-1"]
+[UTCDate "2018.11.22"]
+[UTCTime "13:28:30"]
+[WhiteElo "1400"]
+[BlackElo "1541"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... e5 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:01:59] } 2... d6 { [%clk 0:01:59] } 3. d4 { [%clk 0:01:59] } 3... exd4 { [%clk 0:01:57] } 4. Nxd4 { [%clk 0:01:57] } 4... Nf6 { [%clk 0:01:51] } 5. Bg5 { [%clk 0:01:53] } 5... Be7 { [%clk 0:01:50] } 6. Nc3 { [%clk 0:01:51] } 6... O-O { [%clk 0:01:48] } 7. Bc4 { [%clk 0:01:49] } 7... a6 { [%clk 0:01:46] } 8. a4 { [%clk 0:01:46] } 8... Nbd7 { [%clk 0:01:38] } 9. Nd5 { [%clk 0:01:44] } 9... Nxd5 { [%clk 0:01:36] } 10. Bxe7 { [%clk 0:01:35] } 10... Nxe7 { [%clk 0:01:32] } 0-1

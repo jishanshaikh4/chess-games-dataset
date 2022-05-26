@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/WW5K9CDO"]
+[Date "2018.11.22"]
+[White "fokss"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.11.22"]
+[UTCTime "13:16:11"]
+[WhiteElo "1541"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Scandinavian Defense"]
+[Termination "Time forfeit"]
+
+1. c4 { [%clk 0:02:00] } 1... d5 { [%clk 0:02:00] } 2. cxd5 { [%clk 0:01:58] } 2... Qxd5 { [%clk 0:01:34] } 3. Nc3 { [%clk 0:01:55] } 3... Qc6 { [%clk 0:01:30] } 4. d4 { [%clk 0:01:52] } 4... Nf6 { [%clk 0:01:27] } 5. Nf3 { [%clk 0:01:48] } 5... e6 { [%clk 0:01:25] } 6. Bf4 { [%clk 0:01:43] } 6... Bb4 { [%clk 0:01:23] } 7. Rc1 { [%clk 0:01:41] } 7... O-O { [%clk 0:01:20] } 8. e3 { [%clk 0:01:34] } 8... Re8 { [%clk 0:01:15] } 9. Bd3 { [%clk 0:01:31] } 9... Nbd7 { [%clk 0:01:07] } 10. O-O { [%clk 0:01:30] } 10... Nb6 { [%clk 0:01:06] } 11. Ne5 { [%clk 0:01:28] } 11... Qd6 { [%clk 0:00:29] } 12. Nxf7 { [%clk 0:01:25] } 12... Qe7 { [%clk 0:00:28] } 13. Ne5 { [%clk 0:01:11] } 13... Bd7 { [%clk 0:00:24] } 14. Bg5 { [%clk 0:01:05] } 14... h6 { [%clk 0:00:22] } 15. Bxf6 { [%clk 0:01:02] } 15... Qxf6 { [%clk 0:00:20] } 16. Ne4 { [%clk 0:00:58] } 16... Qe7 { [%clk 0:00:18] } 17. Ng6 { [%clk 0:00:56] } 17... Qd8 { [%clk 0:00:15] } 18. a3 { [%clk 0:00:43] } 18... Bf8 { [%clk 0:00:12] } 19. Nc5 { [%clk 0:00:40] } 19... Nd5 { [%clk 0:00:10] } 20. e4 { [%clk 0:00:34] } 20... Ne7 { [%clk 0:00:08] } 21. Ne5 { [%clk 0:00:30] } 21... Nc6 { [%clk 0:00:04] } 22. Ncxd7 { [%clk 0:00:27] } 22... Qxd7 { [%clk 0:00:02] } 23. Ng6 { [%clk 0:00:25] } 1-0

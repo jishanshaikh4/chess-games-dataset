@@ -1,0 +1,17 @@
+[Event "AICL IIT Bombay vs NITs United Arena"]
+[Site "https://lichess.org/6OQuEiSv"]
+[Date "2020.03.25"]
+[White "jishanshaikh4"]
+[Black "Angel2404"]
+[Result "1-0"]
+[UTCDate "2020.03.25"]
+[UTCTime "17:19:18"]
+[WhiteElo "1847"]
+[BlackElo "1187"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:02:00] } 1... e6 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:02:00] } 2... d5 { [%clk 0:02:00] } 3. Bf4 { [%clk 0:01:59] } 3... c5 { [%clk 0:01:59] } 4. e3 { [%clk 0:01:58] } 4... Nc6 { [%clk 0:01:58] } 5. c4 { [%clk 0:01:58] } 5... dxc4 { [%clk 0:01:56] } 6. Bxc4 { [%clk 0:01:56] } 6... Nf6 { [%clk 0:01:55] } 7. O-O { [%clk 0:01:55] } 7... Be7 { [%clk 0:01:54] } 8. Nc3 { [%clk 0:01:54] } 8... O-O { [%clk 0:01:52] } 9. Bb5 { [%clk 0:01:53] } 9... a6 { [%clk 0:01:51] } 10. Ba4 { [%clk 0:01:52] } 10... b5 { [%clk 0:01:48] } 11. Bc2 { [%clk 0:01:51] } 11... b4 { [%clk 0:01:46] } 12. Ne2 { [%clk 0:01:50] } 12... Bd6 { [%clk 0:01:43] } 13. Ne5 { [%clk 0:01:49] } 13... Nxe5 { [%clk 0:01:40] } 14. dxe5 { [%clk 0:01:48] } 14... Bxe5 { [%clk 0:01:38] } 15. Bxe5 { [%clk 0:01:48] } 15... Qxd1 { [%clk 0:01:37] } 16. Rfxd1 { [%clk 0:01:48] } 16... Ne4 { [%clk 0:01:36] } 17. Bxe4 { [%clk 0:01:46] } 17... f6 { [%clk 0:01:35] } 18. Bxa8 { [%clk 0:01:45] } 1-0

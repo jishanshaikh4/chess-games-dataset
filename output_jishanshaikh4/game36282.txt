@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/bdIkm5va"]
+[Date "2018.11.28"]
+[White "jishanshaikh4"]
+[Black "lisovets1982"]
+[Result "1-0"]
+[UTCDate "2018.11.28"]
+[UTCTime "16:44:42"]
+[WhiteElo "1245"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[Termination "Time forfeit"]
+
+1. g3 { [%clk 0:00:15] } 1... e5 { [%clk 0:00:15] } 2. Bg2 { [%clk 0:00:15] } 2... c6 { [%clk 0:00:10] } 3. Nf3 { [%clk 0:00:15] } 3... b5 { [%clk 0:00:08] } 4. O-O { [%clk 0:00:15] } 4... Bb7 { [%clk 0:00:06] } 5. Re1 { [%clk 0:00:15] } 1-0

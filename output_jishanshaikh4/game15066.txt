@@ -1,0 +1,18 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/GVibzbES"]
+[Date "2021.03.12"]
+[White "RandomMoverBot"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.03.12"]
+[UTCTime "12:15:05"]
+[WhiteElo "984"]
+[BlackElo "1999"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "A00"]
+[Opening "Gedult's Opening"]
+[Termination "Time forfeit"]
+
+1. f3 { [%clk 0:00:30] } 1... c6 { [%clk 0:00:30] } 2. d3 { [%clk 0:00:30] } 2... d5 { [%clk 0:00:30] } 3. a4 { [%clk 0:00:30] } 3... e6 { [%clk 0:00:30] } 4. e3 { [%clk 0:00:30] } 4... Nf6 { [%clk 0:00:29] } 5. b4 { [%clk 0:00:30] } 5... Be7 { [%clk 0:00:29] } 6. Nc3 { [%clk 0:00:30] } 6... O-O { [%clk 0:00:29] } 7. g3 { [%clk 0:00:30] } 7... b6 { [%clk 0:00:29] } 8. Nxd5 { [%clk 0:00:30] } 8... c5 { [%clk 0:00:29] } 9. Ra2 { [%clk 0:00:30] } 9... Nxd5 { [%clk 0:00:28] } 10. Ke2 { [%clk 0:00:30] } 10... cxb4 { [%clk 0:00:28] } 11. Ra3 { [%clk 0:00:30] } 11... b3 { [%clk 0:00:28] } 0-1

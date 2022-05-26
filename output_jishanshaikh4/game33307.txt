@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/6WvRK3VM"]
+[Date "2019.04.10"]
+[White "jishanshaikh4"]
+[Black "yuvii"]
+[Result "1-0"]
+[UTCDate "2019.04.10"]
+[UTCTime "18:26:50"]
+[WhiteElo "1609"]
+[BlackElo "1515"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... Nf6 { [%clk 0:00:59] } 3. Bb5 { [%clk 0:00:59] } 3... Nc6 { [%clk 0:00:58] } 4. d4 { [%clk 0:00:57] } 4... exd4 { [%clk 0:00:54] } 5. Nxd4 { [%clk 0:00:57] } 5... Bc5 { [%clk 0:00:50] } 6. Nxc6 { [%clk 0:00:55] } 6... bxc6 { [%clk 0:00:40] } 7. Bd3 { [%clk 0:00:55] } 7... O-O { [%clk 0:00:29] } 8. Be3 { [%clk 0:00:55] } 8... Bxe3 { [%clk 0:00:25] } 9. fxe3 { [%clk 0:00:55] } 9... d5 { [%clk 0:00:21] } 10. exd5 { [%clk 0:00:54] } 10... cxd5 { [%clk 0:00:04] } 11. c3 { [%clk 0:00:51] } 1-0

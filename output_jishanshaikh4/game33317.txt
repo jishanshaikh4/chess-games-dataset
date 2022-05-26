@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/FDbtqeRD"]
+[Date "2019.04.09"]
+[White "jishanshaikh4"]
+[Black "JuztCheckIN"]
+[Result "0-1"]
+[UTCDate "2019.04.09"]
+[UTCTime "19:55:29"]
+[WhiteElo "1609"]
+[BlackElo "2003"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... dxe4 { [%clk 0:00:59] } 3. Ng5 { [%clk 0:01:00] } 3... Qd5 { [%clk 0:00:59] } 4. Nh3 { [%clk 0:00:57] } 4... Bxh3 { [%clk 0:00:57] } 5. gxh3 { [%clk 0:00:56] } 5... Nc6 { [%clk 0:00:56] } 6. Qg4 { [%clk 0:00:55] } 6... f5 { [%clk 0:00:53] } 7. Qh5+ { [%clk 0:00:52] } 7... g6 { [%clk 0:00:52] } 8. Qe2 { [%clk 0:00:51] } 8... Nf6 { [%clk 0:00:51] } 9. Qc4 { [%clk 0:00:51] } 9... Qe5 { [%clk 0:00:47] } 10. Nc3 { [%clk 0:00:49] } 10... O-O-O { [%clk 0:00:46] } 11. d4 { [%clk 0:00:48] } 11... exd3+ { [%clk 0:00:44] } 12. Kd2 { [%clk 0:00:44] } 12... dxc2+ { [%clk 0:00:43] } 13. Kxc2 { [%clk 0:00:44] } 13... Rd4 { [%clk 0:00:40] } 14. Qb5 { [%clk 0:00:41] } 14... Nb4+ { [%clk 0:00:35] } 15. Kb3 { [%clk 0:00:38] } 15... c5 { [%clk 0:00:30] } 16. a3 { [%clk 0:00:33] } 16... Qe6+ { [%clk 0:00:29] } 17. Ka4 { [%clk 0:00:29] } 17... Nc2+ { [%clk 0:00:28] } 18. Ka5 { [%clk 0:00:26] } 18... b6+ { [%clk 0:00:26] } 19. Ka6 { [%clk 0:00:26] } 19... Nxa1 { [%clk 0:00:19] } 20. Be3 { [%clk 0:00:24] } 20... Rd7 { [%clk 0:00:14] } 21. Bg2 { [%clk 0:00:22] } 21... Ne4 { [%clk 0:00:12] } 22. Nxe4 { [%clk 0:00:21] } 22... fxe4 { [%clk 0:00:12] } 23. h4 { [%clk 0:00:18] } 23... Qd5 { [%clk 0:00:11] } 24. Rxa1 { [%clk 0:00:17] } 24... Qb7# { [%clk 0:00:10] } 0-1

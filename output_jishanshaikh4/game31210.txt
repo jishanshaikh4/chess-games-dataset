@@ -1,0 +1,17 @@
+[Event "64th GM Arena"]
+[Site "https://lichess.org/CSdmaIoC"]
+[Date "2019.07.22"]
+[White "sanjeet9"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.07.22"]
+[UTCTime "16:53:37"]
+[WhiteElo "1225"]
+[BlackElo "1718"]
+[Variant "Standard"]
+[TimeControl "90+0"]
+[ECO "C00"]
+[Opening "Queen's Pawn Game: Franco-Sicilian Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:30] } 1... c5 { [%clk 0:01:30] } 2. d4 { [%clk 0:01:28] } 2... e6 { [%clk 0:01:29] } 3. dxc5 { [%clk 0:01:27] } 3... Bxc5 { [%clk 0:01:29] } 4. Be3 { [%clk 0:01:26] } 4... Nc6 { [%clk 0:01:29] } 5. Bxc5 { [%clk 0:01:25] } 5... Qa5+ { [%clk 0:01:27] } 6. Nc3 { [%clk 0:01:23] } 6... Qxc5 { [%clk 0:01:26] } 7. a4 { [%clk 0:01:20] } 7... Nf6 { [%clk 0:01:22] } 8. b3 { [%clk 0:01:19] } 8... Qxc3+ { [%clk 0:01:13] } 9. Ke2 { [%clk 0:01:16] } 9... Nxe4 { [%clk 0:01:08] } 10. Nf3 { [%clk 0:01:11] } 10... Qb4 { [%clk 0:00:59] } 11. Nd2 { [%clk 0:01:05] } 11... Nc3+ { [%clk 0:00:57] } 12. Ke1 { [%clk 0:01:01] } 12... Nxd1 { [%clk 0:00:57] } 13. Rxd1 { [%clk 0:00:58] } 13... d5 { [%clk 0:00:57] } 14. Bb5 { [%clk 0:00:55] } 14... O-O { [%clk 0:00:55] } 15. Bxc6 { [%clk 0:00:54] } 15... bxc6 { [%clk 0:00:55] } 16. c3 { [%clk 0:00:51] } 16... Qg4 { [%clk 0:00:52] } 17. h3 { [%clk 0:00:48] } 17... Qxg2 { [%clk 0:00:49] } 18. Rf1 { [%clk 0:00:46] } 18... Ba6 { [%clk 0:00:47] } 19. c4 { [%clk 0:00:44] } 19... dxc4 { [%clk 0:00:46] } 20. bxc4 { [%clk 0:00:43] } 20... Rfd8 { [%clk 0:00:44] } 21. f4 { [%clk 0:00:36] } 21... Qg3+ { [%clk 0:00:42] } 22. Rf2 { [%clk 0:00:35] } 22... Rd3 { [%clk 0:00:40] } 23. Kf1 { [%clk 0:00:31] } 23... Qxh3+ { [%clk 0:00:35] } 24. Rg2 { [%clk 0:00:29] } 24... Bxc4 { [%clk 0:00:30] } 25. Nxc4 { [%clk 0:00:27] } 25... Rf3+ { [%clk 0:00:29] } 26. Ke2 { [%clk 0:00:22] } 26... Qxg2+ { [%clk 0:00:27] } 27. Ke1 { [%clk 0:00:20] } 27... Rf1# { [%clk 0:00:22] } 0-1

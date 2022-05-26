@@ -1,0 +1,17 @@
+[Event "28th Weekend Blitz Arena"]
+[Site "https://lichess.org/3muxFpG5"]
+[Date "2022.02.20"]
+[White "jishanshaikh4"]
+[Black "Sangramsinghgour2001"]
+[Result "1-0"]
+[UTCDate "2022.02.20"]
+[UTCTime "16:41:30"]
+[WhiteElo "2027"]
+[BlackElo "931"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: French Connection"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:30] } 1... Nc6 { [%clk 0:03:00] } 2. Nc3 { [%clk 0:01:30] } 2... e6 { [%clk 0:03:00] } 3. Nf3 { [%clk 0:01:30] } 3... Nf6 { [%clk 0:03:01] } 4. e5 { [%clk 0:01:29] } 4... Nd4 { [%clk 0:03:02] } 5. exf6 { [%clk 0:01:27] } 5... Nxf3+ { [%clk 0:03:02] } 6. Qxf3 { [%clk 0:01:27] } 6... gxf6 { [%clk 0:03:03] } 7. d4 { [%clk 0:01:26] } 7... Bh6 { [%clk 0:03:03] } 8. Bxh6 { [%clk 0:01:24] } 8... e5 { [%clk 0:03:02] } 9. O-O-O { [%clk 0:01:21] } 9... exd4 { [%clk 0:03:03] } 10. Re1+ { [%clk 0:01:19] } 10... Qe7 { [%clk 0:02:59] } 11. Rxe7+ { [%clk 0:01:18] } 11... Kxe7 { [%clk 0:03:00] } 12. Qe4+ { [%clk 0:01:18] } 12... Kd6 { [%clk 0:03:00] } 13. Qd5+ { [%clk 0:01:16] } 13... Ke7 { [%clk 0:03:00] } 14. Ne4 { [%clk 0:01:14] } 14... c6 { [%clk 0:02:59] } 15. Qd6+ { [%clk 0:01:11] } 15... Kd8 { [%clk 0:02:58] } 16. Nxf6 { [%clk 0:01:10] } 16... b5 { [%clk 0:02:46] } 17. Bg5 { [%clk 0:01:09] } 17... h6 { [%clk 0:02:43] } 18. Ng8+ { [%clk 0:01:07] } 18... Ke8 { [%clk 0:02:38] } 19. Qe7# { [%clk 0:01:06] } 1-0

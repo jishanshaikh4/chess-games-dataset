@@ -1,0 +1,17 @@
+[Event "All India Chess League Finals  Team Battle"]
+[Site "https://lichess.org/xiFb6y3L"]
+[Date "2020.03.30"]
+[White "gorthorito007"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2020.03.30"]
+[UTCTime "14:40:26"]
+[WhiteElo "1561"]
+[BlackElo "1839"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Normal"]
+
+0-1

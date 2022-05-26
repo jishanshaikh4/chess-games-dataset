@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/vY5cl5e2"]
+[Date "2019.10.01"]
+[White "lichess AI level 6"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.10.01"]
+[UTCTime "21:30:52"]
+[WhiteElo "?"]
+[BlackElo "1872"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Snyder Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:02:00] } 1... c5 { [%clk 0:02:00] } 2. b3 { [%clk 0:02:00] } 2... e6 { [%clk 0:02:01] } 3. Bb2 { [%clk 0:02:00] } 3... Be7 { [%clk 0:02:02] } 4. Na3 { [%clk 0:02:01] } 4... Nf6 { [%clk 0:01:55] } 5. e5 { [%clk 0:02:01] } 5... Nd5 { [%clk 0:01:55] } 6. h4 { [%clk 0:02:00] } 6... O-O { [%clk 0:01:56] } 7. h5 { [%clk 0:02:00] } 7... f6 { [%clk 0:01:55] } 8. h6 { [%clk 0:01:59] } 8... g5 { [%clk 0:01:54] } 9. Nc4 { [%clk 0:01:59] } 9... Qc7 { [%clk 0:01:52] } 10. Nf3 { [%clk 0:01:58] } 10... fxe5 { [%clk 0:01:51] } 11. Rh5 { [%clk 0:01:58] } 11... e4 { [%clk 0:01:51] } 12. Nxg5 { [%clk 0:01:57] } 12... Bxg5 { [%clk 0:01:49] } 13. Qg4 { [%clk 0:01:56] } 13... Rf5 { [%clk 0:01:47] } 14. Rxg5+ { [%clk 0:01:56] } 14... Rxg5 { [%clk 0:01:47] } 15. Qxg5+ { [%clk 0:01:55] } 15... Kf7 { [%clk 0:01:48] } 16. Be5 { [%clk 0:01:55] } 1-0

@@ -1,0 +1,17 @@
+[Event "Seaborgium simul"]
+[Site "https://lichess.org/RSwbL14u"]
+[Date "2019.03.09"]
+[White "jishanshaikh4"]
+[Black "kolyabari"]
+[Result "0-1"]
+[UTCDate "2019.03.09"]
+[UTCTime "16:10:40"]
+[WhiteElo "1374"]
+[BlackElo "1172"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Time forfeit"]
+
+0-1

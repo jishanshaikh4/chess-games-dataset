@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/gpb8VP9d"]
+[Date "2018.12.02"]
+[White "KralFaruk"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2018.12.02"]
+[UTCTime "16:34:29"]
+[WhiteElo "1500"]
+[BlackElo "1213"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[Termination "Time forfeit"]
+
+1. d4 { [%clk 0:00:15] } 1... d5 { [%clk 0:00:15] } 2. e3 { [%clk 0:00:15] } 2... Nc6 { [%clk 0:00:14] } 3. Nf3 { [%clk 0:00:15] } 3... Bf5 { [%clk 0:00:14] } 4. Ng5 { [%clk 0:00:11] } 4... Bxc2 { [%clk 0:00:14] } 5. Qxc2 { [%clk 0:00:09] } 5... e5 { [%clk 0:00:13] } 6. dxe5 { [%clk 0:00:08] } 6... Qxg5 { [%clk 0:00:11] } 0-1

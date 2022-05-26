@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/Iy7L2hWd"]
+[Date "2021.07.24"]
+[White "jishanshaikh4"]
+[Black "SourabhK_SDAH"]
+[Result "0-1"]
+[UTCDate "2021.07.24"]
+[UTCTime "12:25:53"]
+[WhiteElo "2044"]
+[BlackElo "2184"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Main Line"]
+[Termination "Normal"]
+
+1. e3 { [%clk 0:01:00] } 1... c6 { [%clk 0:01:00] } 2. d4 { [%clk 0:01:00] } 2... d5 { [%clk 0:01:00] } 3. c4 { [%clk 0:01:00] } 3... Nf6 { [%clk 0:01:00] } 4. Nc3 { [%clk 0:01:00] } 4... e6 { [%clk 0:01:00] } 5. Nf3 { [%clk 0:01:00] } 5... Be7 { [%clk 0:00:59] } 6. cxd5 { [%clk 0:00:59] } 6... exd5 { [%clk 0:00:59] } 7. Bd3 { [%clk 0:00:59] } 7... O-O { [%clk 0:00:59] } 8. O-O { [%clk 0:00:59] } 8... Bg4 { [%clk 0:00:57] } 9. h3 { [%clk 0:00:59] } 9... Bh5 { [%clk 0:00:57] } 10. Re1 { [%clk 0:00:59] } 10... Bg6 { [%clk 0:00:57] } 11. Bxg6 { [%clk 0:00:57] } 11... hxg6 { [%clk 0:00:57] } 12. Qd3 { [%clk 0:00:57] } 12... Re8 { [%clk 0:00:56] } 13. e4 { [%clk 0:00:57] } 13... dxe4 { [%clk 0:00:55] } 14. Nxe4 { [%clk 0:00:57] } 14... Nxe4 { [%clk 0:00:55] } 15. Rxe4 { [%clk 0:00:57] } 15... Nd7 { [%clk 0:00:55] } 16. Bf4 { [%clk 0:00:56] } 16... Nf6 { [%clk 0:00:54] } 17. Re3 { [%clk 0:00:54] } 17... Bf8 { [%clk 0:00:53] } 18. Rae1 { [%clk 0:00:53] } 18... Rxe3 { [%clk 0:00:52] } 19. fxe3 { [%clk 0:00:52] } 19... Nd5 { [%clk 0:00:51] } 20. Bg3 { [%clk 0:00:50] } 20... Qd7 { [%clk 0:00:49] } 21. e4 { [%clk 0:00:49] } 21... Nb4 { [%clk 0:00:46] } 22. Qb3 { [%clk 0:00:43] } 22... Na6 { [%clk 0:00:43] } 23. a3 { [%clk 0:00:42] } 23... Rd8 { [%clk 0:00:42] } 24. e5 { [%clk 0:00:39] } 24... c5 { [%clk 0:00:39] } 25. Rf1 { [%clk 0:00:38] } 25... cxd4 { [%clk 0:00:38] } 26. Ng5 { [%clk 0:00:37] } 26... Qd5 { [%clk 0:00:31] } 27. Qxb7 { [%clk 0:00:34] } 27... Qxb7 { [%clk 0:00:29] } 0-1

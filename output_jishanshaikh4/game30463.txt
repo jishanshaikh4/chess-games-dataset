@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/vcO6HmIP"]
+[Date "2019.08.15"]
+[White "jishanshaikh4"]
+[Black "sanjeet9"]
+[Result "1-0"]
+[UTCDate "2019.08.15"]
+[UTCTime "17:31:52"]
+[WhiteElo "1575"]
+[BlackElo "1126"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D07"]
+[Opening "Queen's Gambit Declined: Chigorin Defense, Janowski Variation"]
+[Termination "Time forfeit"]
+
+1. d4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:59] } 2... Nc6 { [%clk 0:02:59] } 3. c4 { [%clk 0:02:59] } 3... dxc4 { [%clk 0:02:57] } 4. Nc3 { [%clk 0:02:59] } 4... e6 { [%clk 0:02:52] } 5. e3 { [%clk 0:02:57] } 5... Nf6 { [%clk 0:02:48] } 6. Bxc4 { [%clk 0:02:55] } 6... Ne4 { [%clk 0:02:45] } 7. Nxe4 { [%clk 0:02:52] } 7... Nb4 { [%clk 0:02:41] } 8. Qa4+ { [%clk 0:02:50] } 8... b5 { [%clk 0:02:38] } 9. Bxb5+ { [%clk 0:02:47] } 9... Bd7 { [%clk 0:02:35] } 10. Bxd7+ { [%clk 0:02:46] } 10... Qxd7 { [%clk 0:02:33] } 11. Qxd7+ { [%clk 0:02:45] } 11... Kxd7 { [%clk 0:02:32] } 12. O-O { [%clk 0:02:44] } 12... Nc2 { [%clk 0:02:30] } 13. Rb1 { [%clk 0:02:42] } 13... f5 { [%clk 0:02:23] } 14. Neg5 { [%clk 0:02:41] } 14... Ke7 { [%clk 0:02:19] } 15. Ne5 { [%clk 0:02:38] } 15... h6 { [%clk 0:02:15] } 16. Ngf3 { [%clk 0:02:36] } 16... Rb8 { [%clk 0:01:04] } 17. Nc6+ { [%clk 0:02:27] } 17... Kd6 { [%clk 0:01:02] } 18. Nxb8 { [%clk 0:02:27] } 18... Be7 { [%clk 0:00:53] } 19. Na6 { [%clk 0:02:19] } 19... g5 { [%clk 0:00:50] } 20. b3 { [%clk 0:02:17] } 20... Kd5 { [%clk 0:00:45] } 21. Ne1 { [%clk 0:02:10] } 21... Nb4 { [%clk 0:00:41] } 22. Nxb4+ { [%clk 0:02:07] } 22... Bxb4 { [%clk 0:00:39] } 23. Nd3 { [%clk 0:02:05] } 23... Bd6 { [%clk 0:00:34] } 24. Bb2 { [%clk 0:02:03] } 24... g4 { [%clk 0:00:30] } 25. Nf4+ { [%clk 0:02:01] } 25... Ke4 { [%clk 0:00:26] } 26. Nxe6 { [%clk 0:01:59] } 26... g3 { [%clk 0:00:20] } 27. f3+ { [%clk 0:01:57] } 27... Kxe3 { [%clk 0:00:15] } 28. hxg3 { [%clk 0:01:56] } 28... Bxg3 { [%clk 0:00:10] } 29. Nxc7 { [%clk 0:01:52] } 29... Rc8 { [%clk 0:00:07] } 30. Nd5+ { [%clk 0:01:50] } 30... Ke2 { [%clk 0:00:04] } 31. Nc3+ { [%clk 0:01:45] } 31... Ke3 { [%clk 0:00:02] } 32. Rbe1+ { [%clk 0:01:42] } 1-0

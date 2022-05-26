@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/FYiKehGz"]
+[Date "2018.11.28"]
+[White "Woffelz"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.11.28"]
+[UTCTime "11:44:43"]
+[WhiteElo "1500"]
+[BlackElo "1245"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:00:15] } 1... g6 { [%clk 0:00:15] } 2. f3 { [%clk 0:00:15] } 2... Bg7 { [%clk 0:00:15] } 3. Ne2 { [%clk 0:00:14] } 3... Nf6 { [%clk 0:00:15] } 4. g3 { [%clk 0:00:13] } 4... O-O { [%clk 0:00:14] } 5. Bh3 { [%clk 0:00:13] } 5... Re8 { [%clk 0:00:14] } 6. g4 { [%clk 0:00:13] } 6... e6 { [%clk 0:00:13] } 7. f4 { [%clk 0:00:13] } 7... d5 { [%clk 0:00:13] } 8. f5 { [%clk 0:00:12] } 8... Nfd7 { [%clk 0:00:11] } 9. fxe6 { [%clk 0:00:11] } 9... fxe6 { [%clk 0:00:11] } 10. exd5 { [%clk 0:00:11] } 10... exd5 { [%clk 0:00:10] } 11. g5 { [%clk 0:00:11] } 11... Nc6 { [%clk 0:00:09] } 12. Bxd7 { [%clk 0:00:11] } 12... Nb4 { [%clk 0:00:08] } 13. O-O { [%clk 0:00:10] } 13... Qxd7 { [%clk 0:00:08] } 14. Ng3 { [%clk 0:00:09] } 14... Qe6 { [%clk 0:00:06] } 15. d3 { [%clk 0:00:09] } 15... Qe5 { [%clk 0:00:05] } 16. c3 { [%clk 0:00:09] } 16... Nxd3 { [%clk 0:00:03] } 17. Qxd3 { [%clk 0:00:07] } 17... Qxg5 { [%clk 0:00:01] } 18. Rf5 { [%clk 0:00:06] } 18... Bxf5 { [%clk 0:00:00] } 19. Qxf5 { [%clk 0:00:04] } 1-0

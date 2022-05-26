@@ -1,0 +1,17 @@
+[Event "Casual Atomic game"]
+[Site "https://lichess.org/Xp3bNl6L"]
+[Date "2020.09.15"]
+[White "matematician74"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2020.09.15"]
+[UTCTime "08:35:30"]
+[WhiteElo "1500"]
+[BlackElo "1095"]
+[Variant "Atomic"]
+[TimeControl "600+8"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Normal"]
+
+1. Nf3 { [%clk 0:10:00] } 1... e6 { [%clk 0:10:00] } 2. Ne5 { [%clk 0:10:06] } 2... Qf6 { [%clk 0:10:01] } 3. Nxd7# { [%clk 0:10:03] } 1-0

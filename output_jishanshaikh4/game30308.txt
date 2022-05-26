@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/5Qcv6y28"]
+[Date "2019.08.28"]
+[White "jishanshaikh4"]
+[Black "Scacco91"]
+[Result "1-0"]
+[UTCDate "2019.08.28"]
+[UTCTime "16:25:01"]
+[WhiteElo "1792"]
+[BlackElo "1745"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A05"]
+[Opening "Zukertort Opening: Lemberger Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59] } 2... Nxe4 { [%clk 0:00:58] } 3. d3 { [%clk 0:00:59] } 3... Nf6 { [%clk 0:00:57] } 4. Nc3 { [%clk 0:00:59] } 4... d5 { [%clk 0:00:57] } 5. Bg5 { [%clk 0:00:58] } 5... e6 { [%clk 0:00:55] } 6. Ne5 { [%clk 0:00:57] } 6... Be7 { [%clk 0:00:54] } 7. h4 { [%clk 0:00:56] } 7... O-O { [%clk 0:00:53] } 8. Qd2 { [%clk 0:00:54] } 8... d4 { [%clk 0:00:52] } 9. Ne2 { [%clk 0:00:52] } 9... c5 { [%clk 0:00:51] } 10. c3 { [%clk 0:00:51] } 10... Nc6 { [%clk 0:00:49] } 11. cxd4 { [%clk 0:00:50] } 11... Nxd4 { [%clk 0:00:49] } 12. Nxd4 { [%clk 0:00:49] } 12... c4 { [%clk 0:00:49] } 13. Ndf3 { [%clk 0:00:46] } 13... cxd3 { [%clk 0:00:47] } 14. Qxd3 { [%clk 0:00:44] } 14... Bb4+ { [%clk 0:00:42] } 15. Ke2 { [%clk 0:00:43] } 15... Qa5 { [%clk 0:00:39] } 16. Bxf6 { [%clk 0:00:39] } 16... gxf6 { [%clk 0:00:38] } 17. Nc4 { [%clk 0:00:36] } 17... Qa6 { [%clk 0:00:33] } 18. Nce5 { [%clk 0:00:32] } 18... fxe5 { [%clk 0:00:32] } 19. Qxa6 { [%clk 0:00:31] } 19... bxa6 { [%clk 0:00:30] } 20. Nxe5 { [%clk 0:00:31] } 20... a5 { [%clk 0:00:27] } 21. g4 { [%clk 0:00:30] } 21... Ba6+ { [%clk 0:00:26] } 22. Kf3 { [%clk 0:00:28] } 22... Rac8 { [%clk 0:00:25] } 23. Bxa6 { [%clk 0:00:27] } 23... f6 { [%clk 0:00:21] } 24. Bxc8 { [%clk 0:00:26] } 24... Rxc8 { [%clk 0:00:20] } 25. Nd3 { [%clk 0:00:23] } 25... Bd6 { [%clk 0:00:18] } 26. Nf4 { [%clk 0:00:22] } 26... e5 { [%clk 0:00:17] } 27. Ne6 { [%clk 0:00:21] } 27... Rc2 { [%clk 0:00:15] } 28. Rab1 { [%clk 0:00:17] } 28... Kf7 { [%clk 0:00:13] } 29. Nd8+ { [%clk 0:00:14] } 29... Ke7 { [%clk 0:00:11] } 30. Nb7 { [%clk 0:00:14] } 1-0

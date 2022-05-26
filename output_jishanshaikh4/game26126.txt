@@ -1,0 +1,17 @@
+[Event "AICL IITKBHU vs NITUNITED Arena"]
+[Site "https://lichess.org/ykNZ2qrv"]
+[Date "2020.03.23"]
+[White "jishanshaikh4"]
+[Black "IWARRIOR19"]
+[Result "0-1"]
+[UTCDate "2020.03.23"]
+[UTCTime "16:58:42"]
+[WhiteElo "1862"]
+[BlackElo "1915"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Abandoned"]
+
+0-1

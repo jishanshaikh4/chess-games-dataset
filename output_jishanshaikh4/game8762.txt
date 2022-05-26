@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/QqxSo9bB"]
+[Date "2021.08.20"]
+[White "jishanshaikh4"]
+[Black "Navodaya29"]
+[Result "1-0"]
+[UTCDate "2021.08.20"]
+[UTCTime "16:58:35"]
+[WhiteElo "2115"]
+[BlackElo "1813"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Ross Gambit"]
+[Termination "Time forfeit"]
+
+1. Nf3 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. c3 { [%clk 0:01:00] } 2... Nc6 { [%clk 0:00:58] } 3. d4 { [%clk 0:00:59] } 3... e4 { [%clk 0:00:57] } 4. Ng1 { [%clk 0:00:57] } 4... d5 { [%clk 0:00:52] } 5. e3 { [%clk 0:00:56] } 5... Nf6 { [%clk 0:00:51] } 6. f3 { [%clk 0:00:56] } 6... Bd6 { [%clk 0:00:45] } 7. Nd2 { [%clk 0:00:55] } 7... O-O { [%clk 0:00:40] } 8. c4 { [%clk 0:00:53] } 8... Ne7 { [%clk 0:00:38] } 9. fxe4 { [%clk 0:00:52] } 9... dxe4 { [%clk 0:00:35] } 10. Qc2 { [%clk 0:00:51] } 10... c6 { [%clk 0:00:21] } 11. c5 { [%clk 0:00:50] } 11... Bb8 { [%clk 0:00:19] } 12. Nxe4 { [%clk 0:00:50] } 12... Bf5 { [%clk 0:00:18] } 13. Nxf6+ { [%clk 0:00:48] } 13... gxf6 { [%clk 0:00:18] } 14. Qe2 { [%clk 0:00:47] } 14... Ng6 { [%clk 0:00:17] } 15. Nf3 { [%clk 0:00:47] } 15... Qa5+ { [%clk 0:00:16] } 16. Bd2 { [%clk 0:00:45] } 16... Qb5 { [%clk 0:00:16] } 17. Qxb5 { [%clk 0:00:44] } 17... cxb5 { [%clk 0:00:16] } 18. Be2 { [%clk 0:00:42] } 18... a6 { [%clk 0:00:10] } 19. O-O { [%clk 0:00:41] } 19... Re8 { [%clk 0:00:10] } 20. Rad1 { [%clk 0:00:39] } 20... Bc2 { [%clk 0:00:07] } 21. Rc1 { [%clk 0:00:37] } 21... Be4 { [%clk 0:00:06] } 22. h3 { [%clk 0:00:37] } 22... Bf5 { [%clk 0:00:05] } 23. Bc3 { [%clk 0:00:34] } 23... Be4 { [%clk 0:00:05] } 24. Rcd1 { [%clk 0:00:33] } 24... Bxf3 { [%clk 0:00:01] } 25. Rxf3 { [%clk 0:00:33] } 1-0

@@ -1,0 +1,17 @@
+[Event "Quarantine Chess Battle III Team Battle"]
+[Site "https://lichess.org/c6fPq6oh"]
+[Date "2020.05.17"]
+[White "anuj_22_agrawal"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2020.05.17"]
+[UTCTime "13:28:02"]
+[WhiteElo "1408"]
+[BlackElo "1870"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[Termination "Abandoned"]
+
+1. d4 { [%clk 0:03:00] } 1-0

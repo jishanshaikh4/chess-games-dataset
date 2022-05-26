@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/nw8Ztf3I"]
+[Date "2019.05.28"]
+[White "jishanshaikh4"]
+[Black "BlitzKing_22"]
+[Result "0-1"]
+[UTCDate "2019.05.28"]
+[UTCTime "17:52:35"]
+[WhiteElo "1273"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined: Reversed Krebs"]
+[Termination "Time forfeit"]
+
+1. d4 { [%clk 0:00:15] } 1... e5 { [%clk 0:00:15] } 2. Nf3 { [%clk 0:00:15] } 2... e4 { [%clk 0:00:14] } 3. c4 { [%clk 0:00:15] } 3... d5 { [%clk 0:00:14] } 4. Ne5 { [%clk 0:00:13] } 4... f6 { [%clk 0:00:12] } 5. e3 { [%clk 0:00:12] } 5... fxe5 { [%clk 0:00:11] } 6. dxe5 { [%clk 0:00:12] } 6... dxc4 { [%clk 0:00:10] } 7. Qd5 { [%clk 0:00:12] } 7... Qxd5 { [%clk 0:00:09] } 8. Be2 { [%clk 0:00:10] } 8... Qxe5 { [%clk 0:00:09] } 9. Nd2 { [%clk 0:00:09] } 9... Qxb2 { [%clk 0:00:07] } 10. Nxc4 { [%clk 0:00:09] } 10... Qxa1 { [%clk 0:00:07] } 11. O-O { [%clk 0:00:05] } 11... Be6 { [%clk 0:00:07] } 12. Bg4 { [%clk 0:00:05] } 12... Bxg4 { [%clk 0:00:05] } 13. h3 { [%clk 0:00:04] } 13... Be2 { [%clk 0:00:05] } 14. Re1 { [%clk 0:00:03] } 14... Bf1 { [%clk 0:00:05] } 15. Ba3 { [%clk 0:00:01] } 15... Qxa2 { [%clk 0:00:04] } 16. Ne5 { [%clk 0:00:00] } 16... Qxa3 { [%clk 0:00:03] } 17. Nf7 { [%clk 0:00:00] } 17... Kxf7 { [%clk 0:00:01] } 0-1

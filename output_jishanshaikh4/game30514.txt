@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/MzFS2tiz"]
+[Date "2019.08.10"]
+[White "jishanshaikh4"]
+[Black "sergienko7829"]
+[Result "1-0"]
+[UTCDate "2019.08.10"]
+[UTCTime "03:24:01"]
+[WhiteElo "1704"]
+[BlackElo "1399"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "A41"]
+[Opening "Queen's Pawn Game"]
+[Termination "Time forfeit"]
+
+1. d4 { [%clk 0:02:15] } 1... d6 { [%clk 0:00:30] } 2. Nf3 { [%clk 0:02:15] } 2... Nc6 { [%clk 0:00:29] } 3. c4 { [%clk 0:02:15] } 3... a5 { [%clk 0:00:28] } 4. Nc3 { [%clk 0:02:15] } 4... a4 { [%clk 0:00:26] } 5. e3 { [%clk 0:02:15] } 5... Nb4 { [%clk 0:00:23] } 6. a3 { [%clk 0:02:28] } 6... Be6 { [%clk 0:00:20] } 7. axb4 { [%clk 0:02:27] } 7... f6 { [%clk 0:00:19] } 8. d5 { [%clk 0:02:25] } 8... Nh6 { [%clk 0:00:19] } 9. dxe6 { [%clk 0:02:25] } 9... g6 { [%clk 0:00:12] } 10. Be2 { [%clk 0:02:25] } 10... d5 { [%clk 0:00:10] } 11. O-O { [%clk 0:02:25] } 11... Qd6 { [%clk 0:00:07] } 12. cxd5 { [%clk 0:02:25] } 12... Rd8 { [%clk 0:00:05] } 13. e4 { [%clk 0:02:23] } 13... Ra8 { [%clk 0:00:04] } 14. b5 { [%clk 0:02:21] } 14... Bg7 { [%clk 0:00:03] } 15. b6 { [%clk 0:02:21] } 1-0

@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/5pjHdE3T"]
+[Date "2018.10.04"]
+[White "Squalo14"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2018.10.04"]
+[UTCTime "13:57:53"]
+[WhiteElo "1204"]
+[BlackElo "1326"]
+[Variant "Standard"]
+[TimeControl "1200+0"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:20:00] } 1... d5 { [%clk 0:20:00] } 2. Nc3 { [%clk 0:19:55] } 2... e6 { [%clk 0:19:55] } 3. e4 { [%clk 0:19:52] } 3... dxe4 { [%clk 0:19:51] } 4. Nxe4 { [%clk 0:19:51] } 4... Qh4 { [%clk 0:19:44] } 5. Bd3 { [%clk 0:19:42] } 5... Nc6 { [%clk 0:19:42] } 6. g3 { [%clk 0:19:36] } 6... Qe7 { [%clk 0:19:25] } 7. Bg5 { [%clk 0:19:20] } 7... Qb4+ { [%clk 0:19:20] } 8. c3 { [%clk 0:18:58] } 8... Qxb2 { [%clk 0:19:14] } 9. Nf3 { [%clk 0:18:46] } 9... f5 { [%clk 0:19:08] } 10. Nc5 { [%clk 0:18:33] } 10... Qxc3+ { [%clk 0:19:02] } 11. Bd2 { [%clk 0:18:28] } 11... Qa3 { [%clk 0:18:38] } 12. Ng5 { [%clk 0:17:26] } 12... h6 { [%clk 0:18:20] } 13. Ngxe6 { [%clk 0:16:57] } 13... Bd6 { [%clk 0:18:10] } 14. Qh5+ { [%clk 0:16:48] } 14... Ke7 { [%clk 0:18:05] } 15. Bg5+ { [%clk 0:16:21] } 15... Nf6 { [%clk 0:17:59] } 16. Bxf6+ { [%clk 0:16:03] } 16... gxf6 { [%clk 0:17:52] } 17. Qd1 { [%clk 0:14:21] } 17... Bxc5 { [%clk 0:17:45] } 18. dxc5 { [%clk 0:14:18] } 18... Bxe6 { [%clk 0:17:40] } 19. Qe2 { [%clk 0:13:57] } 19... Nd4 { [%clk 0:17:26] } 20. Qd1 { [%clk 0:13:24] } 20... Qxc5 { [%clk 0:17:11] } 21. Rc1 { [%clk 0:13:19] } 21... Qa5+ { [%clk 0:17:04] } 22. Qd2 { [%clk 0:13:14] } 22... Nf3+ { [%clk 0:17:00] } 23. Kd1 { [%clk 0:13:08] } 23... Nxd2 { [%clk 0:16:59] } 24. Rxc7+ { [%clk 0:13:05] } 24... Qxc7 { [%clk 0:16:52] } 25. Kxd2 { [%clk 0:13:01] } 25... Rac8 { [%clk 0:16:49] } 26. Re1 { [%clk 0:12:56] } 26... Rhd8 { [%clk 0:16:46] } 27. Ke3 { [%clk 0:12:53] } 27... Qc5+ { [%clk 0:16:39] } 28. Kf3 { [%clk 0:12:52] } 28... Rxd3+ { [%clk 0:16:34] } 29. Kf4 { [%clk 0:12:49] } 29... Qxf2# { [%clk 0:16:28] } 0-1

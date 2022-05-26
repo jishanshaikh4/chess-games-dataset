@@ -1,0 +1,17 @@
+[Event "AICL 2.0 Semifinals A Bullet Team Battle"]
+[Site "https://lichess.org/xLKbplrY"]
+[Date "2020.12.25"]
+[White "jishanshaikh4"]
+[Black "kgpkatempohighhai"]
+[Result "1-0"]
+[UTCDate "2020.12.25"]
+[UTCTime "14:00:53"]
+[WhiteElo "1976"]
+[BlackElo "1979"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... e5 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:01:59] } 2... Nc6 { [%clk 0:01:59] } 3. Bc4 { [%clk 0:01:59] } 3... Bc5 { [%clk 0:01:59] } 4. O-O { [%clk 0:01:58] } 4... d6 { [%clk 0:01:58] } 5. Re1 { [%clk 0:01:58] } 5... Be6 { [%clk 0:01:56] } 6. Bxe6 { [%clk 0:01:56] } 6... fxe6 { [%clk 0:01:56] } 7. c3 { [%clk 0:01:56] } 7... Nf6 { [%clk 0:01:56] } 8. d4 { [%clk 0:01:55] } 8... exd4 { [%clk 0:01:55] } 9. cxd4 { [%clk 0:01:55] } 9... Bb6 { [%clk 0:01:54] } 10. Nc3 { [%clk 0:01:53] } 10... O-O { [%clk 0:01:53] } 11. Bg5 { [%clk 0:01:52] } 11... h6 { [%clk 0:01:51] } 12. Bh4 { [%clk 0:01:51] } 12... Qe8 { [%clk 0:01:48] } 13. e5 { [%clk 0:01:47] } 13... dxe5 { [%clk 0:01:45] } 14. Nxe5 { [%clk 0:01:46] } 14... Nxe5 { [%clk 0:01:43] } 15. Rxe5 { [%clk 0:01:44] } 15... Rd8 { [%clk 0:01:39] } 16. Qb3 { [%clk 0:01:43] } 16... Bxd4 { [%clk 0:01:35] } 17. Rxe6 { [%clk 0:01:41] } 17... Kh8 { [%clk 0:01:33] } 18. Rxe8 { [%clk 0:01:40] } 18... Rfxe8 { [%clk 0:01:32] } 19. Bxf6 { [%clk 0:01:37] } 19... Bxf6 { [%clk 0:01:31] } 20. Rf1 { [%clk 0:01:36] } 20... Rd2 { [%clk 0:01:29] } 21. g3 { [%clk 0:01:34] } 21... Red8 { [%clk 0:01:28] } 22. Qxb7 { [%clk 0:01:31] } 22... Re8 { [%clk 0:01:26] } 23. Ne4 { [%clk 0:01:29] } 23... Re2 { [%clk 0:01:24] } 24. Nxf6 { [%clk 0:01:28] } 24... gxf6 { [%clk 0:01:22] } 25. Qxc7 { [%clk 0:01:27] } 25... Rxb2 { [%clk 0:01:20] } 26. Qxa7 { [%clk 0:01:22] } 26... Ree2 { [%clk 0:01:19] } 27. Rd1 { [%clk 0:01:16] } 27... Re8 { [%clk 0:01:12] } 28. Rd7 { [%clk 0:01:13] } 28... Re1+ { [%clk 0:01:05] } 29. Kg2 { [%clk 0:01:12] } 29... Rxf2+ { [%clk 0:01:02] } 30. Qxf2 { [%clk 0:01:09] } 30... f5 { [%clk 0:00:57] } 31. Qd4+ { [%clk 0:01:06] } 1-0

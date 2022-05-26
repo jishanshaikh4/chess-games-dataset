@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/iDTn5YRl"]
+[Date "2018.09.26"]
+[White "elmonasatutto"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.09.26"]
+[UTCTime "20:12:08"]
+[WhiteElo "1381"]
+[BlackElo "1060"]
+[Variant "Standard"]
+[TimeControl "0+1"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:00:03] } 1... d5 { [%clk 0:00:03] } 2. d3 { [%clk 0:00:04] } 2... Nf6 { [%clk 0:00:04] } 3. e5 { [%clk 0:00:04] } 3... Nc6 { [%clk 0:00:04] } 4. d4 { [%clk 0:00:05] } 4... Ng4 { [%clk 0:00:04] } 5. h3 { [%clk 0:00:04] } 5... Nh6 { [%clk 0:00:03] } 6. c3 { [%clk 0:00:03] } 6... f6 { [%clk 0:00:03] } 7. Bxh6 { [%clk 0:00:03] } 7... gxh6 { [%clk 0:00:02] } 8. exf6 { [%clk 0:00:04] } 8... exf6 { [%clk 0:00:02] } 9. Qe2+ { [%clk 0:00:04] } 9... Qe7 { [%clk 0:00:02] } 10. Qxe7+ { [%clk 0:00:04] } 10... Kxe7 { [%clk 0:00:03] } 11. Nf3 { [%clk 0:00:05] } 11... Bf5 { [%clk 0:00:02] } 12. Bb5 { [%clk 0:00:04] } 12... a6 { [%clk 0:00:02] } 13. Bxc6 { [%clk 0:00:04] } 13... bxc6 { [%clk 0:00:02] } 14. O-O { [%clk 0:00:04] } 14... Rd8 { [%clk 0:00:02] } 15. Nh4 { [%clk 0:00:04] } 15... Kd7 { [%clk 0:00:03] } 16. Nxf5 { [%clk 0:00:04] } 16... Re8 { [%clk 0:00:03] } 17. Ne3 { [%clk 0:00:03] } 17... Bg7 { [%clk 0:00:03] } 18. Nd2 { [%clk 0:00:04] } 18... f5 { [%clk 0:00:03] } 19. Nf3 { [%clk 0:00:04] } 19... f4 { [%clk 0:00:03] } 20. Ng4 { [%clk 0:00:04] } 20... Bf6 { [%clk 0:00:02] } 21. Nfe5+ { [%clk 0:00:04] } 21... Bxe5 { [%clk 0:00:01] } 22. dxe5 { [%clk 0:00:05] } 1-0

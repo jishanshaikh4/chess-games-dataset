@@ -1,0 +1,17 @@
+[Event "23rd Weekend Bullet Arena"]
+[Site "https://lichess.org/odksCHeE"]
+[Date "2021.12.05"]
+[White "UTTARAN12"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.12.05"]
+[UTCTime "17:00:01"]
+[WhiteElo "2111"]
+[BlackElo "1984"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Abandoned"]
+
+0-1

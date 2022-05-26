@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/lMAAGfWU"]
+[Date "2019.07.30"]
+[White "sanjeet9"]
+[Black "jishanshaikh4"]
+[Result "1/2-1/2"]
+[UTCDate "2019.07.30"]
+[UTCTime "16:42:17"]
+[WhiteElo "1272"]
+[BlackElo "1426"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 1/2-1/2

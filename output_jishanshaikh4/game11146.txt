@@ -1,0 +1,17 @@
+[Event "RAKESH ONLINE CHESS Arena"]
+[Site "https://lichess.org/XoEb0Sn6"]
+[Date "2021.06.28"]
+[White "parsad47"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2021.06.28"]
+[UTCTime "15:51:01"]
+[WhiteElo "1558"]
+[BlackElo "2012"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:01:30] } 2. Nf3 { [%clk 0:02:58] } 2... Nc6 { [%clk 0:01:30] } 3. Bc4 { [%clk 0:02:56] } 3... g6 { [%clk 0:01:29] } 4. c3 { [%clk 0:02:52] } 4... e6 { [%clk 0:01:29] } 5. d4 { [%clk 0:02:50] } 5... cxd4 { [%clk 0:01:29] } 6. cxd4 { [%clk 0:02:48] } 6... d5 { [%clk 0:01:28] } 7. exd5 { [%clk 0:02:46] } 7... exd5 { [%clk 0:01:28] } 8. Bb5 { [%clk 0:02:43] } 8... Bg7 { [%clk 0:01:28] } 9. Nc3 { [%clk 0:02:42] } 9... Ne7 { [%clk 0:01:27] } 10. O-O { [%clk 0:02:39] } 10... O-O { [%clk 0:01:27] } 11. h3 { [%clk 0:02:37] } 11... a6 { [%clk 0:01:26] } 12. Ba4 { [%clk 0:02:33] } 12... f5 { [%clk 0:01:25] } 13. Bb3 { [%clk 0:02:31] } 13... Kh8 { [%clk 0:01:21] } 14. Bg5 { [%clk 0:02:25] } 14... Na5 { [%clk 0:01:18] } 15. Bxd5 { [%clk 0:02:19] } 15... Qd7 { [%clk 0:01:14] } 16. Bxe7 { [%clk 0:02:17] } 16... Qxe7 { [%clk 0:01:14] } 17. Bb3 { [%clk 0:02:04] } 17... Nxb3 { [%clk 0:01:12] } 18. Qxb3 { [%clk 0:02:02] } 18... Qd6 { [%clk 0:01:09] } 19. Rad1 { [%clk 0:01:58] } 19... b5 { [%clk 0:01:08] } 20. a3 { [%clk 0:01:55] } 20... Bb7 { [%clk 0:01:07] } 21. Ne5 { [%clk 0:01:48] } 21... Bxe5 { [%clk 0:01:03] } 22. dxe5 { [%clk 0:01:46] } 22... Qxe5 { [%clk 0:01:03] } 23. Rd7 { [%clk 0:01:40] } 23... Rab8 { [%clk 0:00:58] } 24. Rfd1 { [%clk 0:01:34] } 24... Be4 { [%clk 0:00:56] } 25. Nxe4 { [%clk 0:01:23] } 25... fxe4 { [%clk 0:00:56] } 26. R1d5 { [%clk 0:01:13] } 26... Qf4 { [%clk 0:00:55] } 27. Qc3+ { [%clk 0:01:11] } 27... Kg8 { [%clk 0:00:53] } 28. Qg7# { [%clk 0:01:08] } 1-0

@@ -1,0 +1,17 @@
+[Event "IITGN vs NITB vs IITTP Team Battle"]
+[Site "https://lichess.org/ZSdiHIsN"]
+[Date "2020.12.12"]
+[White "jishanshaikh4"]
+[Black "Knightking_satyasai"]
+[Result "1-0"]
+[UTCDate "2020.12.12"]
+[UTCTime "14:24:12"]
+[WhiteElo "1881"]
+[BlackElo "1670"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Hartlaub-Charlick Gambit"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. dxe5 { [%clk 0:03:01] } 2... d6 { [%clk 0:03:01] } 3. exd6 { [%clk 0:03:02] } 3... Bxd6 { [%clk 0:03:03] } 4. Nf3 { [%clk 0:03:03] } 4... Bb4+ { [%clk 0:03:04] } 5. c3 { [%clk 0:03:03] } 5... Qxd1+ { [%clk 0:03:04] } 6. Kxd1 { [%clk 0:03:04] } 6... Bc5 { [%clk 0:03:06] } 7. e3 { [%clk 0:03:04] } 7... Nc6 { [%clk 0:03:07] } 8. Bb5 { [%clk 0:03:05] } 8... Bd7 { [%clk 0:03:07] } 9. Ke2 { [%clk 0:03:06] } 9... O-O-O { [%clk 0:03:08] } 10. Nbd2 { [%clk 0:03:07] } 10... Nf6 { [%clk 0:03:09] } 11. Nb3 { [%clk 0:03:07] } 11... Bb6 { [%clk 0:03:08] } 12. Nbd4 { [%clk 0:03:07] } 12... Nxd4+ { [%clk 0:03:08] } 13. Nxd4 { [%clk 0:03:07] } 13... Rhe8 { [%clk 0:02:47] } 14. Bxd7+ { [%clk 0:03:05] } 14... Rxd7 { [%clk 0:02:49] } 15. Bd2 { [%clk 0:03:05] } 15... Bxd4 { [%clk 0:02:47] } 16. cxd4 { [%clk 0:03:07] } 16... Rxd4 { [%clk 0:02:48] } 17. Bc3 { [%clk 0:03:08] } 17... Rd6 { [%clk 0:02:44] } 18. Rhd1 { [%clk 0:03:08] } 18... Ne4 { [%clk 0:02:44] } 19. Bxg7 { [%clk 0:03:04] } 19... Red8 { [%clk 0:02:35] } 20. Rxd6 { [%clk 0:03:01] } 20... Rxd6 { [%clk 0:02:37] } 21. f3 { [%clk 0:02:58] } 21... Rd2+ { [%clk 0:02:23] } 22. Ke1 { [%clk 0:02:51] } 22... Rxg2 { [%clk 0:02:20] } 23. Be5 { [%clk 0:02:44] } 23... Nc5 { [%clk 0:02:12] } 24. Kf1 { [%clk 0:02:37] } 24... Rc2 { [%clk 0:02:06] } 25. h4 { [%clk 0:02:25] } 25... Nd3 { [%clk 0:02:07] } 26. Bf6 { [%clk 0:02:25] } 26... Rf2+ { [%clk 0:02:02] } 27. Kg1 { [%clk 0:02:25] } 27... Rxf3 { [%clk 0:02:02] } 28. Bg5 { [%clk 0:02:26] } 28... Nxb2 { [%clk 0:01:57] } 29. Rb1 { [%clk 0:02:25] } 29... Nd3 { [%clk 0:01:54] } 30. Rd1 { [%clk 0:02:25] } 30... Ne5 { [%clk 0:01:50] } 31. Rd8# { [%clk 0:02:22] } 1-0

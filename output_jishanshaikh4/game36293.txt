@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/CqugCcOt"]
+[Date "2018.11.28"]
+[White "jishanshaikh4"]
+[Black "abdullah58"]
+[Result "1-0"]
+[UTCDate "2018.11.28"]
+[UTCTime "11:43:06"]
+[WhiteElo "1245"]
+[BlackElo "1372"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Symmetrical Variation"]
+[Termination "Time forfeit"]
+
+1. g3 { [%clk 0:00:15] } 1... g6 { [%clk 0:00:15] } 2. Bg2 { [%clk 0:00:15] } 2... Bg7 { [%clk 0:00:13] } 3. Nf3 { [%clk 0:00:15] } 3... Nf6 { [%clk 0:00:10] } 4. O-O { [%clk 0:00:15] } 4... O-O { [%clk 0:00:05] } 5. Re1 { [%clk 0:01:00] } 5... Re8 { [%clk 0:00:03] } 6. e4 { [%clk 0:01:00] } 6... Rf8 { [%clk 0:00:02] } 7. Nc3 { [%clk 0:00:59] } 7... Re8 { [%clk 0:00:02] } 8. d4 { [%clk 0:00:58] } 8... Rf8 { [%clk 0:00:01] } 9. e5 { [%clk 0:00:58] } 9... Re8 { [%clk 0:00:01] } 10. exf6 { [%clk 0:00:57] } 10... Rf8 { [%clk 0:00:01] } 11. fxg7 { [%clk 0:00:55] } 1-0

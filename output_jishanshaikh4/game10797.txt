@@ -1,0 +1,17 @@
+[Event "New IITs and NITs Team Battle"]
+[Site "https://lichess.org/fW0EzH2g"]
+[Date "2021.07.11"]
+[White "jishanshaikh4"]
+[Black "Ratna123"]
+[Result "1-0"]
+[UTCDate "2021.07.11"]
+[UTCTime "14:17:59"]
+[WhiteElo "2078"]
+[BlackElo "1905"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e6 { [%clk 0:03:00] } 2. d4 { [%clk 0:02:59] } 2... d5 { [%clk 0:03:00] } 3. e5 { [%clk 0:02:59] } 3... c5 { [%clk 0:02:59] } 4. c3 { [%clk 0:02:58] } 4... Nc6 { [%clk 0:02:59] } 5. f4 { [%clk 0:02:56] } 5... Qb6 { [%clk 0:02:58] } 6. Nf3 { [%clk 0:02:54] } 6... cxd4 { [%clk 0:02:57] } 7. cxd4 { [%clk 0:02:54] } 7... Bb4+ { [%clk 0:02:56] } 8. Nc3 { [%clk 0:02:53] } 8... Nge7 { [%clk 0:02:55] } 9. a3 { [%clk 0:02:52] } 9... Bxc3+ { [%clk 0:02:53] } 10. bxc3 { [%clk 0:02:52] } 10... f5 { [%clk 0:02:52] } 11. exf6 { [%clk 0:02:50] } 11... gxf6 { [%clk 0:02:51] } 12. Bd3 { [%clk 0:02:47] } 12... Bd7 { [%clk 0:02:50] } 13. a4 { [%clk 0:02:45] } 13... a5 { [%clk 0:02:47] } 14. Rb1 { [%clk 0:02:44] } 14... Qc7 { [%clk 0:02:44] } 15. c4 { [%clk 0:02:38] } 15... e5 { [%clk 0:02:38] } 16. fxe5 { [%clk 0:02:36] } 16... fxe5 { [%clk 0:02:37] } 17. cxd5 { [%clk 0:02:35] } 17... Nxd5 { [%clk 0:02:36] } 18. Nxe5 { [%clk 0:02:27] } 18... Nxe5 { [%clk 0:02:34] } 19. Qh5+ { [%clk 0:02:22] } 19... Nf7 { [%clk 0:02:30] } 20. O-O { [%clk 0:02:19] } 20... Be6 { [%clk 0:02:26] } 21. Bf5 { [%clk 0:02:09] } 21... Bxf5 { [%clk 0:02:14] } 22. Qxf5 { [%clk 0:02:09] } 22... Qd7 { [%clk 0:01:54] } 23. Qe4+ { [%clk 0:02:04] } 23... Ne7 { [%clk 0:01:47] } 24. Rxb7 { [%clk 0:01:55] } 24... Qd6 { [%clk 0:01:34] } 25. Re1 { [%clk 0:01:45] } 25... Ng5 { [%clk 0:01:09] } 26. Rxe7+ { [%clk 0:01:42] } 26... Kf8 { [%clk 0:01:05] } 27. Qxa8+ { [%clk 0:01:40] } 1-0

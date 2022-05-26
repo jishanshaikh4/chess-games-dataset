@@ -1,0 +1,17 @@
+[Event "23rd Weekend Bullet Arena"]
+[Site "https://lichess.org/3ZTHRYTP"]
+[Date "2021.12.05"]
+[White "jishanshaikh4"]
+[Black "Swayam8tiwari"]
+[Result "1-0"]
+[UTCDate "2021.12.05"]
+[UTCTime "17:20:56"]
+[WhiteElo "1984"]
+[BlackElo "1534"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D05"]
+[Opening "Queen's Pawn Game: Colle System"]
+[Termination "Normal"]
+
+1. e3 { [%clk 0:01:00] } 1... e6 { [%clk 0:01:00] } 2. d4 { [%clk 0:01:00] } 2... d5 { [%clk 0:01:00] } 3. Nf3 { [%clk 0:01:00] } 3... Nf6 { [%clk 0:01:00] } 4. c4 { [%clk 0:01:00] } 4... Be7 { [%clk 0:01:00] } 5. Nc3 { [%clk 0:01:00] } 5... c6 { [%clk 0:00:58] } 6. cxd5 { [%clk 0:01:00] } 6... exd5 { [%clk 0:00:58] } 7. Bd3 { [%clk 0:01:00] } 7... Nbd7 { [%clk 0:00:58] } 8. O-O { [%clk 0:01:00] } 8... O-O { [%clk 0:00:58] } 9. h3 { [%clk 0:01:00] } 9... Re8 { [%clk 0:00:57] } 10. Re1 { [%clk 0:01:00] } 10... Nf8 { [%clk 0:00:56] } 11. e4 { [%clk 0:00:59] } 11... dxe4 { [%clk 0:00:55] } 12. Nxe4 { [%clk 0:00:59] } 12... Nxe4 { [%clk 0:00:53] } 13. Bxe4 { [%clk 0:00:59] } 13... Ne6 { [%clk 0:00:53] } 14. Be3 { [%clk 0:00:58] } 14... Bf6 { [%clk 0:00:50] } 15. Rc1 { [%clk 0:00:55] } 15... a5 { [%clk 0:00:47] } 16. Qe2 { [%clk 0:00:52] } 16... Nxd4 { [%clk 0:00:41] } 17. Nxd4 { [%clk 0:00:52] } 17... Bxd4 { [%clk 0:00:40] } 18. Bxd4 { [%clk 0:00:52] } 18... Qxd4 { [%clk 0:00:39] } 19. Bxh7+ { [%clk 0:00:51] } 19... Kf8 { [%clk 0:00:32] } 20. Qxe8# { [%clk 0:00:49] } 1-0

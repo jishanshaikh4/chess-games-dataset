@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/sEdEGOR2"]
+[Date "2018.11.22"]
+[White "Michelemmanuel"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.11.22"]
+[UTCTime "15:15:34"]
+[WhiteElo "1129"]
+[BlackElo "1283"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Staunton-Cochrane Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. c4 { [%clk 0:09:58] } 2... e5 { [%clk 0:09:59] } 3. d3 { [%clk 0:09:55] } 3... Nf6 { [%clk 0:09:56] } 4. h3 { [%clk 0:09:52] } 4... d6 { [%clk 0:09:55] } 5. Nc3 { [%clk 0:09:49] } 5... Nbd7 { [%clk 0:09:54] } 6. Nd5 { [%clk 0:09:46] } 6... Nb6 { [%clk 0:09:49] } 7. Bg5 { [%clk 0:09:40] } 7... h6 { [%clk 0:09:43] } 8. Bh4 { [%clk 0:09:35] } 8... g5 { [%clk 0:09:39] } 9. Bg3 { [%clk 0:09:31] } 9... Nbxd5 { [%clk 0:09:35] } 10. cxd5 { [%clk 0:09:23] } 10... c4 { [%clk 0:09:28] } 11. Nf3 { [%clk 0:09:01] } 11... cxd3 { [%clk 0:09:20] } 12. Bxd3 { [%clk 0:08:59] } 12... Qa5+ { [%clk 0:09:13] } 13. Nd2 { [%clk 0:08:54] } 13... h5 { [%clk 0:09:07] } 14. h4 { [%clk 0:08:45] } 14... gxh4 { [%clk 0:08:57] } 15. Bxh4 { [%clk 0:08:42] } 15... Ng4 { [%clk 0:08:53] } 16. g3 { [%clk 0:08:25] } 16... Bg7 { [%clk 0:08:38] } 17. Kf1 { [%clk 0:08:22] } 17... Nh6 { [%clk 0:08:22] } 18. Nb3 { [%clk 0:08:14] } 18... Qb6 { [%clk 0:08:15] } 19. f3 { [%clk 0:07:51] } 19... f5 { [%clk 0:08:13] } 20. g4 { [%clk 0:07:44] } 20... fxe4 { [%clk 0:08:05] } 21. Bf2 { [%clk 0:07:43] } 21... Qc7 { [%clk 0:07:55] } 22. Bxe4 { [%clk 0:07:34] } 22... O-O { [%clk 0:07:27] } 23. Rxh5 { [%clk 0:07:30] } 23... Rf6 { [%clk 0:07:14] } 24. g5 { [%clk 0:07:23] } 24... Rf7 { [%clk 0:07:04] } 25. gxh6 { [%clk 0:07:20] } 25... Bf8 { [%clk 0:07:03] } 26. Rg5+ { [%clk 0:07:13] } 26... Kh8 { [%clk 0:07:02] } 27. Rh5 { [%clk 0:07:00] } 27... Qe7 { [%clk 0:06:53] } 28. Bh4 { [%clk 0:06:53] } 28... Qe8 { [%clk 0:06:46] } 29. Bg6 { [%clk 0:06:49] } 29... Rxf3+ { [%clk 0:06:32] } 30. Qxf3 { [%clk 0:06:45] } 30... Qxg6 { [%clk 0:06:31] } 31. Rg5 { [%clk 0:06:18] } 31... Qxh6 { [%clk 0:06:25] } 32. Rh5 { [%clk 0:06:07] } 32... Qxh5 { [%clk 0:06:11] } 1-0

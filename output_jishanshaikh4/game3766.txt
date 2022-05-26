@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/992x6zeI"]
+[Date "2022.01.16"]
+[White "lichess AI level 6"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2022.01.16"]
+[UTCTime "11:54:14"]
+[WhiteElo "?"]
+[BlackElo "2133"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Scandinavian Defense, Schulz Gambit"]
+[Termination "Normal"]
+
+1. c4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. cxd5 { [%clk 0:01:01] } 2... Nf6 { [%clk 0:01:01] } 3. Nc3 { [%clk 0:01:01] } 3... Nxd5 { [%clk 0:01:01] } 4. g3 { [%clk 0:01:02] } 4... Nf6 { [%clk 0:01:02] } 5. Bg2 { [%clk 0:01:03] } 5... e6 { [%clk 0:01:03] } 6. Nf3 { [%clk 0:01:03] } 6... Bd6 { [%clk 0:01:04] } 7. O-O { [%clk 0:01:03] } 7... O-O { [%clk 0:01:05] } 8. d4 { [%clk 0:01:04] } 8... Nc6 { [%clk 0:01:06] } 9. e4 { [%clk 0:01:04] } 9... Ne7 { [%clk 0:01:07] } 10. Qc2 { [%clk 0:01:04] } 10... Ng6 { [%clk 0:01:07] } 11. e5 { [%clk 0:01:04] } 11... Be7 { [%clk 0:01:06] } 12. exf6 { [%clk 0:01:05] } 12... Bxf6 { [%clk 0:01:07] } 13. Rd1 { [%clk 0:01:05] } 13... Qe7 { [%clk 0:01:08] } 14. Ne4 { [%clk 0:01:05] } 14... b6 { [%clk 0:01:09] } 15. Ne1 { [%clk 0:01:06] } 15... Bb7 { [%clk 0:01:09] } 16. Nxf6+ { [%clk 0:01:06] } 16... Qxf6 { [%clk 0:01:09] } 17. Bxb7 { [%clk 0:01:06] } 1-0

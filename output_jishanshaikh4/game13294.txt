@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/7wi7o5d6"]
+[Date "2021.04.20"]
+[White "GabrieleRisso"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.04.20"]
+[UTCTime "08:41:51"]
+[WhiteElo "1702"]
+[BlackElo "2033"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[Termination "Time forfeit"]
+
+1. f4 { [%clk 0:00:30] } 1... d5 { [%clk 0:00:30] } 2. Nc3 { [%clk 0:00:30] } 2... Nc6 { [%clk 0:00:30] } 3. d4 { [%clk 0:00:30] } 3... e6 { [%clk 0:00:29] } 4. e3 { [%clk 0:00:30] } 4... Nf6 { [%clk 0:00:29] } 5. Bb5 { [%clk 0:00:30] } 5... Be7 { [%clk 0:00:29] } 6. e4 { [%clk 0:00:29] } 6... dxe4 { [%clk 0:00:27] } 7. Bxc6+ { [%clk 0:00:27] } 7... bxc6 { [%clk 0:00:27] } 8. Nge2 { [%clk 0:00:27] } 8... Nd5 { [%clk 0:00:26] } 9. Bd2 { [%clk 0:00:25] } 9... O-O { [%clk 0:00:25] } 10. O-O { [%clk 0:00:24] } 10... Nxc3 { [%clk 0:00:25] } 11. Nxc3 { [%clk 0:00:23] } 11... Bf6 { [%clk 0:00:25] } 12. Qh5 { [%clk 0:00:21] } 12... Bxd4+ { [%clk 0:00:24] } 13. Kh1 { [%clk 0:00:20] } 13... e5 { [%clk 0:00:21] } 14. fxe5 { [%clk 0:00:19] } 14... Bxe5 { [%clk 0:00:21] } 15. Bh6 { [%clk 0:00:17] } 15... f5 { [%clk 0:00:21] } 16. Nxe4 { [%clk 0:00:09] } 16... Bf6 { [%clk 0:00:17] } 17. Nxf6+ { [%clk 0:00:08] } 17... Qxf6 { [%clk 0:00:17] } 18. Rxf5 { [%clk 0:00:06] } 18... Qxh6 { [%clk 0:00:16] } 19. Rxf8+ { [%clk 0:00:04] } 19... Kxf8 { [%clk 0:00:16] } 20. Qc5+ { [%clk 0:00:03] } 20... Kg8 { [%clk 0:00:13] } 21. Re1 { [%clk 0:00:03] } 21... Qd6 { [%clk 0:00:13] } 22. Re8+ { [%clk 0:00:03] } 22... Kf7 { [%clk 0:00:12] } 23. Qf2+ { [%clk 0:00:01] } 23... Kxe8 { [%clk 0:00:11] } 24. Qe1+ { [%clk 0:00:01] } 24... Kd7 { [%clk 0:00:11] } 0-1

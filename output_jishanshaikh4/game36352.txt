@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/BhsPrWVt"]
+[Date "2018.11.22"]
+[White "jishanshaikh4"]
+[Black "Aghiad232"]
+[Result "1-0"]
+[UTCDate "2018.11.22"]
+[UTCTime "14:35:35"]
+[WhiteElo "1283"]
+[BlackElo "929"]
+[Variant "Standard"]
+[TimeControl "780+9"]
+[ECO "C44"]
+[Opening "Scotch Game"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:13:00] } 1... e5 { [%clk 0:13:00] } 2. Nf3 { [%clk 0:13:08] } 2... Nc6 { [%clk 0:13:02] } 3. d4 { [%clk 0:13:17] } 3... Nf6 { [%clk 0:12:58] } 4. Nxe5 { [%clk 0:13:20] } 4... Nxe4 { [%clk 0:13:03] } 5. Nxc6 { [%clk 0:13:27] } 5... Qe7 { [%clk 0:13:00] } 6. Nxe7 { [%clk 0:13:34] } 6... Nxf2 { [%clk 0:13:07] } 7. Kxf2 { [%clk 0:13:38] } 7... Bxe7 { [%clk 0:13:14] } 8. Qe1 { [%clk 0:13:45] } 1-0

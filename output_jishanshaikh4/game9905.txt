@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/zYQyFg1g"]
+[Date "2021.07.28"]
+[White "jishanshaikh4"]
+[Black "SourabhK_SDAH"]
+[Result "0-1"]
+[UTCDate "2021.07.28"]
+[UTCTime "14:27:49"]
+[WhiteElo "2043"]
+[BlackElo "2113"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A57"]
+[Opening "Benko Gambit"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:03:00] } 2. c4 { [%clk 0:02:59] } 2... c5 { [%clk 0:02:59] } 3. d5 { [%clk 0:02:58] } 3... b5 { [%clk 0:02:58] } 4. b3 { [%clk 0:02:57] } 4... g6 { [%clk 0:02:56] } 5. Nd2 { [%clk 0:02:55] } 5... Bg7 { [%clk 0:02:55] } 6. Rb1 { [%clk 0:02:54] } 6... O-O { [%clk 0:02:54] } 7. g3 { [%clk 0:02:53] } 7... bxc4 { [%clk 0:02:53] } 8. bxc4 { [%clk 0:02:51] } 8... d6 { [%clk 0:02:53] } 9. Bg2 { [%clk 0:02:50] } 9... Nbd7 { [%clk 0:02:50] } 10. Ngf3 { [%clk 0:02:49] } 10... Re8 { [%clk 0:02:48] } 11. O-O { [%clk 0:02:47] } 11... e5 { [%clk 0:02:47] } 12. dxe6 { [%clk 0:02:46] } 12... Rxe6 { [%clk 0:02:46] } 13. Ng5 { [%clk 0:02:42] } 13... Rb8 { [%clk 0:02:40] } 14. Rxb8 { [%clk 0:02:40] } 14... Nxb8 { [%clk 0:02:39] } 15. Nxe6 { [%clk 0:02:39] } 15... Bxe6 { [%clk 0:02:39] } 16. f4 { [%clk 0:02:26] } 16... Ng4 { [%clk 0:02:36] } 17. Nb3 { [%clk 0:02:21] } 17... Bxc4 { [%clk 0:02:34] } 18. h3 { [%clk 0:02:13] } 18... Nh6 { [%clk 0:02:13] } 19. Bd5 { [%clk 0:02:11] } 19... Bd4+ { [%clk 0:01:56] } 20. Nxd4 { [%clk 0:02:08] } 20... Bxd5 { [%clk 0:01:56] } 21. Nb5 { [%clk 0:02:00] } 21... Bxa2 { [%clk 0:01:43] } 22. Nxd6 { [%clk 0:01:50] } 22... Qd7 { [%clk 0:01:37] } 23. Ba3 { [%clk 0:01:45] } 23... Qxh3 { [%clk 0:01:31] } 24. Qe1 { [%clk 0:01:37] } 24... Ng4 { [%clk 0:01:28] } 25. Rf2 { [%clk 0:01:30] } 25... Qxg3+ { [%clk 0:01:26] } 26. Rg2 { [%clk 0:01:29] } 26... Qxe1# { [%clk 0:01:25] } 0-1

@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/S19EDd3x"]
+[Date "2019.08.24"]
+[White "Vinayakpower"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.08.24"]
+[UTCTime "09:18:28"]
+[WhiteElo "1421"]
+[BlackElo "1800"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C00"]
+[Opening "French Defense: Steiner Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... e6 { [%clk 0:01:00] } 2. c4 { [%clk 0:00:58] } 2... d5 { [%clk 0:01:00] } 3. exd5 { [%clk 0:00:57] } 3... exd5 { [%clk 0:01:00] } 4. Nc3 { [%clk 0:00:54] } 4... d4 { [%clk 0:00:58] } 5. Nb5 { [%clk 0:00:51] } 5... a6 { [%clk 0:00:55] } 6. Na3 { [%clk 0:00:47] } 6... Bxa3 { [%clk 0:00:54] } 7. bxa3 { [%clk 0:00:45] } 7... Nf6 { [%clk 0:00:53] } 8. Bb2 { [%clk 0:00:45] } 8... O-O { [%clk 0:00:52] } 9. Nf3 { [%clk 0:00:43] } 9... d3 { [%clk 0:00:51] } 10. Qb3 { [%clk 0:00:41] } 10... Re8+ { [%clk 0:00:50] } 11. Kd1 { [%clk 0:00:39] } 11... Bf5 { [%clk 0:00:50] } 12. h3 { [%clk 0:00:36] } 12... Nc6 { [%clk 0:00:49] } 13. g4 { [%clk 0:00:36] } 13... Bg6 { [%clk 0:00:45] } 14. Nh4 { [%clk 0:00:33] } 14... Nd4 { [%clk 0:00:45] } 15. Qc3 { [%clk 0:00:29] } 15... Nf3 { [%clk 0:00:42] } 16. Nxg6 { [%clk 0:00:25] } 16... fxg6 { [%clk 0:00:40] } 17. Bxd3 { [%clk 0:00:25] } 17... Qe7 { [%clk 0:00:37] } 18. Be2 { [%clk 0:00:19] } 18... Ne5 { [%clk 0:00:35] } 19. f4 { [%clk 0:00:16] } 19... Nc6 { [%clk 0:00:33] } 20. Re1 { [%clk 0:00:13] } 20... Qd6 { [%clk 0:00:31] } 21. d3 { [%clk 0:00:12] } 21... Rad8 { [%clk 0:00:30] } 22. Bf3 { [%clk 0:00:11] } 22... Na5 { [%clk 0:00:25] } 23. Qxa5 { [%clk 0:00:09] } 23... b6 { [%clk 0:00:25] } 24. Qc3 { [%clk 0:00:07] } 24... c5 { [%clk 0:00:24] } 25. Bb7 { [%clk 0:00:07] } 25... Rd7 { [%clk 0:00:23] } 26. Bxa6 { [%clk 0:00:06] } 26... Red8 { [%clk 0:00:23] } 27. Bb5 { [%clk 0:00:06] } 27... Qc7 { [%clk 0:00:21] } 28. Bxd7 { [%clk 0:00:06] } 28... Qxd7 { [%clk 0:00:21] } 29. Qd2 { [%clk 0:00:04] } 29... Qc7 { [%clk 0:00:21] } 30. Qe2 { [%clk 0:00:04] } 30... Rd7 { [%clk 0:00:20] } 31. Qe8+ { [%clk 0:00:03] } 31... Nxe8 { [%clk 0:00:19] } 32. Rxe8+ { [%clk 0:00:03] } 32... Kf7 { [%clk 0:00:19] } 33. Ra8 { [%clk 0:00:01] } 33... Qd6 { [%clk 0:00:19] } 0-1

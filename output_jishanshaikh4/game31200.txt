@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/oMDpaXLb"]
+[Date "2019.07.22"]
+[White "jishanshaikh4"]
+[Black "sanjeet9"]
+[Result "1-0"]
+[UTCDate "2019.07.22"]
+[UTCTime "17:50:48"]
+[WhiteElo "1416"]
+[BlackElo "1226"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:00] } 2... Nc6 { [%clk 0:02:58] } 3. d4 { [%clk 0:02:59] } 3... exd4 { [%clk 0:02:57] } 4. Nxd4 { [%clk 0:02:59] } 4... Nxd4 { [%clk 0:02:53] } 5. Qxd4 { [%clk 0:02:59] } 5... c5 { [%clk 0:02:50] } 6. Qe3 { [%clk 0:02:55] } 6... d5 { [%clk 0:02:49] } 7. exd5+ { [%clk 0:02:54] } 7... Be7 { [%clk 0:02:47] } 8. Nc3 { [%clk 0:02:50] } 8... Nf6 { [%clk 0:02:46] } 9. Bb5+ { [%clk 0:02:49] } 9... Bd7 { [%clk 0:02:44] } 10. Bxd7+ { [%clk 0:02:48] } 10... Qxd7 { [%clk 0:02:43] } 11. O-O { [%clk 0:02:48] } 11... O-O { [%clk 0:02:43] } 12. Re1 { [%clk 0:02:46] } 12... Nxd5 { [%clk 0:02:35] } 13. Nxd5 { [%clk 0:02:43] } 13... Qxd5 { [%clk 0:02:34] } 14. Qxe7 { [%clk 0:02:42] } 14... Rae8 { [%clk 0:02:32] } 15. Qxe8 { [%clk 0:02:40] } 15... Rxe8 { [%clk 0:02:31] } 16. Rxe8# { [%clk 0:02:40] } 1-0

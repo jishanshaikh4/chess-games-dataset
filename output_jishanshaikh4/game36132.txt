@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/eMVZi0n8"]
+[Date "2018.12.05"]
+[White "jishanshaikh4"]
+[Black "Josdavi"]
+[Result "1-0"]
+[UTCDate "2018.12.05"]
+[UTCTime "06:06:12"]
+[WhiteElo "1289"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59] } 2... Nf6 { [%clk 0:00:56] } 3. d3 { [%clk 0:00:57] } 3... Bb4+ { [%clk 0:00:53] } 4. c3 { [%clk 0:00:55] } 4... Ba5 { [%clk 0:00:49] } 5. Nxe5 { [%clk 0:00:54] } 5... Qe7 { [%clk 0:00:47] } 6. Nf3 { [%clk 0:00:53] } 6... Qc5 { [%clk 0:00:36] } 7. b4 { [%clk 0:00:51] } 7... Qb5 { [%clk 0:00:23] } 8. bxa5 { [%clk 0:00:49] } 8... Qxa5 { [%clk 0:00:16] } 9. Qb3 { [%clk 0:00:43] } 9... Ng4 { [%clk 0:00:10] } 10. Ng5 { [%clk 0:00:41] } 10... Qxg5 { [%clk 0:00:06] } 11. h3 { [%clk 0:00:38] } 11... Qxc1+ { [%clk 0:00:04] } 12. Ke2 { [%clk 0:00:35] } 1-0

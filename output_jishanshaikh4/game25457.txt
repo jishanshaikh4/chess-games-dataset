@@ -1,0 +1,17 @@
+[Event "Quarantine Chess Battle III Team Battle"]
+[Site "https://lichess.org/2lxeO38f"]
+[Date "2020.05.17"]
+[White "jishanshaikh4"]
+[Black "ha_amogha"]
+[Result "0-1"]
+[UTCDate "2020.05.17"]
+[UTCTime "13:26:09"]
+[WhiteElo "1870"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Abandoned"]
+
+0-1

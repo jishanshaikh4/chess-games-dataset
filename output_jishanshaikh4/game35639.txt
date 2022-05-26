@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/J6hacDOd"]
+[Date "2019.01.12"]
+[White "jishanshaikh4"]
+[Black "J711"]
+[Result "0-1"]
+[UTCDate "2019.01.12"]
+[UTCTime "03:10:16"]
+[WhiteElo "1379"]
+[BlackElo "1841"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C00"]
+[Opening "French Defense: Perseus Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... e6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59] } 2... d5 { [%clk 0:01:00] } 3. d4 { [%clk 0:00:58] } 3... dxe4 { [%clk 0:00:59] } 4. Ng5 { [%clk 0:00:57] } 4... Nf6 { [%clk 0:00:57] } 5. Nxe4 { [%clk 0:00:57] } 5... Nxe4 { [%clk 0:00:56] } 6. Qe2 { [%clk 0:00:55] } 6... Nf6 { [%clk 0:00:55] } 7. Nc3 { [%clk 0:00:54] } 7... Nc6 { [%clk 0:00:54] } 8. Bg5 { [%clk 0:00:53] } 8... Nxd4 { [%clk 0:00:53] } 9. Qd2 { [%clk 0:00:49] } 9... e5 { [%clk 0:00:49] } 10. Ne2 { [%clk 0:00:44] } 10... Bc5 { [%clk 0:00:45] } 11. c3 { [%clk 0:00:42] } 11... Nxe2 { [%clk 0:00:43] } 12. Qxd8+ { [%clk 0:00:41] } 12... Kxd8 { [%clk 0:00:43] } 13. Bxf6+ { [%clk 0:00:40] } 13... gxf6 { [%clk 0:00:42] } 14. Bxe2 { [%clk 0:00:40] } 14... Ke7 { [%clk 0:00:41] } 15. O-O { [%clk 0:00:40] } 15... Be6 { [%clk 0:00:40] } 16. Rfe1 { [%clk 0:00:40] } 16... Rhd8 { [%clk 0:00:38] } 17. Rad1 { [%clk 0:00:40] } 17... Rxd1 { [%clk 0:00:37] } 18. Rxd1 { [%clk 0:00:40] } 18... Rd8 { [%clk 0:00:37] } 19. Rxd8 { [%clk 0:00:38] } 19... Kxd8 { [%clk 0:00:37] } 20. Bh5 { [%clk 0:00:36] } 20... Ke7 { [%clk 0:00:37] } 21. Bg4 { [%clk 0:00:35] } 21... Bxg4 { [%clk 0:00:35] } 22. h3 { [%clk 0:00:35] } 22... Be6 { [%clk 0:00:35] } 23. Kh2 { [%clk 0:00:34] } 23... Bxa2 { [%clk 0:00:35] } 24. Kg3 { [%clk 0:00:33] } 24... Be6 { [%clk 0:00:34] } 25. Kf3 { [%clk 0:00:33] } 25... a5 { [%clk 0:00:34] } 0-1

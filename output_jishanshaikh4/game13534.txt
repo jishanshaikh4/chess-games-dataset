@@ -1,0 +1,17 @@
+[Event "Casual Crazyhouse game"]
+[Site "https://lichess.org/PrJSZuMH"]
+[Date "2021.04.16"]
+[White "moro137"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2021.04.16"]
+[UTCTime "12:09:50"]
+[WhiteElo "1500"]
+[BlackElo "1105"]
+[Variant "Crazyhouse"]
+[TimeControl "180+0"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:58] } 2... Nc6 { [%clk 0:02:59] } 3. Bc4 { [%clk 0:02:56] } 3... g6 { [%clk 0:02:57] } 4. Bxf7+ { [%clk 0:02:53] } 4... Kxf7 { [%clk 0:02:55] } 5. Ng5+ { [%clk 0:02:52] } 5... Kg7 { [%clk 0:02:54] } 6. O-O { [%clk 0:02:33] } 6... Qc7 { [%clk 0:02:52] } 7. d3 { [%clk 0:02:24] } 7... B@b8 { [%clk 0:02:50] } 8. P@g3 { [%clk 0:02:12] } 8... h6 { [%clk 0:02:48] } 9. Nf3 { [%clk 0:02:08] } 9... Nf6 { [%clk 0:02:46] } 10. Nh4 { [%clk 0:02:02] } 10... d5 { [%clk 0:02:38] } 11. exd5 { [%clk 0:01:58] } 11... Nxd5 { [%clk 0:02:37] } 12. c4 { [%clk 0:01:50] } 12... Nf6 { [%clk 0:02:34] } 13. Nc3 { [%clk 0:01:43] } 13... Bg4 { [%clk 0:02:31] } 14. f3 { [%clk 0:01:39] } 14... Bh5 { [%clk 0:02:25] } 15. P@g4 { [%clk 0:01:34] } 15... Bxg4 { [%clk 0:02:20] } 16. fxg4 { [%clk 0:01:33] } 16... g5 { [%clk 0:02:16] } 17. Nf5+ { [%clk 0:01:28] } 17... Kh7 { [%clk 0:02:16] } 18. Nb5 { [%clk 0:01:18] } 18... Qa5 { [%clk 0:02:10] } 19. Bd2 { [%clk 0:01:15] } 19... Qa6 { [%clk 0:02:08] } 20. Bc3 { [%clk 0:01:09] } 20... Bg7 { [%clk 0:01:54] } 21. Nxg7 { [%clk 0:01:01] } 21... Kxg7 { [%clk 0:01:54] } 22. Rxf6 { [%clk 0:00:55] } 22... exf6 { [%clk 0:01:54] } 23. N@h5+ { [%clk 0:00:50] } 23... Kf7 { [%clk 0:01:46] } 24. Qf3 { [%clk 0:00:46] } 24... P@g7 { [%clk 0:01:43] } 25. Bxf6 { [%clk 0:00:32] } 25... R@f8 { [%clk 0:01:35] } 26. Bxg7+ { [%clk 0:00:25] } 26... Kg8 { [%clk 0:01:33] } 27. Qxf8+ { [%clk 0:00:23] } 27... Kh7 { [%clk 0:01:32] } 28. Qxh8+ { [%clk 0:00:22] } 28... Kg6 { [%clk 0:01:31] } 29. B@f5+ { [%clk 0:00:21] } 29... Kf7 { [%clk 0:01:30] } 30. Qf8# { [%clk 0:00:17] } 1-0

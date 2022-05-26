@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/W04Vw6D9"]
+[Date "2018.11.22"]
+[White "virleo"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2018.11.22"]
+[UTCTime "14:31:18"]
+[WhiteElo "1500"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "A40"]
+[Opening "Englund Gambit"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:02:00] } 1... e5 { [%clk 0:02:00] } 2. Bf4 { [%clk 0:02:00] } 2... exf4 { [%clk 0:01:59] } 0-1

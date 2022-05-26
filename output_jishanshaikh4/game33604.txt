@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/SXix7c51"]
+[Date "2019.03.15"]
+[White "InfiniteFlash"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.03.15"]
+[UTCTime "05:47:16"]
+[WhiteElo "2071"]
+[BlackElo "1374"]
+[Variant "Standard"]
+[TimeControl "300+2"]
+[ECO "D00"]
+[Opening "Blackmar-Diemer Gambit: Gedult Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:05:00] } 1... d5 { [%clk 0:05:00] } 2. d4 { [%clk 0:04:56] } 2... dxe4 { [%clk 0:04:55] } 3. f3 { [%clk 0:04:53] } 3... exf3 { [%clk 0:04:54] } 4. Nxf3 { [%clk 0:04:54] } 4... Nf6 { [%clk 0:04:54] } 5. Bc4 { [%clk 0:04:48] } 5... Bg4 { [%clk 0:04:52] } 6. Bxf7+ { [%clk 0:04:07] } 6... Kxf7 { [%clk 0:04:42] } 7. Ne5+ { [%clk 0:04:09] } 7... Kg8 { [%clk 0:04:18] } 8. Nxg4 { [%clk 0:04:03] } 8... e6 { [%clk 0:04:00] } 9. O-O { [%clk 0:04:00] } 9... Nc6 { [%clk 0:03:58] } 10. c3 { [%clk 0:03:27] } 10... Bd6 { [%clk 0:03:44] } 11. Nxf6+ { [%clk 0:03:16] } 11... gxf6 { [%clk 0:03:19] } 12. Qg4+ { [%clk 0:02:31] } 12... Kf7 { [%clk 0:03:17] } 13. Qh5+ { [%clk 0:02:31] } 13... Ke7 { [%clk 0:03:03] } 14. Rxf6 { [%clk 0:02:31] } 14... Kd7 { [%clk 0:03:00] } 15. Bg5 { [%clk 0:01:43] } 15... Be7 { [%clk 0:02:43] } 16. Rf1 { [%clk 0:01:35] } 16... Bxg5 { [%clk 0:02:40] } 17. Qxg5 { [%clk 0:01:35] } 17... Qxg5 { [%clk 0:02:31] } 0-1

@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/mOtdxgKD"]
+[Date "2019.04.09"]
+[White "jishanshaikh4"]
+[Black "Dissipline"]
+[Result "0-1"]
+[UTCDate "2019.04.09"]
+[UTCTime "19:59:32"]
+[WhiteElo "1609"]
+[BlackElo "1352"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... c6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... d5 { [%clk 0:01:00] } 3. exd5 { [%clk 0:00:59] } 3... cxd5 { [%clk 0:01:00] } 4. Nc3 { [%clk 0:00:58] } 4... Bg4 { [%clk 0:01:00] } 5. d4 { [%clk 0:00:58] } 5... e6 { [%clk 0:00:59] } 6. h3 { [%clk 0:00:56] } 6... Bh5 { [%clk 0:00:58] } 7. g4 { [%clk 0:00:55] } 7... Bg6 { [%clk 0:00:57] } 8. Bf4 { [%clk 0:00:55] } 8... Nf6 { [%clk 0:00:55] } 9. Ne2 { [%clk 0:00:54] } 9... Bd6 { [%clk 0:00:55] } 10. c4 { [%clk 0:00:53] } 10... Bxf4 { [%clk 0:00:54] } 11. Nxf4 { [%clk 0:00:52] } 11... Nc6 { [%clk 0:00:54] } 12. cxd5 { [%clk 0:00:50] } 12... Nxd5 { [%clk 0:00:53] } 13. Bb5 { [%clk 0:00:50] } 13... Nxf4 { [%clk 0:00:52] } 14. Bxc6+ { [%clk 0:00:48] } 14... bxc6 { [%clk 0:00:52] } 15. Qd2 { [%clk 0:00:45] } 15... Nd5 { [%clk 0:00:50] } 16. Ne5 { [%clk 0:00:43] } 16... Qc7 { [%clk 0:00:48] } 17. Nxg6 { [%clk 0:00:41] } 17... hxg6 { [%clk 0:00:48] } 18. Qd3 { [%clk 0:00:38] } 18... Rb8 { [%clk 0:00:45] } 19. O-O { [%clk 0:00:37] } 19... O-O { [%clk 0:00:43] } 20. Rfe1 { [%clk 0:00:37] } 20... Rxb2 { [%clk 0:00:41] } 21. f3 { [%clk 0:00:36] } 21... Rfb8 { [%clk 0:00:38] } 22. f4 { [%clk 0:00:35] } 22... Nxf4 { [%clk 0:00:36] } 23. Qe4 { [%clk 0:00:33] } 23... Nd5 { [%clk 0:00:35] } 24. h4 { [%clk 0:00:30] } 24... Qg3+ { [%clk 0:00:33] } 25. Qg2 { [%clk 0:00:29] } 0-1

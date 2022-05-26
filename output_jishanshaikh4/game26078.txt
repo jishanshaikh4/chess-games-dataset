@@ -1,0 +1,17 @@
+[Event "AICL IIT Bombay vs NITs United Arena"]
+[Site "https://lichess.org/HHmH4WbC"]
+[Date "2020.03.25"]
+[White "jishanshaikh4"]
+[Black "shahmehul1999"]
+[Result "0-1"]
+[UTCDate "2020.03.25"]
+[UTCTime "16:55:38"]
+[WhiteElo "1847"]
+[BlackElo "1218"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Abandoned"]
+
+0-1

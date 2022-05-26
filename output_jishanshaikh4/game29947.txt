@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/eJ69PXR5"]
+[Date "2019.09.30"]
+[White "jishanshaikh4"]
+[Black "Evangrig"]
+[Result "1-0"]
+[UTCDate "2019.09.30"]
+[UTCTime "17:04:22"]
+[WhiteElo "1901"]
+[BlackElo "1922"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Scandinavian Defense"]
+[Termination "Normal"]
+
+1. c4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. e3 { [%clk 0:01:00] } 2... dxc4 { [%clk 0:00:59] } 3. Be2 { [%clk 0:01:00] } 3... b5 { [%clk 0:00:57] } 4. Nc3 { [%clk 0:00:59] } 4... a6 { [%clk 0:00:55] } 5. a4 { [%clk 0:00:58] } 5... c6 { [%clk 0:00:54] } 6. axb5 { [%clk 0:00:57] } 6... cxb5 { [%clk 0:00:54] } 7. Nxb5 { [%clk 0:00:55] } 1-0

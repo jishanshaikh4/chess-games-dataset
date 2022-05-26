@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/YpCqGKAl"]
+[Date "2018.10.28"]
+[White "solskjaer"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.10.28"]
+[UTCTime "17:01:16"]
+[WhiteElo "1388"]
+[BlackElo "1130"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:01] } 2... Nc6 { [%clk 0:01:01] } 3. Bc4 { [%clk 0:01:01] } 3... Nh6 { [%clk 0:00:59] } 4. d3 { [%clk 0:00:59] } 4... Bc5 { [%clk 0:00:57] } 5. c3 { [%clk 0:00:57] } 5... Ng4 { [%clk 0:00:55] } 6. d4 { [%clk 0:00:53] } 6... exd4 { [%clk 0:00:54] } 7. cxd4 { [%clk 0:00:53] } 7... Nxd4 { [%clk 0:00:51] } 8. Nxd4 { [%clk 0:00:53] } 8... d6 { [%clk 0:00:47] } 9. Qf3 { [%clk 0:00:50] } 9... O-O { [%clk 0:00:37] } 10. Be3 { [%clk 0:00:41] } 10... Qf6 { [%clk 0:00:31] } 11. Qxf6 { [%clk 0:00:37] } 11... Nxf6 { [%clk 0:00:24] } 12. Nc2 { [%clk 0:00:36] } 12... Bxe3 { [%clk 0:00:23] } 13. Nxe3 { [%clk 0:00:37] } 13... Nxe4 { [%clk 0:00:22] } 14. O-O { [%clk 0:00:33] } 14... Be6 { [%clk 0:00:11] } 15. Bxe6 { [%clk 0:00:33] } 15... fxe6 { [%clk 0:00:11] } 16. Nc3 { [%clk 0:00:33] } 1-0

@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/wkmTqGRh"]
+[Date "2022.01.07"]
+[White "jishanshaikh4"]
+[Black "Navodaya29"]
+[Result "1-0"]
+[UTCDate "2022.01.07"]
+[UTCTime "10:31:22"]
+[WhiteElo "2085"]
+[BlackElo "1977"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Macleod Attack"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. c3 { [%clk 0:02:58] } 2... Nf6 { [%clk 0:02:57] } 3. f3 { [%clk 0:02:57] } 3... d6 { [%clk 0:02:56] } 4. d4 { [%clk 0:02:56] } 4... exd4 { [%clk 0:02:55] } 5. cxd4 { [%clk 0:02:56] } 5... c5 { [%clk 0:02:53] } 6. Ne2 { [%clk 0:02:53] } 6... cxd4 { [%clk 0:02:52] } 7. Nxd4 { [%clk 0:02:53] } 7... Be7 { [%clk 0:02:51] } 8. Nc3 { [%clk 0:02:51] } 8... O-O { [%clk 0:02:50] } 9. Be3 { [%clk 0:02:50] } 9... Nc6 { [%clk 0:02:48] } 10. Bd3 { [%clk 0:02:49] } 10... Ne5 { [%clk 0:02:46] } 11. Bc2 { [%clk 0:02:48] } 11... Be6 { [%clk 0:02:40] } 12. O-O { [%clk 0:02:46] } 12... Nc4 { [%clk 0:02:35] } 13. Bc1 { [%clk 0:02:41] } 13... Qb6 { [%clk 0:02:32] } 14. Bb3 { [%clk 0:02:36] } 14... d5 { [%clk 0:02:26] } 15. Kh1 { [%clk 0:02:28] } 15... dxe4 { [%clk 0:02:10] } 16. Nxe6 { [%clk 0:02:24] } 16... Qxe6 { [%clk 0:02:09] } 17. fxe4 { [%clk 0:02:21] } 17... Bc5 { [%clk 0:01:57] } 18. Qe2 { [%clk 0:02:17] } 18... b5 { [%clk 0:01:36] } 19. Bg5 { [%clk 0:02:14] } 19... Bd4 { [%clk 0:01:28] } 20. Rad1 { [%clk 0:02:07] } 20... Bxc3 { [%clk 0:01:26] } 21. bxc3 { [%clk 0:02:07] } 21... Rac8 { [%clk 0:01:23] } 22. Rd4 { [%clk 0:01:58] } 22... Nd7 { [%clk 0:01:12] } 23. Rfd1 { [%clk 0:01:53] } 23... Ndb6 { [%clk 0:01:11] } 24. a4 { [%clk 0:01:38] } 24... bxa4 { [%clk 0:01:08] } 25. Bxc4 { [%clk 0:01:37] } 25... Nxc4 { [%clk 0:01:05] } 26. Ra1 { [%clk 0:01:34] } 26... a3 { [%clk 0:01:02] } 27. Bc1 { [%clk 0:01:23] } 27... Ne5 { [%clk 0:00:58] } 28. Rxa3 { [%clk 0:01:17] } 28... Ng4 { [%clk 0:00:56] } 29. h3 { [%clk 0:01:10] } 29... Nf6 { [%clk 0:00:55] } 30. Rxa7 { [%clk 0:01:08] } 30... Rfe8 { [%clk 0:00:53] } 31. Ra6 { [%clk 0:01:05] } 31... Qc4 { [%clk 0:00:50] } 32. Qxc4 { [%clk 0:01:03] } 1-0

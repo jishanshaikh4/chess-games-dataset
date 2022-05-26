@@ -1,0 +1,17 @@
+[Event "IITGN vs NITB vs IITTP Team Battle"]
+[Site "https://lichess.org/8dim2xdC"]
+[Date "2020.12.12"]
+[White "spandchess"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2020.12.12"]
+[UTCTime "14:41:22"]
+[WhiteElo "2107"]
+[BlackElo "1881"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. exd5 { [%clk 0:03:01] } 2... Qxd5 { [%clk 0:03:02] } 3. Nc3 { [%clk 0:03:01] } 3... Qd8 { [%clk 0:03:03] } 4. Nf3 { [%clk 0:03:01] } 4... Nf6 { [%clk 0:03:05] } 5. d4 { [%clk 0:03:02] } 5... Bg4 { [%clk 0:03:07] } 6. Be2 { [%clk 0:03:02] } 6... e6 { [%clk 0:03:08] } 7. h3 { [%clk 0:03:02] } 7... Bh5 { [%clk 0:03:08] } 8. Be3 { [%clk 0:03:01] } 8... Bb4 { [%clk 0:03:08] } 9. Qd3 { [%clk 0:03:00] } 9... a5 { [%clk 0:03:06] } 10. a3 { [%clk 0:03:01] } 10... Be7 { [%clk 0:03:06] } 11. O-O { [%clk 0:02:58] } 11... O-O { [%clk 0:03:05] } 12. Ne4 { [%clk 0:02:55] } 12... Bg6 { [%clk 0:03:04] } 13. Nxf6+ { [%clk 0:02:56] } 13... Bxf6 { [%clk 0:03:06] } 14. Qd2 { [%clk 0:02:57] } 14... Nc6 { [%clk 0:02:58] } 15. c3 { [%clk 0:02:58] } 15... Qe7 { [%clk 0:02:55] } 16. Bg5 { [%clk 0:02:58] } 16... h6 { [%clk 0:02:52] } 17. Bxf6 { [%clk 0:02:56] } 17... Qxf6 { [%clk 0:02:54] } 18. Bd3 { [%clk 0:02:54] } 18... Bxd3 { [%clk 0:02:54] } 19. Qxd3 { [%clk 0:02:56] } 19... Rad8 { [%clk 0:02:55] } 20. Qe4 { [%clk 0:02:56] } 20... Rd5 { [%clk 0:02:55] } 21. Rfe1 { [%clk 0:02:55] } 21... Rfd8 { [%clk 0:02:55] } 22. Qg4 { [%clk 0:02:49] } 22... Ne7 { [%clk 0:02:54] } 23. Nd2 { [%clk 0:02:44] } 23... Rg5 { [%clk 0:02:51] } 24. Qe2 { [%clk 0:02:40] } 24... Qg6 { [%clk 0:02:51] } 25. f4 { [%clk 0:02:28] } 25... Rg3 { [%clk 0:02:51] } 26. Kh2 { [%clk 0:02:15] } 26... Nf5 { [%clk 0:02:49] } 27. Qf2 { [%clk 0:01:54] } 27... Qf6 { [%clk 0:02:13] } 28. Ne4 { [%clk 0:01:53] } 28... Qg6 { [%clk 0:01:55] } 29. Nxg3 { [%clk 0:01:51] } 29... Nxg3 { [%clk 0:01:57] } 30. Qxg3 { [%clk 0:01:52] } 30... Qc2 { [%clk 0:01:58] } 31. Rec1 { [%clk 0:01:34] } 31... Qxb2 { [%clk 0:01:56] } 32. Rab1 { [%clk 0:01:36] } 32... Qxa3 { [%clk 0:01:57] } 33. Rc2 { [%clk 0:01:34] } 33... b6 { [%clk 0:01:54] } 34. Rf2 { [%clk 0:01:33] } 34... f6 { [%clk 0:01:42] } 35. Re1 { [%clk 0:01:30] } 35... Kf7 { [%clk 0:01:38] } 36. Rfe2 { [%clk 0:01:30] } 36... Qb3 { [%clk 0:01:37] } 37. Rxe6 { [%clk 0:01:27] } 1-0

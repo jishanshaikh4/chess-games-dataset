@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/ircPIl0B"]
+[Date "2019.01.07"]
+[White "A10Pilot"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.01.07"]
+[UTCTime "14:54:57"]
+[WhiteElo "1427"]
+[BlackElo "1320"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59] } 2... dxe4 { [%clk 0:00:59] } 3. Ng5 { [%clk 0:00:59] } 3... Nf6 { [%clk 0:00:55] } 4. d3 { [%clk 0:00:58] } 4... exd3 { [%clk 0:00:53] } 5. Bxd3 { [%clk 0:00:58] } 5... h6 { [%clk 0:00:51] } 6. Nxf7 { [%clk 0:00:58] } 6... Kxf7 { [%clk 0:00:50] } 7. Bg6+ { [%clk 0:00:58] } 7... Kxg6 { [%clk 0:00:46] } 8. Qxd8 { [%clk 0:00:58] } 8... Nc6 { [%clk 0:00:45] } 9. Qxc7 { [%clk 0:00:56] } 9... Bg4 { [%clk 0:00:43] } 10. Qg3 { [%clk 0:00:56] } 10... e6 { [%clk 0:00:40] } 11. f3 { [%clk 0:00:55] } 1-0

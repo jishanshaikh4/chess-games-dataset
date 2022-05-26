@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/IF76MOta"]
+[Date "2018.11.27"]
+[White "TigerVilla"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2018.11.27"]
+[UTCTime "18:58:33"]
+[WhiteElo "1500"]
+[BlackElo "1283"]
+[Variant "Standard"]
+[TimeControl "600+1"]
+[ECO "A05"]
+[Opening "Zukertort Opening"]
+[Termination "Normal"]
+
+1. Nf3 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:10:00] } 2. Nc3 { [%clk 0:09:56] } 2... g6 { [%clk 0:09:58] } 3. e4 { [%clk 0:09:55] } 3... Bg7 { [%clk 0:09:57] } 4. d4 { [%clk 0:09:52] } 4... d5 { [%clk 0:09:53] } 5. Bd3 { [%clk 0:09:46] } 5... O-O { [%clk 0:09:51] } 6. h3 { [%clk 0:09:43] } 6... Re8 { [%clk 0:09:49] } 7. O-O { [%clk 0:09:40] } 7... Nc6 { [%clk 0:09:47] } 8. a3 { [%clk 0:09:19] } 8... e5 { [%clk 0:09:44] } 9. Be3 { [%clk 0:08:53] } 9... exd4 { [%clk 0:09:39] } 10. Bxd4 { [%clk 0:08:46] } 10... Nxd4 { [%clk 0:09:36] } 11. Nxd4 { [%clk 0:08:41] } 11... dxe4 { [%clk 0:09:34] } 12. Bc4 { [%clk 0:08:26] } 12... Be6 { [%clk 0:09:13] } 13. Bxe6 { [%clk 0:08:24] } 13... fxe6 { [%clk 0:09:10] } 14. Re1 { [%clk 0:08:11] } 14... Nd7 { [%clk 0:09:06] } 15. Nxe4 { [%clk 0:08:04] } 15... Nb6 { [%clk 0:09:00] } 16. Nf3 { [%clk 0:07:49] } 16... Bxb2 { [%clk 0:08:57] } 17. Rb1 { [%clk 0:07:46] } 17... Bxa3 { [%clk 0:08:48] } 18. Nf6+ { [%clk 0:07:19] } 18... Qxf6 { [%clk 0:08:44] } 19. Qd3 { [%clk 0:06:55] } 19... Bd6 { [%clk 0:08:33] } 20. Re3 { [%clk 0:06:31] } 20... Rad8 { [%clk 0:08:31] } 21. Qe4 { [%clk 0:06:15] } 21... Bc5 { [%clk 0:08:19] } 22. Rc3 { [%clk 0:05:58] } 22... Rd5 { [%clk 0:08:04] } 23. Qe3 { [%clk 0:05:32] } 23... Bxe3 { [%clk 0:08:01] } 0-1

@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/Ji9U1aYR"]
+[Date "2021.09.01"]
+[White "jishanshaikh4"]
+[Black "Animesh264"]
+[Result "0-1"]
+[UTCDate "2021.09.01"]
+[UTCTime "12:08:46"]
+[WhiteElo "2083"]
+[BlackElo "1725"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A46"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... d6 { [%clk 0:01:00] } 3. c4 { [%clk 0:01:00] } 3... g6 { [%clk 0:01:00] } 4. g3 { [%clk 0:00:30] } 4... Bg4 { [%clk 0:00:59] } 5. Bg2 { [%clk 0:00:30] } 5... Bxf3 { [%clk 0:00:59] } 6. Bxf3 { [%clk 0:00:30] } 6... Bg7 { [%clk 0:00:58] } 7. Bg2 { [%clk 0:00:30] } 7... Nc6 { [%clk 0:00:58] } 8. O-O { [%clk 0:00:30] } 8... O-O { [%clk 0:00:57] } 9. Nc3 { [%clk 0:00:30] } 9... e5 { [%clk 0:00:55] } 10. d5 { [%clk 0:00:30] } 10... Ne7 { [%clk 0:00:55] } 11. a3 { [%clk 0:00:30] } 11... c6 { [%clk 0:00:54] } 12. f3 { [%clk 0:00:30] } 12... cxd5 { [%clk 0:00:52] } 13. cxd5 { [%clk 0:00:30] } 13... Qa5 { [%clk 0:00:48] } 14. e4 { [%clk 0:00:29] } 14... Qd8 { [%clk 0:00:45] } 15. Be3 { [%clk 0:00:29] } 15... Nc8 { [%clk 0:00:44] } 16. Rc1 { [%clk 0:00:28] } 16... Nb6 { [%clk 0:00:44] } 17. Bxb6 { [%clk 0:00:27] } 17... axb6 { [%clk 0:00:43] } 18. Qd2 { [%clk 0:00:27] } 18... Rc8 { [%clk 0:00:42] } 19. Qe3 { [%clk 0:00:26] } 19... Nh5 { [%clk 0:00:41] } 20. Qxb6 { [%clk 0:00:25] } 20... Qxb6+ { [%clk 0:00:39] } 21. Kh1 { [%clk 0:00:24] } 21... Qxb2 { [%clk 0:00:38] } 22. g4 { [%clk 0:00:23] } 22... Rxc3 { [%clk 0:00:36] } 23. gxh5 { [%clk 0:00:21] } 23... Rxc1 { [%clk 0:00:35] } 24. Rxc1 { [%clk 0:00:21] } 24... Qxc1+ { [%clk 0:00:35] } 0-1

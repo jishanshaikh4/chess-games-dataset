@@ -1,0 +1,17 @@
+[Event "Casual King of the Hill game"]
+[Site "https://lichess.org/la2OUpoM"]
+[Date "2020.09.15"]
+[White "Shiva2222"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2020.09.15"]
+[UTCTime "08:10:50"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "King of the Hill"]
+[TimeControl "300+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:05:00] } 1... d5 { [%clk 0:05:00] } 2. exd5 { [%clk 0:04:59] } 2... Qxd5 { [%clk 0:05:00] } 3. d4 { [%clk 0:04:58] } 3... c5 { [%clk 0:04:57] } 4. Nc3 { [%clk 0:04:55] } 4... Qxd4 { [%clk 0:04:56] } 5. Bd3 { [%clk 0:04:51] } 5... Kd7 { [%clk 0:04:55] } 6. Nf3 { [%clk 0:04:46] } 6... Kd6 { [%clk 0:04:51] } 7. O-O { [%clk 0:03:53] } 7... Qxc3 { [%clk 0:04:47] } 8. Be4+ { [%clk 0:03:47] } 8... Ke6 { [%clk 0:04:44] } 9. Qd5+ { [%clk 0:03:43] } 9... Kf6 { [%clk 0:04:38] } 10. Bg5# { [%clk 0:03:39] } 1-0

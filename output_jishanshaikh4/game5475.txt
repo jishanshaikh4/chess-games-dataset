@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/H1QDoakj"]
+[Date "2021.11.27"]
+[White "ayushdemre"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.11.27"]
+[UTCTime "17:49:06"]
+[WhiteElo "1500"]
+[BlackElo "1937"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Bc4 { [%clk 0:09:47] } 2... Nc6 { [%clk 0:09:58] } 3. Qf3 { [%clk 0:09:45] } 3... e6 { [%clk 0:09:55] } 4. Nc3 { [%clk 0:09:39] } 4... g6 { [%clk 0:09:50] } 5. d3 { [%clk 0:09:11] } 5... Bg7 { [%clk 0:09:46] } 6. Nh3 { [%clk 0:08:35] } 6... Nd4 { [%clk 0:09:44] } 7. Bg5 { [%clk 0:08:22] } 7... Nxf3+ { [%clk 0:09:40] } 8. gxf3 { [%clk 0:08:14] } 8... Qb6 { [%clk 0:09:38] } 9. Rb1 { [%clk 0:07:46] } 9... h6 { [%clk 0:09:32] } 10. Ke2 { [%clk 0:07:35] } 10... hxg5 { [%clk 0:09:30] } 11. Nxg5 { [%clk 0:07:30] } 11... Nf6 { [%clk 0:09:23] } 12. Rbg1 { [%clk 0:06:57] } 12... Qxb2 { [%clk 0:09:16] } 13. Rg3 { [%clk 0:05:56] } 13... Qxc2+ { [%clk 0:09:13] } 14. Kf1 { [%clk 0:05:29] } 14... Qxc3 { [%clk 0:09:10] } 15. Bb3 { [%clk 0:04:57] } 15... Qxd3+ { [%clk 0:09:06] } 16. Kg2 { [%clk 0:04:51] } 16... Nh5 { [%clk 0:09:06] } 17. Rh3 { [%clk 0:04:29] } 17... Nf4+ { [%clk 0:09:03] } 18. Kg3 { [%clk 0:04:15] } 18... Nxh3 { [%clk 0:09:03] } 19. Nxh3 { [%clk 0:04:01] } 19... Rxh3+ { [%clk 0:09:03] } 20. Kxh3 { [%clk 0:03:59] } 20... Qxf3+ { [%clk 0:09:02] } 21. Kh4 { [%clk 0:03:51] } 21... Bf6# { [%clk 0:09:02] } 0-1

@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/Qv4P5pNm"]
+[Date "2019.08.22"]
+[White "ohcomeon"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.08.22"]
+[UTCTime "03:32:37"]
+[WhiteElo "1750"]
+[BlackElo "1800"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D03"]
+[Opening "Queen's Pawn Game: Torre Attack"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Bg5 { [%clk 0:00:59] } 2... Nf6 { [%clk 0:01:00] } 3. Nf3 { [%clk 0:00:58] } 3... c5 { [%clk 0:00:59] } 4. e3 { [%clk 0:00:57] } 4... h6 { [%clk 0:00:59] } 5. Bh4 { [%clk 0:00:56] } 5... e5 { [%clk 0:00:58] } 6. dxe5 { [%clk 0:00:53] } 6... g5 { [%clk 0:00:55] } 7. Nxg5 { [%clk 0:00:44] } 7... Nfd7 { [%clk 0:00:50] } 8. Qh5 { [%clk 0:00:39] } 8... Bg7 { [%clk 0:00:46] } 9. Qxf7# { [%clk 0:00:38] } 1-0

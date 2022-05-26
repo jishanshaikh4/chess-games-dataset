@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/0z3HUg6U"]
+[Date "2018.11.26"]
+[White "chromodynamic"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.11.26"]
+[UTCTime "18:20:59"]
+[WhiteElo "2164"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A40"]
+[Opening "Modern Defense"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:01:00] } 1... g6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... Bg7 { [%clk 0:00:59] } 3. c4 { [%clk 0:01:00] } 3... Nf6 { [%clk 0:00:59] } 4. e3 { [%clk 0:01:00] } 4... O-O { [%clk 0:00:58] } 5. Nc3 { [%clk 0:01:00] } 5... Re8 { [%clk 0:00:58] } 6. Be2 { [%clk 0:01:00] } 6... e6 { [%clk 0:00:57] } 7. O-O { [%clk 0:01:00] } 7... d5 { [%clk 0:00:57] } 8. cxd5 { [%clk 0:00:59] } 8... exd5 { [%clk 0:00:57] } 9. b3 { [%clk 0:00:58] } 9... Nc6 { [%clk 0:00:56] } 10. Bb2 { [%clk 0:00:58] } 10... Nb4 { [%clk 0:00:56] } 11. Rc1 { [%clk 0:00:55] } 11... a5 { [%clk 0:00:55] } 12. Ne5 { [%clk 0:00:54] } 12... Be6 { [%clk 0:00:53] } 13. a3 { [%clk 0:00:53] } 13... Qd6 { [%clk 0:00:51] } 14. axb4 { [%clk 0:00:51] } 14... axb4 { [%clk 0:00:51] } 15. Na4 { [%clk 0:00:49] } 15... Re7 { [%clk 0:00:48] } 16. Ra1 { [%clk 0:00:46] } 16... Ne4 { [%clk 0:00:47] } 17. Bd3 { [%clk 0:00:42] } 17... Bxe5 { [%clk 0:00:46] } 18. dxe5 { [%clk 0:00:42] } 18... Qxe5 { [%clk 0:00:45] } 19. Bxe5 { [%clk 0:00:41] } 1-0

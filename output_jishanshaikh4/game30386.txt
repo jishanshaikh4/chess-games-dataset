@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/CnsCeFik"]
+[Date "2019.08.20"]
+[White "bpbpbpbpbp"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.08.20"]
+[UTCTime "20:40:31"]
+[WhiteElo "1784"]
+[BlackElo "1800"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A46"]
+[Opening "Indian Defense: Spielmann-Indian"]
+[Termination "Normal"]
+
+1. Nf3 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. d4 { [%clk 0:01:00] } 2... c5 { [%clk 0:00:58] } 3. e3 { [%clk 0:01:00] } 3... d5 { [%clk 0:00:58] } 4. Nbd2 { [%clk 0:00:59] } 4... Bf5 { [%clk 0:00:57] } 5. Bd3 { [%clk 0:00:58] } 5... e6 { [%clk 0:00:57] } 6. O-O { [%clk 0:00:56] } 6... cxd4 { [%clk 0:00:56] } 7. exd4 { [%clk 0:00:55] } 7... Bxd3 { [%clk 0:00:55] } 8. cxd3 { [%clk 0:00:55] } 8... Be7 { [%clk 0:00:54] } 9. Ne5 { [%clk 0:00:54] } 9... O-O { [%clk 0:00:54] } 10. f4 { [%clk 0:00:53] } 10... Nfd7 { [%clk 0:00:54] } 11. Rf3 { [%clk 0:00:52] } 11... f6 { [%clk 0:00:53] } 12. Nxd7 { [%clk 0:00:50] } 12... Qxd7 { [%clk 0:00:53] } 13. b3 { [%clk 0:00:50] } 13... Nc6 { [%clk 0:00:53] } 14. a4 { [%clk 0:00:48] } 14... Nxd4 { [%clk 0:00:52] } 15. Rh3 { [%clk 0:00:47] } 15... e5 { [%clk 0:00:51] } 16. fxe5 { [%clk 0:00:45] } 16... fxe5 { [%clk 0:00:50] } 17. Ba3 { [%clk 0:00:45] } 17... Rf6 { [%clk 0:00:48] } 18. Bxe7 { [%clk 0:00:44] } 18... Qxe7 { [%clk 0:00:48] } 19. Nf3 { [%clk 0:00:41] } 19... Qe6 { [%clk 0:00:47] } 20. Nxd4 { [%clk 0:00:40] } 20... exd4 { [%clk 0:00:47] } 21. Qd2 { [%clk 0:00:38] } 21... Rg6 { [%clk 0:00:45] } 22. Re1 { [%clk 0:00:36] } 22... Qxh3 { [%clk 0:00:44] } 23. Re7 { [%clk 0:00:27] } 23... Rf8 { [%clk 0:00:42] } 0-1

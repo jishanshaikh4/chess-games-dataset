@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/jcz7rHps"]
+[Date "2021.08.20"]
+[White "jishanshaikh4"]
+[Black "Navodaya29"]
+[Result "1-0"]
+[UTCDate "2021.08.20"]
+[UTCTime "17:03:55"]
+[WhiteElo "2115"]
+[BlackElo "1813"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[Termination "Time forfeit"]
+
+1. e3 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. d4 { [%clk 0:01:00] } 2... exd4 { [%clk 0:00:58] } 3. exd4 { [%clk 0:01:00] } 3... d5 { [%clk 0:00:58] } 4. c4 { [%clk 0:01:00] } 4... Nf6 { [%clk 0:00:58] } 5. Nf3 { [%clk 0:01:00] } 5... dxc4 { [%clk 0:00:57] } 6. Nc3 { [%clk 0:01:00] } 6... Bb4 { [%clk 0:00:56] } 7. Bxc4 { [%clk 0:00:59] } 7... O-O { [%clk 0:00:55] } 8. O-O { [%clk 0:00:59] } 8... Bg4 { [%clk 0:00:55] } 9. Be3 { [%clk 0:00:58] } 9... Nc6 { [%clk 0:00:54] } 10. Bb3 { [%clk 0:00:57] } 10... Ne7 { [%clk 0:00:51] } 11. h3 { [%clk 0:00:53] } 11... Bh5 { [%clk 0:00:50] } 12. g4 { [%clk 0:00:51] } 12... Nxg4 { [%clk 0:00:49] } 13. hxg4 { [%clk 0:00:51] } 13... Bxg4 { [%clk 0:00:48] } 14. Bc4 { [%clk 0:00:50] } 14... Nf5 { [%clk 0:00:47] } 15. Be2 { [%clk 0:00:49] } 15... Qf6 { [%clk 0:00:44] } 16. Ne5 { [%clk 0:00:46] } 16... Nxe3 { [%clk 0:00:42] } 17. fxe3 { [%clk 0:00:46] } 17... Qh6 { [%clk 0:00:31] } 18. Nxg4 { [%clk 0:00:42] } 18... Qg5 { [%clk 0:00:30] } 19. Qd3 { [%clk 0:00:40] } 19... f5 { [%clk 0:00:28] } 20. Rf4 { [%clk 0:00:36] } 20... fxg4 { [%clk 0:00:27] } 21. Rxg4 { [%clk 0:00:36] } 21... Qh6 { [%clk 0:00:24] } 22. Kg2 { [%clk 0:00:34] } 22... Rf7 { [%clk 0:00:22] } 23. Rh1 { [%clk 0:00:33] } 23... Qc6+ { [%clk 0:00:20] } 24. d5 { [%clk 0:00:31] } 24... Qd6 { [%clk 0:00:18] } 25. Qxh7+ { [%clk 0:00:30] } 25... Kf8 { [%clk 0:00:18] } 26. Qh8+ { [%clk 0:00:29] } 26... Ke7 { [%clk 0:00:17] } 27. Re4+ { [%clk 0:00:29] } 27... Kd7 { [%clk 0:00:16] } 28. Bg4+ { [%clk 0:00:28] } 28... Qe6 { [%clk 0:00:12] } 29. Bxe6+ { [%clk 0:00:27] } 29... Kd6 { [%clk 0:00:11] } 30. Bxf7 { [%clk 0:00:25] } 30... Kc5 { [%clk 0:00:11] } 31. Qxa8 { [%clk 0:00:24] } 31... Bxc3 { [%clk 0:00:07] } 32. bxc3 { [%clk 0:00:22] } 1-0

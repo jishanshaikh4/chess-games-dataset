@@ -1,0 +1,17 @@
+[Event "AICL 2.0 Finals Bullet Team Battle"]
+[Site "https://lichess.org/qtPKWF4e"]
+[Date "2020.12.27"]
+[White "jishanshaikh4"]
+[Black "rohitkarn"]
+[Result "0-1"]
+[UTCDate "2020.12.27"]
+[UTCTime "12:31:50"]
+[WhiteElo "1921"]
+[BlackElo "1775"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "C40"]
+[Opening "Latvian Gambit Accepted"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... e5 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:01:59] } 2... f5 { [%clk 0:01:59] } 3. exf5 { [%clk 0:01:57] } 3... e4 { [%clk 0:01:59] } 4. Nd4 { [%clk 0:01:56] } 4... Nf6 { [%clk 0:01:57] } 5. Bc4 { [%clk 0:01:55] } 5... d5 { [%clk 0:01:55] } 6. Bb5+ { [%clk 0:01:53] } 6... c6 { [%clk 0:01:54] } 7. Ba4 { [%clk 0:01:52] } 7... b5 { [%clk 0:01:53] } 8. Bb3 { [%clk 0:01:50] } 8... a6 { [%clk 0:01:51] } 9. c3 { [%clk 0:01:47] } 9... c5 { [%clk 0:01:49] } 10. Ne6 { [%clk 0:01:40] } 10... Bxe6 { [%clk 0:01:44] } 11. fxe6 { [%clk 0:01:40] } 11... Qd6 { [%clk 0:01:38] } 12. Qg4 { [%clk 0:01:36] } 12... Nxg4 { [%clk 0:01:33] } 0-1

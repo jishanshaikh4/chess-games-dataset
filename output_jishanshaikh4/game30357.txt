@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/8VK6N5Nu"]
+[Date "2019.08.23"]
+[White "jishanshaikh4"]
+[Black "Alfonz14"]
+[Result "0-1"]
+[UTCDate "2019.08.23"]
+[UTCTime "17:43:15"]
+[WhiteElo "1800"]
+[BlackElo "1490"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A54"]
+[Opening "Old Indian Defense: Two Knights Variation"]
+[Termination "Time forfeit"]
+
+1. c4 { [%clk 0:01:00] } 1... d6 { [%clk 0:01:00] } 2. Nc3 { [%clk 0:00:59] } 2... e5 { [%clk 0:01:00] } 3. d4 { [%clk 0:00:59] } 3... Nf6 { [%clk 0:00:59] } 4. Nf3 { [%clk 0:00:58] } 4... Be7 { [%clk 0:00:59] } 5. d5 { [%clk 0:00:56] } 5... O-O { [%clk 0:00:59] } 6. e4 { [%clk 0:00:55] } 6... c6 { [%clk 0:00:58] } 7. Be2 { [%clk 0:00:55] } 7... cxd5 { [%clk 0:00:57] } 8. cxd5 { [%clk 0:00:55] } 8... b6 { [%clk 0:00:55] } 9. O-O { [%clk 0:00:55] } 9... Bb7 { [%clk 0:00:54] } 10. Bb5 { [%clk 0:00:54] } 10... Na6 { [%clk 0:00:54] } 11. Qe2 { [%clk 0:00:54] } 11... Nc5 { [%clk 0:00:52] } 12. Na4 { [%clk 0:00:50] } 12... Rc8 { [%clk 0:00:51] } 13. Nxc5 { [%clk 0:00:49] } 13... Rxc5 { [%clk 0:00:49] } 14. Ba6 { [%clk 0:00:49] } 14... Bxa6 { [%clk 0:00:47] } 15. Qxa6 { [%clk 0:00:49] } 15... Qd7 { [%clk 0:00:45] } 16. Be3 { [%clk 0:00:48] } 16... Rfc8 { [%clk 0:00:45] } 17. Bxc5 { [%clk 0:00:47] } 17... Rxc5 { [%clk 0:00:44] } 18. Rac1 { [%clk 0:00:46] } 18... Rxc1 { [%clk 0:00:43] } 19. Rxc1 { [%clk 0:00:46] } 19... Ng4 { [%clk 0:00:41] } 20. Rc8+ { [%clk 0:00:43] } 20... Bf8 { [%clk 0:00:38] } 21. h3 { [%clk 0:00:37] } 21... Nf6 { [%clk 0:00:33] } 22. Rc6 { [%clk 0:00:31] } 22... Nxe4 { [%clk 0:00:32] } 23. Qa3 { [%clk 0:00:24] } 23... Nc5 { [%clk 0:00:30] } 24. b4 { [%clk 0:00:18] } 24... Ne6 { [%clk 0:00:26] } 25. Qa4 { [%clk 0:00:15] } 25... Nd4 { [%clk 0:00:22] } 26. Rc1 { [%clk 0:00:10] } 26... Nxf3+ { [%clk 0:00:21] } 27. gxf3 { [%clk 0:00:08] } 27... Qxa4 { [%clk 0:00:20] } 28. Rc8 { [%clk 0:00:07] } 28... Qxa2 { [%clk 0:00:19] } 29. Kg2 { [%clk 0:00:06] } 29... Qb1 { [%clk 0:00:18] } 30. Rc7 { [%clk 0:00:05] } 30... Qg6+ { [%clk 0:00:18] } 31. Kf1 { [%clk 0:00:03] } 31... Qb1+ { [%clk 0:00:17] } 32. Kg2 { [%clk 0:00:02] } 32... Qxb4 { [%clk 0:00:17] } 33. Kf1 { [%clk 0:00:01] } 33... Qc5 { [%clk 0:00:15] } 34. Rxc5 { [%clk 0:00:00] } 34... bxc5 { [%clk 0:00:15] } 0-1

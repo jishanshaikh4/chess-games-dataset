@@ -1,0 +1,17 @@
+[Event "Casual Three-check game"]
+[Site "https://lichess.org/toURl0Vi"]
+[Date "2022.02.17"]
+[White "AdIT19"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2022.02.17"]
+[UTCTime "11:37:43"]
+[WhiteElo "1263"]
+[BlackElo "1335"]
+[Variant "Three-check"]
+[TimeControl "30+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:00:30] } 1... c6 { [%clk 0:00:30] } 2. Nf3 { [%clk 0:00:30] } 2... d5 { [%clk 0:00:30] } 3. exd5 { [%clk 0:00:29] } 3... cxd5 { [%clk 0:00:30] } 4. Nc3 { [%clk 0:00:28] } 4... Nf6 { [%clk 0:00:30] } 5. Nxd5 { [%clk 0:00:27] } 5... Nc6 { [%clk 0:00:30] } 6. Nc7+ { [%clk 0:00:26] } 6... Qxc7 { [%clk 0:00:29] } 7. Ng5 { [%clk 0:00:24] } 7... e6 { [%clk 0:00:29] } 8. Nxf7 { [%clk 0:00:23] } 8... Qxf7 { [%clk 0:00:28] } 9. Bb5 { [%clk 0:00:21] } 9... Be7 { [%clk 0:00:27] } 10. Bxc6+ { [%clk 0:00:21] } 10... bxc6 { [%clk 0:00:27] } 11. Qe2 { [%clk 0:00:19] } 11... O-O { [%clk 0:00:27] } 12. Qf3 { [%clk 0:00:17] } 12... Nd5 { [%clk 0:00:26] } 13. Qh3 { [%clk 0:00:16] } 13... e5 { [%clk 0:00:25] } 14. Qxh7+ { [%clk 0:00:15] } 1-0

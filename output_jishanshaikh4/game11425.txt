@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/tQerdNno"]
+[Date "2021.06.09"]
+[White "Animesh264"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "15:30:26"]
+[WhiteElo "1791"]
+[BlackElo "2100"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A05"]
+[Opening "Zukertort Opening"]
+[Termination "Normal"]
+
+1. Nf3 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. g3 { [%clk 0:01:00] } 2... h5 { [%clk 0:00:59] } 3. d3 { [%clk 0:01:00] } 3... e6 { [%clk 0:00:59] } 4. Bg2 { [%clk 0:00:59] } 4... d5 { [%clk 0:00:58] } 5. O-O { [%clk 0:00:59] } 5... Ng4 { [%clk 0:00:58] } 6. h3 { [%clk 0:00:57] } 6... Nf6 { [%clk 0:00:56] } 7. Bg5 { [%clk 0:00:57] } 7... Be7 { [%clk 0:00:55] } 8. Nc3 { [%clk 0:00:56] } 8... c5 { [%clk 0:00:54] } 9. e4 { [%clk 0:00:55] } 9... dxe4 { [%clk 0:00:53] } 10. Nxe4 { [%clk 0:00:55] } 10... Nc6 { [%clk 0:00:51] } 11. Nxf6+ { [%clk 0:00:52] } 11... gxf6 { [%clk 0:00:51] } 12. Be3 { [%clk 0:00:51] } 12... Bd7 { [%clk 0:00:50] } 13. c3 { [%clk 0:00:50] } 13... Qc7 { [%clk 0:00:49] } 14. Qb3 { [%clk 0:00:49] } 14... O-O-O { [%clk 0:00:48] } 15. a4 { [%clk 0:00:47] } 15... Kb8 { [%clk 0:00:47] } 16. a5 { [%clk 0:00:46] } 16... a6 { [%clk 0:00:46] } 17. d4 { [%clk 0:00:43] } 17... h4 { [%clk 0:00:44] } 18. dxc5 { [%clk 0:00:42] } 18... hxg3 { [%clk 0:00:42] } 19. fxg3 { [%clk 0:00:42] } 19... Qxg3 { [%clk 0:00:40] } 20. Nd4 { [%clk 0:00:36] } 20... Qxe3+ { [%clk 0:00:37] } 21. Kh1 { [%clk 0:00:30] } 21... Nxd4 { [%clk 0:00:36] } 22. Qd1 { [%clk 0:00:21] } 22... Rxh3+ { [%clk 0:00:32] } 23. Bxh3 { [%clk 0:00:21] } 23... Qxh3+ { [%clk 0:00:32] } 24. Kg1 { [%clk 0:00:20] } 24... Bxc5 { [%clk 0:00:30] } 25. cxd4 { [%clk 0:00:18] } 25... Bc6 { [%clk 0:00:27] } 26. dxc5 { [%clk 0:00:16] } 26... Qg2# { [%clk 0:00:26] } 0-1

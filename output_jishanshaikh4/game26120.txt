@@ -1,0 +1,17 @@
+[Event "AICL IITKBHU vs NITUNITED Arena"]
+[Site "https://lichess.org/cksIZOpA"]
+[Date "2020.03.23"]
+[White "jishanshaikh4"]
+[Black "Gkartik"]
+[Result "1-0"]
+[UTCDate "2020.03.23"]
+[UTCTime "17:19:13"]
+[WhiteElo "1862"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Saduleto Variation"]
+[Termination "Time forfeit"]
+
+1. d4 { [%clk 0:02:00] } 1... d5 { [%clk 0:02:00] } 2. c4 { [%clk 0:02:00] } 2... dxc4 { [%clk 0:01:58] } 3. e4 { [%clk 0:01:59] } 3... e6 { [%clk 0:01:55] } 4. Nf3 { [%clk 0:01:58] } 4... Nf6 { [%clk 0:01:50] } 5. Nc3 { [%clk 0:01:57] } 5... Bb4 { [%clk 0:01:47] } 6. Bxc4 { [%clk 0:01:56] } 6... Nxe4 { [%clk 0:01:43] } 7. Qa4+ { [%clk 0:01:51] } 7... Bd7 { [%clk 0:01:31] } 8. Qxb4 { [%clk 0:01:48] } 8... Nxc3 { [%clk 0:01:27] } 9. bxc3 { [%clk 0:01:48] } 9... b6 { [%clk 0:01:25] } 10. Bf4 { [%clk 0:01:41] } 10... Nc6 { [%clk 0:01:23] } 11. Qa3 { [%clk 0:01:39] } 11... Qf6 { [%clk 0:01:12] } 12. Bxc7 { [%clk 0:01:36] } 12... Qf5 { [%clk 0:01:06] } 13. O-O { [%clk 0:01:31] } 13... Rc8 { [%clk 0:00:45] } 14. Qd6 { [%clk 0:01:27] } 14... Qf6 { [%clk 0:00:40] } 15. Ba6 { [%clk 0:01:22] } 15... Qe7 { [%clk 0:00:32] } 16. Qxe7+ { [%clk 0:01:19] } 16... Kxe7 { [%clk 0:00:31] } 17. Bxc8 { [%clk 0:01:19] } 17... Rxc8 { [%clk 0:00:30] } 18. Bg3 { [%clk 0:01:15] } 18... Na5 { [%clk 0:00:28] } 19. Rac1 { [%clk 0:01:13] } 19... Nc4 { [%clk 0:00:26] } 20. Ne5 { [%clk 0:01:12] } 20... Nd2 { [%clk 0:00:17] } 21. Nxd7 { [%clk 0:01:11] } 21... Kxd7 { [%clk 0:00:14] } 22. Rfd1 { [%clk 0:01:09] } 22... Ne4 { [%clk 0:00:10] } 23. d5 { [%clk 0:01:08] } 23... exd5 { [%clk 0:00:03] } 24. Rxd5+ { [%clk 0:01:06] } 24... Ke6 { [%clk 0:00:03] } 25. Re1 { [%clk 0:01:04] } 1-0

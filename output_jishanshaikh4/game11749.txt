@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/g1QDZzGj"]
+[Date "2021.06.01"]
+[White "jishanshaikh4"]
+[Black "leodias0101"]
+[Result "1-0"]
+[UTCDate "2021.06.01"]
+[UTCTime "21:42:20"]
+[WhiteElo "2069"]
+[BlackElo "1803"]
+[Variant "Standard"]
+[TimeControl "45+0"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Normal"]
+
+1. e3 { [%clk 0:00:45] } 1... c5 { [%clk 0:00:45] } 2. d4 { [%clk 0:00:45] } 2... Nc6 { [%clk 0:00:45] } 3. d5 { [%clk 0:00:44] } 3... Ne5 { [%clk 0:00:44] } 4. e4 { [%clk 0:00:44] } 4... d6 { [%clk 0:00:44] } 5. c4 { [%clk 0:00:44] } 5... e6 { [%clk 0:00:43] } 6. Nf3 { [%clk 0:00:44] } 6... Nxf3+ { [%clk 0:00:42] } 7. Qxf3 { [%clk 0:00:44] } 7... f6 { [%clk 0:00:42] } 8. dxe6 { [%clk 0:00:43] } 8... Be7 { [%clk 0:00:41] } 9. Nc3 { [%clk 0:00:42] } 9... Bxe6 { [%clk 0:00:40] } 10. Nd5 { [%clk 0:00:42] } 10... Bf7 { [%clk 0:00:40] } 11. Bf4 { [%clk 0:00:41] } 11... Qd7 { [%clk 0:00:37] } 12. Bd3 { [%clk 0:00:41] } 12... Nh6 { [%clk 0:00:35] } 13. h3 { [%clk 0:00:40] } 13... Ng8 { [%clk 0:00:34] } 14. O-O { [%clk 0:00:39] } 14... Bg6 { [%clk 0:00:33] } 15. Rfe1 { [%clk 0:00:39] } 15... O-O-O { [%clk 0:00:32] } 16. b4 { [%clk 0:00:37] } 16... cxb4 { [%clk 0:00:30] } 17. Nxb4 { [%clk 0:00:37] } 17... b6 { [%clk 0:00:29] } 18. e5 { [%clk 0:00:35] } 18... fxe5 { [%clk 0:00:28] } 19. Qa8+ { [%clk 0:00:34] } 19... Kc7 { [%clk 0:00:26] } 20. Na6# { [%clk 0:00:33] } 1-0

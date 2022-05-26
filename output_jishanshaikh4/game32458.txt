@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/6wD0YmBh"]
+[Date "2019.06.08"]
+[White "silviu_nss"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.06.08"]
+[UTCTime "18:39:17"]
+[WhiteElo "1641"]
+[BlackElo "1610"]
+[Variant "Standard"]
+[TimeControl "0+3"]
+[ECO "E61"]
+[Opening "King's Indian Defense: Smyslov Variation"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:00:03] } 1... g6 { [%clk 0:00:03] } 2. c4 { [%clk 0:00:06] } 2... Bg7 { [%clk 0:00:06] } 3. Nc3 { [%clk 0:00:08] } 3... Nf6 { [%clk 0:00:09] } 4. Nf3 { [%clk 0:00:11] } 4... d6 { [%clk 0:00:12] } 5. Bg5 { [%clk 0:00:13] } 5... O-O { [%clk 0:00:14] } 6. e3 { [%clk 0:00:16] } 6... Nh5 { [%clk 0:00:16] } 7. h3 { [%clk 0:00:13] } 7... f6 { [%clk 0:00:19] } 8. Bh4 { [%clk 0:00:14] } 8... g5 { [%clk 0:00:20] } 9. Bg3 { [%clk 0:00:15] } 9... Nxg3 { [%clk 0:00:21] } 10. fxg3 { [%clk 0:00:19] } 10... Be6 { [%clk 0:00:23] } 11. Bd3 { [%clk 0:00:20] } 11... Bf7 { [%clk 0:00:26] } 12. Qc2 { [%clk 0:00:23] } 12... Nc6 { [%clk 0:00:29] } 13. Bxh7+ { [%clk 0:00:25] } 13... Kh8 { [%clk 0:00:31] } 14. Bg6 { [%clk 0:00:27] } 14... Bxg6 { [%clk 0:00:32] } 15. Qxg6 { [%clk 0:00:30] } 15... Rg8 { [%clk 0:00:35] } 16. h4 { [%clk 0:00:31] } 16... Qe8 { [%clk 0:00:38] } 17. hxg5+ { [%clk 0:00:33] } 17... Bh6 { [%clk 0:00:38] } 18. Rxh6# { [%clk 0:00:33] } 1-0

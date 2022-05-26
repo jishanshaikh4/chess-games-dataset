@@ -1,0 +1,17 @@
+[Event "IITGN vs NITB vs IITTP Team Battle"]
+[Site "https://lichess.org/3NnzPt5c"]
+[Date "2020.12.12"]
+[White "jishanshaikh4"]
+[Black "nellurisunjeevan"]
+[Result "1-0"]
+[UTCDate "2020.12.12"]
+[UTCTime "14:01:12"]
+[WhiteElo "1881"]
+[BlackElo "1633"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense, Beverwijk Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:58] } 2... Nc6 { [%clk 0:03:01] } 3. Bb5 { [%clk 0:02:52] } 3... Bc5 { [%clk 0:03:02] } 4. O-O { [%clk 0:02:51] } 4... Nf6 { [%clk 0:03:00] } 5. Re1 { [%clk 0:02:45] } 5... Ng4 { [%clk 0:03:00] } 6. Re2 { [%clk 0:02:38] } 6... Nd4 { [%clk 0:02:50] } 7. Nxd4 { [%clk 0:02:36] } 7... Bxd4 { [%clk 0:02:48] } 8. h3 { [%clk 0:02:36] } 8... Nxf2 { [%clk 0:02:39] } 9. Rxf2 { [%clk 0:02:38] } 9... Bxf2+ { [%clk 0:02:40] } 10. Kxf2 { [%clk 0:02:38] } 10... O-O { [%clk 0:02:41] } 11. d4 { [%clk 0:02:36] } 11... d5 { [%clk 0:02:40] } 12. dxe5 { [%clk 0:02:34] } 12... Qh4+ { [%clk 0:02:39] } 13. Kg1 { [%clk 0:02:27] } 13... Qxe4 { [%clk 0:02:38] } 14. Nc3 { [%clk 0:02:27] } 14... Qxe5 { [%clk 0:02:34] } 15. Qxd5 { [%clk 0:02:24] } 15... Qf6 { [%clk 0:02:13] } 16. Bg5 { [%clk 0:02:17] } 16... Qg6 { [%clk 0:02:13] } 17. Bd3 { [%clk 0:02:15] } 17... Qb6+ { [%clk 0:02:02] } 18. Kh1 { [%clk 0:02:13] } 18... Qxb2 { [%clk 0:02:03] } 19. Qe4 { [%clk 0:01:49] } 19... g6 { [%clk 0:01:58] } 20. Bh6 { [%clk 0:01:42] } 20... Qxa1+ { [%clk 0:01:50] } 21. Kh2 { [%clk 0:01:42] } 21... Bf5 { [%clk 0:01:50] } 22. Qe5 { [%clk 0:01:39] } 22... f6 { [%clk 0:01:40] } 23. Qxc7 { [%clk 0:01:28] } 23... Rf7 { [%clk 0:01:36] } 24. Bc4 { [%clk 0:01:25] } 1-0

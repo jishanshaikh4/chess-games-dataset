@@ -1,0 +1,17 @@
+[Event "QCT - Qualifier 1 Team Battle"]
+[Site "https://lichess.org/nOOBEHSn"]
+[Date "2021.06.13"]
+[White "karma2000"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.06.13"]
+[UTCTime "14:10:15"]
+[WhiteElo "1858"]
+[BlackElo "2097"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:01:30] } 2. Nc3 { [%clk 0:02:58] } 2... d5 { [%clk 0:01:29] } 3. exd5 { [%clk 0:02:56] } 3... Nxd5 { [%clk 0:01:29] } 4. Nxd5 { [%clk 0:02:55] } 4... Qxd5 { [%clk 0:01:29] } 5. Nf3 { [%clk 0:02:52] } 5... Qd8 { [%clk 0:01:29] } 6. d4 { [%clk 0:02:51] } 6... g6 { [%clk 0:01:29] } 7. b3 { [%clk 0:02:49] } 7... Bg7 { [%clk 0:01:28] } 8. Bb2 { [%clk 0:02:49] } 8... O-O { [%clk 0:01:28] } 9. Bc4 { [%clk 0:02:48] } 9... Nd7 { [%clk 0:01:27] } 10. Qe2 { [%clk 0:02:47] } 10... Nf6 { [%clk 0:01:27] } 11. O-O { [%clk 0:02:46] } 11... a6 { [%clk 0:01:27] } 12. h3 { [%clk 0:02:45] } 12... b5 { [%clk 0:01:26] } 13. Bd3 { [%clk 0:02:44] } 13... Bb7 { [%clk 0:01:26] } 14. Rfe1 { [%clk 0:02:42] } 14... e6 { [%clk 0:01:25] } 15. Ne5 { [%clk 0:02:37] } 15... Nd5 { [%clk 0:01:24] } 16. Be4 { [%clk 0:02:29] } 16... f6 { [%clk 0:01:19] } 17. Nf3 { [%clk 0:02:21] } 17... f5 { [%clk 0:01:18] } 18. Bxd5 { [%clk 0:02:20] } 18... Qxd5 { [%clk 0:01:18] } 19. c4 { [%clk 0:02:15] } 19... bxc4 { [%clk 0:01:14] } 20. bxc4 { [%clk 0:02:15] } 20... Qd6 { [%clk 0:01:11] } 21. c5 { [%clk 0:02:09] } 21... Qd5 { [%clk 0:01:09] } 22. Ne5 { [%clk 0:02:04] } 22... Qxg2# { [%clk 0:01:07] } 0-1

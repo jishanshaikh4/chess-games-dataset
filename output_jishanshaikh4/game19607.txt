@@ -1,0 +1,17 @@
+[Event "IITGN vs NITB vs IITTP Team Battle"]
+[Site "https://lichess.org/EljfhyTg"]
+[Date "2020.12.12"]
+[White "jishanshaikh4"]
+[Black "SunandanGad"]
+[Result "1-0"]
+[UTCDate "2020.12.12"]
+[UTCTime "14:20:38"]
+[WhiteElo "1881"]
+[BlackElo "1110"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Bulgarian Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:59] } 2... Nc6 { [%clk 0:03:01] } 3. Bb5 { [%clk 0:03:00] } 3... a5 { [%clk 0:03:03] } 4. O-O { [%clk 0:03:00] } 4... Bc5 { [%clk 0:02:54] } 5. c3 { [%clk 0:03:00] } 5... Nge7 { [%clk 0:02:53] } 6. d4 { [%clk 0:03:01] } 6... exd4 { [%clk 0:02:53] } 7. cxd4 { [%clk 0:03:03] } 7... Bb4 { [%clk 0:02:48] } 8. a3 { [%clk 0:03:02] } 8... d5 { [%clk 0:02:33] } 9. axb4 { [%clk 0:03:02] } 9... dxe4 { [%clk 0:02:34] } 10. Ne5 { [%clk 0:03:01] } 10... Qxd4 { [%clk 0:02:33] } 11. Nxc6 { [%clk 0:02:58] } 11... Qxd1 { [%clk 0:02:33] } 12. Nxe7+ { [%clk 0:02:52] } 12... Kxe7 { [%clk 0:02:24] } 13. Rxd1 { [%clk 0:02:52] } 13... c6 { [%clk 0:02:21] } 14. Bf1 { [%clk 0:02:49] } 14... Rd8 { [%clk 0:02:21] } 15. Rxd8 { [%clk 0:02:49] } 15... Kxd8 { [%clk 0:02:22] } 16. bxa5 { [%clk 0:02:50] } 16... Ke8 { [%clk 0:02:20] } 17. Be3 { [%clk 0:02:51] } 17... Kf8 { [%clk 0:02:18] } 18. Nc3 { [%clk 0:02:52] } 18... f5 { [%clk 0:02:17] } 19. Bc4 { [%clk 0:02:51] } 19... Rxa5 { [%clk 0:02:13] } 20. Rxa5 { [%clk 0:02:51] } 20... Bd7 { [%clk 0:02:08] } 21. Bc5+ { [%clk 0:02:48] } 21... Ke8 { [%clk 0:02:09] } 22. Ra8+ { [%clk 0:02:49] } 1-0

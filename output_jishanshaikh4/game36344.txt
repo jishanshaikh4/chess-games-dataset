@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/dkIl2VLZ"]
+[Date "2018.11.26"]
+[White "cognizanto"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.11.26"]
+[UTCTime "17:28:43"]
+[WhiteElo "1215"]
+[BlackElo "1175"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:05:00] } 1... e5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:04:59] } 2... Nf6 { [%clk 0:04:59] } 3. Nc3 { [%clk 0:04:56] } 3... Nc6 { [%clk 0:04:58] } 4. d4 { [%clk 0:04:51] } 4... d6 { [%clk 0:04:53] } 5. Be2 { [%clk 0:04:40] } 5... exd4 { [%clk 0:04:48] } 6. Nxd4 { [%clk 0:04:39] } 6... Nxd4 { [%clk 0:04:45] } 7. Qxd4 { [%clk 0:04:37] } 7... Bg4 { [%clk 0:04:21] } 8. f3 { [%clk 0:04:33] } 8... c5 { [%clk 0:04:13] } 9. Qf2 { [%clk 0:04:22] } 9... Be6 { [%clk 0:04:03] } 10. Bg5 { [%clk 0:04:18] } 10... h6 { [%clk 0:03:58] } 11. Be3 { [%clk 0:04:12] } 11... d5 { [%clk 0:03:51] } 12. exd5 { [%clk 0:04:04] } 12... Nxd5 { [%clk 0:03:51] } 13. O-O-O { [%clk 0:04:00] } 13... Qd6 { [%clk 0:03:02] } 14. Bb5+ { [%clk 0:03:58] } 14... Kd8 { [%clk 0:02:52] } 15. Nxd5 { [%clk 0:03:46] } 15... Bxd5 { [%clk 0:02:49] } 16. Rxd5 { [%clk 0:03:43] } 16... Qxd5 { [%clk 0:02:46] } 17. Rd1 { [%clk 0:03:42] } 17... Qxd1+ { [%clk 0:02:33] } 18. Kxd1 { [%clk 0:03:40] } 18... a6 { [%clk 0:02:33] } 19. Bc4 { [%clk 0:03:37] } 19... Be7 { [%clk 0:02:31] } 20. Bxf7 { [%clk 0:03:33] } 20... Kc7 { [%clk 0:02:30] } 21. Qg3+ { [%clk 0:03:29] } 21... Kb6 { [%clk 0:02:28] } 22. c4 { [%clk 0:03:21] } 22... Rhf8 { [%clk 0:02:26] } 23. Bd5 { [%clk 0:03:16] } 23... Rfe8 { [%clk 0:02:22] } 24. b4 { [%clk 0:03:06] } 24... Rad8 { [%clk 0:02:20] } 25. a4 { [%clk 0:03:00] } 25... Rd7 { [%clk 0:01:56] } 26. a5+ { [%clk 0:02:44] } 26... Ka7 { [%clk 0:01:53] } 27. bxc5 { [%clk 0:02:40] } 27... Rc8 { [%clk 0:01:40] } 28. c6+ { [%clk 0:02:36] } 28... Ka8 { [%clk 0:01:33] } 29. cxd7 { [%clk 0:02:31] } 29... Rd8 { [%clk 0:01:32] } 30. Qc7 { [%clk 0:02:25] } 30... Rxd7 { [%clk 0:01:31] } 1-0

@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/WEoueZbz"]
+[Date "2021.11.27"]
+[White "jishanshaikh4"]
+[Black "ayushdemre"]
+[Result "1-0"]
+[UTCDate "2021.11.27"]
+[UTCTime "17:58:17"]
+[WhiteElo "1937"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "B02"]
+[Opening "Alekhine Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:10:00] } 2. e5 { [%clk 0:09:56] } 2... Rg8 { [%clk 0:09:32] } 3. exf6 { [%clk 0:09:52] } 3... gxf6 { [%clk 0:09:31] } 4. d4 { [%clk 0:09:50] } 4... d5 { [%clk 0:09:19] } 5. c4 { [%clk 0:09:48] } 5... e6 { [%clk 0:08:37] } 6. Nc3 { [%clk 0:09:46] } 6... Qd6 { [%clk 0:08:11] } 7. Nf3 { [%clk 0:09:42] } 7... e5 { [%clk 0:07:53] } 8. dxe5 { [%clk 0:09:36] } 8... fxe5 { [%clk 0:07:50] } 9. cxd5 { [%clk 0:09:35] } 9... Qc5 { [%clk 0:07:37] } 10. Be3 { [%clk 0:09:32] } 10... Qd6 { [%clk 0:06:27] } 11. Bb5+ { [%clk 0:09:27] } 11... c6 { [%clk 0:06:21] } 12. dxc6 { [%clk 0:09:26] } 12... bxc6 { [%clk 0:06:19] } 13. Qxd6 { [%clk 0:09:22] } 13... Bxd6 { [%clk 0:06:11] } 14. O-O-O { [%clk 0:09:20] } 14... Rxg2 { [%clk 0:05:45] } 15. Rxd6 { [%clk 0:09:15] } 15... cxb5 { [%clk 0:04:48] } 16. Nxe5 { [%clk 0:09:05] } 16... Bb7 { [%clk 0:04:11] } 17. Rhd1 { [%clk 0:08:58] } 17... Rg5 { [%clk 0:03:15] } 18. Rd8+ { [%clk 0:08:36] } 18... Ke7 { [%clk 0:02:39] } 19. Bxg5+ { [%clk 0:08:36] } 19... f6 { [%clk 0:02:28] } 20. Bh4 { [%clk 0:08:35] } 20... Ke6 { [%clk 0:02:10] } 21. Ng4 { [%clk 0:08:24] } 21... Bf3 { [%clk 0:01:59] } 22. R1d6+ { [%clk 0:08:21] } 22... Kf5 { [%clk 0:01:47] } 23. Ne3+ { [%clk 0:08:20] } 23... Kg6 { [%clk 0:01:17] } 24. Rxf6+ { [%clk 0:08:18] } 24... Kh5 { [%clk 0:01:14] } 25. Bg3 { [%clk 0:08:11] } 25... Bb7 { [%clk 0:00:51] } 26. Rd4 { [%clk 0:08:08] } 26... Nc6 { [%clk 0:00:46] } 27. Rh4+ { [%clk 0:08:05] } 27... Kg5 { [%clk 0:00:39] } 28. Ne4# { [%clk 0:08:04] } 1-0

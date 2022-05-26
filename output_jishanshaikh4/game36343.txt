@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/2fQjd7vY"]
+[Date "2018.11.26"]
+[White "CANaan22"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2018.11.26"]
+[UTCTime "17:35:42"]
+[WhiteElo "1500"]
+[BlackElo "1283"]
+[Variant "Standard"]
+[TimeControl "300+8"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined: Reversed Alekhine"]
+[Termination "Normal"]
+
+1. Nf3 { [%clk 0:05:00] } 1... e5 { [%clk 0:05:00] } 2. d4 { [%clk 0:05:03] } 2... exd4 { [%clk 0:05:06] } 3. Qxd4 { [%clk 0:05:07] } 3... Nc6 { [%clk 0:05:13] } 4. Qd1 { [%clk 0:05:12] } 4... d5 { [%clk 0:05:18] } 5. e3 { [%clk 0:05:17] } 5... Bg4 { [%clk 0:05:24] } 6. Be2 { [%clk 0:05:23] } 6... Bb4+ { [%clk 0:05:30] } 7. Bd2 { [%clk 0:05:29] } 7... Bxd2+ { [%clk 0:05:36] } 8. Qxd2 { [%clk 0:05:34] } 8... Nf6 { [%clk 0:05:42] } 9. h3 { [%clk 0:05:40] } 9... Ne4 { [%clk 0:05:47] } 10. Qd3 { [%clk 0:05:39] } 10... Nb4 { [%clk 0:05:44] } 11. Qd4 { [%clk 0:05:43] } 11... Nxc2+ { [%clk 0:05:50] } 12. Kd1 { [%clk 0:05:45] } 12... Nxd4 { [%clk 0:05:58] } 13. Nxd4 { [%clk 0:05:47] } 13... Bxe2+ { [%clk 0:06:04] } 14. Kxe2 { [%clk 0:05:54] } 14... O-O { [%clk 0:06:07] } 15. Nd2 { [%clk 0:06:00] } 15... Nxd2 { [%clk 0:06:13] } 16. Kxd2 { [%clk 0:06:06] } 16... Re8 { [%clk 0:06:20] } 17. Rhd1 { [%clk 0:06:09] } 17... Qg5 { [%clk 0:06:26] } 18. Nc2 { [%clk 0:06:12] } 18... Qxg2 { [%clk 0:06:31] } 0-1

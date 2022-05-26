@@ -1,0 +1,17 @@
+[Event "Casual Atomic game"]
+[Site "https://lichess.org/ZsMScT1e"]
+[Date "2021.04.16"]
+[White "SleekPig"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2021.04.16"]
+[UTCTime "13:03:19"]
+[WhiteElo "1206"]
+[BlackElo "1095"]
+[Variant "Atomic"]
+[TimeControl "0+1"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Time forfeit"]
+
+1. Nf3 { [%clk 0:00:03] } 1... d5 { [%clk 0:00:03] } 2. Ng5 { [%clk 0:00:04] } 2... Kd7 { [%clk 0:00:01] } 3. Nxf7 { [%clk 0:00:04] } 1-0

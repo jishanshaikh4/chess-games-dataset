@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/JW3RzNsr"]
+[Date "2018.09.25"]
+[White "MaxiMinus"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.09.25"]
+[UTCTime "20:05:56"]
+[WhiteElo "1246"]
+[BlackElo "1132"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... Nf6 { [%clk 0:01:00] } 3. exd5 { [%clk 0:00:58] } 3... e5 { [%clk 0:01:00] } 4. dxe6 { [%clk 0:00:57] } 4... Qd5 { [%clk 0:01:00] } 5. exf7+ { [%clk 0:00:55] } 5... Kxf7 { [%clk 0:00:58] } 6. Nc3 { [%clk 0:00:52] } 6... Qe6+ { [%clk 0:00:58] } 7. Be2 { [%clk 0:00:51] } 7... Bd7 { [%clk 0:00:57] } 8. b3 { [%clk 0:00:49] } 8... Bb4 { [%clk 0:00:57] } 9. O-O { [%clk 0:00:48] } 9... Nc6 { [%clk 0:00:57] } 10. Bc4 { [%clk 0:00:45] } 10... Bxc3 { [%clk 0:00:57] } 11. Bxe6+ { [%clk 0:00:41] } 11... Bxe6 { [%clk 0:00:55] } 12. dxc3 { [%clk 0:00:41] } 12... Ne5 { [%clk 0:00:53] } 13. Nd4 { [%clk 0:00:40] } 13... Bd5 { [%clk 0:00:51] } 14. Bg5 { [%clk 0:00:32] } 14... h6 { [%clk 0:00:49] } 15. Bxf6 { [%clk 0:00:31] } 15... gxf6 { [%clk 0:00:48] } 16. Qh5+ { [%clk 0:00:28] } 16... Ke7 { [%clk 0:00:47] } 17. Nf5+ { [%clk 0:00:27] } 17... Ke6 { [%clk 0:00:46] } 18. Ng7+ { [%clk 0:00:25] } 18... Kd6 { [%clk 0:00:43] } 19. Rad1 { [%clk 0:00:21] } 19... Rhg8 { [%clk 0:00:42] } 20. c4 { [%clk 0:00:19] } 20... Rxg7 { [%clk 0:00:39] } 21. Rxd5+ { [%clk 0:00:18] } 21... Kc6 { [%clk 0:00:37] } 22. Qxh6 { [%clk 0:00:16] } 22... Rag8 { [%clk 0:00:35] } 23. Qxf6# { [%clk 0:00:14] } 1-0

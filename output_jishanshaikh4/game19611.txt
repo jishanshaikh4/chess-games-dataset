@@ -1,0 +1,17 @@
+[Event "IITGN vs NITB vs IITTP Team Battle"]
+[Site "https://lichess.org/L3zRQh8L"]
+[Date "2020.12.12"]
+[White "jishanshaikh4"]
+[Black "lamdatron"]
+[Result "1-0"]
+[UTCDate "2020.12.12"]
+[UTCTime "13:58:10"]
+[WhiteElo "1881"]
+[BlackElo "1230"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:00] } 2... Nc6 { [%clk 0:03:01] } 3. Bb5 { [%clk 0:03:01] } 3... a6 { [%clk 0:02:56] } 4. Bxc6 { [%clk 0:03:01] } 4... dxc6 { [%clk 0:02:54] } 5. Nxe5 { [%clk 0:02:59] } 5... Qe7 { [%clk 0:02:51] } 6. d4 { [%clk 0:03:00] } 6... c5 { [%clk 0:02:47] } 7. c3 { [%clk 0:03:00] } 7... cxd4 { [%clk 0:02:43] } 8. cxd4 { [%clk 0:03:00] } 8... f6 { [%clk 0:02:43] } 9. Qa4+ { [%clk 0:03:01] } 9... Bd7 { [%clk 0:02:40] } 10. Nxd7 { [%clk 0:03:01] } 10... Qxe4+ { [%clk 0:02:36] } 11. Be3 { [%clk 0:03:02] } 11... Rd8 { [%clk 0:02:11] } 12. Nxf6+ { [%clk 0:03:01] } 12... Kf7 { [%clk 0:02:07] } 13. Nxe4 { [%clk 0:02:58] } 1-0

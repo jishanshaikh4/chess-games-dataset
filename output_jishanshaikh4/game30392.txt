@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/b4N31Yfz"]
+[Date "2019.08.20"]
+[White "jishanshaikh4"]
+[Black "balcicek53"]
+[Result "1-0"]
+[UTCDate "2019.08.20"]
+[UTCTime "20:07:02"]
+[WhiteElo "1800"]
+[BlackElo "1529"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Normal"]
+
+1. Nf3 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. d4 { [%clk 0:01:00] } 2... e6 { [%clk 0:01:00] } 3. c4 { [%clk 0:01:00] } 3... c6 { [%clk 0:01:00] } 4. Bf4 { [%clk 0:00:59] } 4... Bd6 { [%clk 0:00:59] } 5. e3 { [%clk 0:00:58] } 5... Bxf4 { [%clk 0:00:58] } 6. exf4 { [%clk 0:00:58] } 6... dxc4 { [%clk 0:00:58] } 7. Bxc4 { [%clk 0:00:58] } 7... b5 { [%clk 0:00:58] } 8. Bd3 { [%clk 0:00:57] } 8... Bd7 { [%clk 0:00:57] } 9. Nc3 { [%clk 0:00:56] } 9... c5 { [%clk 0:00:56] } 10. dxc5 { [%clk 0:00:55] } 10... Bc6 { [%clk 0:00:55] } 11. O-O { [%clk 0:00:54] } 11... Bxf3 { [%clk 0:00:55] } 12. Qxf3 { [%clk 0:00:54] } 12... Ne7 { [%clk 0:00:54] } 13. Qxa8 { [%clk 0:00:53] } 13... Nbc6 { [%clk 0:00:52] } 14. Qb7 { [%clk 0:00:49] } 14... Qb8 { [%clk 0:00:50] } 15. Qxb8+ { [%clk 0:00:47] } 15... Nxb8 { [%clk 0:00:50] } 16. Bxb5+ { [%clk 0:00:46] } 16... Nbc6 { [%clk 0:00:48] } 17. Bxc6+ { [%clk 0:00:46] } 17... Nxc6 { [%clk 0:00:48] } 18. Rfd1 { [%clk 0:00:45] } 18... Ke7 { [%clk 0:00:47] } 19. Rd3 { [%clk 0:00:44] } 19... Rd8 { [%clk 0:00:46] } 20. Rad1 { [%clk 0:00:44] } 20... Rxd3 { [%clk 0:00:45] } 21. Rxd3 { [%clk 0:00:44] } 21... Nb4 { [%clk 0:00:44] } 22. Rd2 { [%clk 0:00:42] } 22... e5 { [%clk 0:00:42] } 23. g3 { [%clk 0:00:41] } 23... exf4 { [%clk 0:00:41] } 24. a3 { [%clk 0:00:40] } 24... g6 { [%clk 0:00:41] } 25. axb4 { [%clk 0:00:39] } 25... fxg3 { [%clk 0:00:41] } 26. c6 { [%clk 0:00:38] } 26... g2 { [%clk 0:00:40] } 27. Kxg2 { [%clk 0:00:37] } 27... a5 { [%clk 0:00:39] } 28. bxa5 { [%clk 0:00:36] } 28... f5 { [%clk 0:00:37] } 29. Rd1 { [%clk 0:00:35] } 29... Kf6 { [%clk 0:00:37] } 30. Ra1 { [%clk 0:00:35] } 30... Kg5 { [%clk 0:00:37] } 31. a6 { [%clk 0:00:35] } 1-0

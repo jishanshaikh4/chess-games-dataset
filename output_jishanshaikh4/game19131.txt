@@ -1,0 +1,17 @@
+[Event "AICL 2.0 Semifinals A Bullet Team Battle"]
+[Site "https://lichess.org/UDsSKWXp"]
+[Date "2020.12.25"]
+[White "anildadj"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2020.12.25"]
+[UTCTime "14:53:23"]
+[WhiteElo "1886"]
+[BlackElo "1976"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... c6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:59] } 2... d5 { [%clk 0:01:00] } 3. exd5 { [%clk 0:01:58] } 3... cxd5 { [%clk 0:01:00] } 4. Be2 { [%clk 0:01:58] } 4... Nf6 { [%clk 0:01:00] } 5. O-O { [%clk 0:01:58] } 5... Nc6 { [%clk 0:01:00] } 6. d3 { [%clk 0:01:57] } 6... Bg4 { [%clk 0:01:00] } 7. Bg5 { [%clk 0:01:56] } 7... Bh5 { [%clk 0:00:59] } 8. Bxf6 { [%clk 0:01:55] } 8... gxf6 { [%clk 0:00:58] } 9. Ne1 { [%clk 0:01:55] } 9... Bg6 { [%clk 0:00:57] } 10. Bh5 { [%clk 0:01:53] } 10... Rg8 { [%clk 0:00:55] } 11. g3 { [%clk 0:01:50] } 11... d4 { [%clk 0:00:54] } 12. Ng2 { [%clk 0:01:49] } 12... Qd5 { [%clk 0:00:53] } 13. Nf4 { [%clk 0:01:47] } 13... Qd6 { [%clk 0:00:51] } 14. Nd2 { [%clk 0:01:44] } 14... O-O-O { [%clk 0:00:50] } 15. Ne4 { [%clk 0:01:43] } 15... Bxe4 { [%clk 0:00:47] } 16. dxe4 { [%clk 0:01:43] } 16... e5 { [%clk 0:00:45] } 17. Nd5 { [%clk 0:01:40] } 17... f5 { [%clk 0:00:43] } 18. Bf3 { [%clk 0:01:29] } 18... f6 { [%clk 0:00:41] } 19. Qe1 { [%clk 0:01:24] } 19... fxe4 { [%clk 0:00:40] } 20. Bxe4 { [%clk 0:01:24] } 20... Bh6 { [%clk 0:00:38] } 21. Kh1 { [%clk 0:01:22] } 21... Ne7 { [%clk 0:00:37] } 22. Nxe7+ { [%clk 0:01:21] } 22... Qxe7 { [%clk 0:00:37] } 23. Qa5 { [%clk 0:01:19] } 23... Qc7 { [%clk 0:00:35] } 24. Qxa7 { [%clk 0:01:17] } 24... Qb8 { [%clk 0:00:33] } 25. Bf5+ { [%clk 0:01:15] } 25... Kc7 { [%clk 0:00:32] } 26. Qc5# { [%clk 0:01:15] } 1-0

@@ -1,0 +1,17 @@
+[Event "Casual Antichess game"]
+[Site "https://lichess.org/dsA0Ko7D"]
+[Date "2018.10.10"]
+[White "lichess AI level 2"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.10.10"]
+[UTCTime "01:23:45"]
+[WhiteElo "?"]
+[BlackElo "1500"]
+[Variant "Antichess"]
+[TimeControl "180+3"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Normal"]
+
+1. f3 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Na3 { [%clk 0:03:03] } 1-0

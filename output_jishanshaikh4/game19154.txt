@@ -1,0 +1,17 @@
+[Event "AICL 2.0 Semifinals A Blitz Team Battle"]
+[Site "https://lichess.org/EOdr8gfl"]
+[Date "2020.12.25"]
+[White "kingalpesh"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2020.12.25"]
+[UTCTime "13:16:05"]
+[WhiteElo "1698"]
+[BlackElo "1809"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... c6 { [%clk 0:01:30] } 2. d4 { [%clk 0:02:57] } 2... d5 { [%clk 0:01:30] } 3. exd5 { [%clk 0:02:57] } 3... cxd5 { [%clk 0:01:30] } 4. Nc3 { [%clk 0:02:56] } 4... Bf5 { [%clk 0:01:30] } 5. Bd3 { [%clk 0:02:56] } 5... Bxd3 { [%clk 0:01:27] } 6. Qxd3 { [%clk 0:02:56] } 6... e6 { [%clk 0:01:27] } 7. Nf3 { [%clk 0:02:55] } 7... Nf6 { [%clk 0:01:27] } 8. Bg5 { [%clk 0:02:53] } 8... Be7 { [%clk 0:01:26] } 9. O-O { [%clk 0:02:52] } 9... h6 { [%clk 0:01:25] } 10. Bh4 { [%clk 0:02:51] } 10... O-O { [%clk 0:01:25] } 11. Ne5 { [%clk 0:02:50] } 11... Nbd7 { [%clk 0:01:24] } 12. Rae1 { [%clk 0:02:44] } 12... Rc8 { [%clk 0:01:22] } 13. f4 { [%clk 0:02:41] } 13... Bd6 { [%clk 0:01:21] } 14. Rf3 { [%clk 0:02:37] } 14... Be7 { [%clk 0:01:16] } 15. Rg3 { [%clk 0:02:35] } 15... Nh5 { [%clk 0:01:13] } 16. Bxe7 { [%clk 0:02:32] } 16... Qxe7 { [%clk 0:01:13] } 17. Rh3 { [%clk 0:02:21] } 17... Nxe5 { [%clk 0:01:11] } 18. fxe5 { [%clk 0:02:20] } 18... Nf4 { [%clk 0:01:09] } 19. Qg3 { [%clk 0:02:10] } 19... Nxh3+ { [%clk 0:01:08] } 20. Qxh3 { [%clk 0:02:10] } 20... f6 { [%clk 0:01:06] } 21. exf6 { [%clk 0:02:05] } 21... Qxf6 { [%clk 0:01:06] } 22. a3 { [%clk 0:01:57] } 22... Qf2+ { [%clk 0:01:05] } 23. Kh1 { [%clk 0:01:53] } 23... Qxe1# { [%clk 0:01:04] } 0-1

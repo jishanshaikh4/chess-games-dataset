@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/j0sG6Qg3"]
+[Date "2018.11.19"]
+[White "jishanshaikh4"]
+[Black "checkeroni"]
+[Result "1-0"]
+[UTCDate "2018.11.19"]
+[UTCTime "12:57:30"]
+[WhiteElo "1317"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[Termination "Time forfeit"]
+
+1. g3 { [%clk 0:00:15] } 1... e5 { [%clk 0:00:15] } 2. Bg2 { [%clk 0:00:15] } 2... d5 { [%clk 0:00:14] } 3. Nf3 { [%clk 0:00:15] } 3... Nf6 { [%clk 0:00:13] } 4. O-O { [%clk 0:00:15] } 4... c6 { [%clk 0:00:12] } 5. Re1 { [%clk 0:00:15] } 5... Nbd7 { [%clk 0:00:11] } 6. e4 { [%clk 0:00:14] } 6... b6 { [%clk 0:00:11] } 7. d3 { [%clk 0:00:14] } 7... Bb7 { [%clk 0:00:10] } 8. exd5 { [%clk 0:00:13] } 8... cxd5 { [%clk 0:00:09] } 9. c3 { [%clk 0:00:12] } 9... d4 { [%clk 0:00:07] } 10. cxd4 { [%clk 0:00:11] } 10... Be7 { [%clk 0:00:03] } 11. dxe5 { [%clk 0:00:10] } 11... O-O { [%clk 0:00:02] } 12. exf6 { [%clk 0:00:09] } 12... Bxf6 { [%clk 0:00:02] } 13. Nh4 { [%clk 0:00:08] } 13... Re8 { [%clk 0:00:01] } 14. Bxb7 { [%clk 0:00:07] } 1-0

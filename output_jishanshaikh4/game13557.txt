@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/HVkdgPBH"]
+[Date "2021.04.15"]
+[White "jishanshaikh4"]
+[Black "muhammed1998"]
+[Result "0-1"]
+[UTCDate "2021.04.15"]
+[UTCTime "14:15:02"]
+[WhiteElo "2100"]
+[BlackElo "2105"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. exd5 { [%clk 0:01:00] } 2... Qxd5 { [%clk 0:00:59] } 3. Nf3 { [%clk 0:01:00] } 3... Qd8 { [%clk 0:00:59] } 4. Be2 { [%clk 0:01:00] } 4... Nf6 { [%clk 0:00:58] } 5. O-O { [%clk 0:01:00] } 5... e6 { [%clk 0:00:58] } 6. d4 { [%clk 0:01:00] } 6... c5 { [%clk 0:00:58] } 7. c4 { [%clk 0:01:00] } 7... cxd4 { [%clk 0:00:58] } 8. Nxd4 { [%clk 0:01:00] } 8... Nc6 { [%clk 0:00:57] } 9. Nxc6 { [%clk 0:00:59] } 9... Qxd1 { [%clk 0:00:57] } 10. Rxd1 { [%clk 0:00:59] } 10... bxc6 { [%clk 0:00:56] } 11. Nc3 { [%clk 0:00:58] } 11... Be7 { [%clk 0:00:55] } 12. b3 { [%clk 0:00:57] } 12... O-O { [%clk 0:00:55] } 13. Bb2 { [%clk 0:00:57] } 13... a5 { [%clk 0:00:54] } 14. Rd2 { [%clk 0:00:57] } 14... Bb4 { [%clk 0:00:52] } 15. Rad1 { [%clk 0:00:56] } 15... h6 { [%clk 0:00:51] } 16. Bf3 { [%clk 0:00:54] } 16... Bb7 { [%clk 0:00:48] } 17. Rd3 { [%clk 0:00:52] } 17... Rac8 { [%clk 0:00:47] } 18. Ne4 { [%clk 0:00:50] } 18... Nxe4 { [%clk 0:00:46] } 19. Bxe4 { [%clk 0:00:50] } 19... Ba8 { [%clk 0:00:45] } 20. Rd7 { [%clk 0:00:48] } 20... a4 { [%clk 0:00:37] } 21. h3 { [%clk 0:00:47] } 21... axb3 { [%clk 0:00:36] } 22. axb3 { [%clk 0:00:47] } 22... c5 { [%clk 0:00:35] } 23. Bxa8 { [%clk 0:00:44] } 23... Rxa8 { [%clk 0:00:35] } 24. Rb7 { [%clk 0:00:43] } 24... Ra2 { [%clk 0:00:34] } 25. Be5 { [%clk 0:00:40] } 25... Re2 { [%clk 0:00:33] } 26. f4 { [%clk 0:00:38] } 26... Ra8 { [%clk 0:00:31] } 27. Rdd7 { [%clk 0:00:37] } 27... Raa2 { [%clk 0:00:27] } 28. f5 { [%clk 0:00:32] } 28... Rxg2+ { [%clk 0:00:23] } 29. Kh1 { [%clk 0:00:31] } 29... Rge2 { [%clk 0:00:21] } 30. Rxf7 { [%clk 0:00:29] } 30... Rxe5 { [%clk 0:00:19] } 31. Rxg7+ { [%clk 0:00:28] } 31... Kf8 { [%clk 0:00:18] } 32. Rgf7+ { [%clk 0:00:27] } 32... Ke8 { [%clk 0:00:17] } 33. Rh7 { [%clk 0:00:25] } 33... Re1# { [%clk 0:00:15] } 0-1

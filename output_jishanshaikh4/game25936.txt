@@ -1,0 +1,17 @@
+[Event "All India Chess League Finals  Team Battle"]
+[Site "https://lichess.org/RK5MWI8K"]
+[Date "2020.03.30"]
+[White "jishanshaikh4"]
+[Black "Harman_4"]
+[Result "0-1"]
+[UTCDate "2020.03.30"]
+[UTCTime "14:36:43"]
+[WhiteElo "1839"]
+[BlackElo "1778"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Abandoned"]
+
+0-1

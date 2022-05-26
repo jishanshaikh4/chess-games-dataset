@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/AjV4jVZM"]
+[Date "2019.03.11"]
+[White "jishanshaikh4"]
+[Black "sanjeet9"]
+[Result "0-1"]
+[UTCDate "2019.03.11"]
+[UTCTime "16:17:19"]
+[WhiteElo "1374"]
+[BlackElo "1048"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A45"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. Nc3 { [%clk 0:02:58] } 2... Nf6 { [%clk 0:02:59] } 3. Nf3 { [%clk 0:02:56] } 3... Nc6 { [%clk 0:02:58] } 4. Bg5 { [%clk 0:02:55] } 4... Qd6 { [%clk 0:02:54] } 5. e3 { [%clk 0:02:54] } 5... Ne4 { [%clk 0:02:52] } 6. Bf4 { [%clk 0:02:48] } 6... Qb4 { [%clk 0:02:42] } 7. Qd3 { [%clk 0:02:21] } 7... Qxb2 { [%clk 0:02:38] } 8. Rd1 { [%clk 0:02:21] } 8... Nb4 { [%clk 0:02:29] } 9. Qb5+ { [%clk 0:02:17] } 9... Bd7 { [%clk 0:02:27] } 10. Qxb7 { [%clk 0:02:14] } 10... Nxc2+ { [%clk 0:02:18] } 11. Ke2 { [%clk 0:02:09] } 11... Qxb7 { [%clk 0:02:17] } 12. Kd3 { [%clk 0:01:53] } 12... Na3 { [%clk 0:02:11] } 13. Nd2 { [%clk 0:01:50] } 13... Qb2 { [%clk 0:02:07] } 14. Nxd5 { [%clk 0:01:40] } 14... Qxa2 { [%clk 0:01:58] } 15. Kxe4 { [%clk 0:01:37] } 15... f5+ { [%clk 0:01:50] } 16. Ke5 { [%clk 0:01:34] } 16... Qc2 { [%clk 0:01:41] } 17. Nf3 { [%clk 0:01:19] } 17... Nc4+ { [%clk 0:01:36] } 18. Bxc4 { [%clk 0:01:10] } 18... Qe4# { [%clk 0:01:29] } 0-1

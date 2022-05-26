@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/aR2wMzcu"]
+[Date "2019.01.25"]
+[White "jishanshaikh4"]
+[Black "srbija_idemo"]
+[Result "1-0"]
+[UTCDate "2019.01.25"]
+[UTCTime "19:29:34"]
+[WhiteElo "1501"]
+[BlackElo "1486"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Gunderam Gambit"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... c6 { [%clk 0:00:59] } 3. Bc4 { [%clk 0:00:58] } 3... Nf6 { [%clk 0:00:58] } 4. d3 { [%clk 0:00:57] } 4... d5 { [%clk 0:00:58] } 5. exd5 { [%clk 0:00:55] } 5... cxd5 { [%clk 0:00:57] } 6. Bb3 { [%clk 0:00:55] } 6... Nc6 { [%clk 0:00:54] } 7. O-O { [%clk 0:00:53] } 7... Bd6 { [%clk 0:00:51] } 8. Bg5 { [%clk 0:00:53] } 8... Be6 { [%clk 0:00:47] } 9. Nbd2 { [%clk 0:00:52] } 9... h6 { [%clk 0:00:46] } 10. Be3 { [%clk 0:00:50] } 10... O-O { [%clk 0:00:44] } 11. Re1 { [%clk 0:00:49] } 11... Re8 { [%clk 0:00:42] } 12. a3 { [%clk 0:00:48] } 12... a6 { [%clk 0:00:40] } 13. Ba2 { [%clk 0:00:48] } 13... b5 { [%clk 0:00:39] } 14. d4 { [%clk 0:00:45] } 14... e4 { [%clk 0:00:38] } 15. Nh4 { [%clk 0:00:40] } 15... Rc8 { [%clk 0:00:34] } 16. g3 { [%clk 0:00:39] } 16... Qd7 { [%clk 0:00:31] } 17. Ng2 { [%clk 0:00:39] } 17... Bh3 { [%clk 0:00:29] } 18. f3 { [%clk 0:00:30] } 18... Bxg2 { [%clk 0:00:27] } 19. Kxg2 { [%clk 0:00:28] } 19... exf3+ { [%clk 0:00:23] } 20. Qxf3 { [%clk 0:00:28] } 20... Ne4 { [%clk 0:00:21] } 21. Nxe4 { [%clk 0:00:23] } 21... dxe4 { [%clk 0:00:17] } 22. Qe2 { [%clk 0:00:21] } 22... Rf8 { [%clk 0:00:14] } 23. Rf1 { [%clk 0:00:19] } 23... Qe7 { [%clk 0:00:09] } 24. Bb1 { [%clk 0:00:19] } 24... Nd8 { [%clk 0:00:07] } 25. c3 { [%clk 0:00:18] } 25... Ne6 { [%clk 0:00:06] } 26. d5 { [%clk 0:00:16] } 26... Ng5 { [%clk 0:00:05] } 27. Bc2 { [%clk 0:00:14] } 27... Rc7 { [%clk 0:00:03] } 28. Bxg5 { [%clk 0:00:13] } 28... Qxg5 { [%clk 0:00:01] } 29. Bxe4 { [%clk 0:00:10] } 1-0

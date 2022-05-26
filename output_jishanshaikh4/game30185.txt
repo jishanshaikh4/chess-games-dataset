@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/Ql8dlkhO"]
+[Date "2019.09.13"]
+[White "creepy1bishop"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.09.13"]
+[UTCTime "23:35:15"]
+[WhiteElo "1472"]
+[BlackElo "1817"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D00"]
+[Opening "Blackmar Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. d4 { [%clk 0:00:59] } 2... dxe4 { [%clk 0:00:59] } 0-1

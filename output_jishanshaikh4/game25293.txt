@@ -1,0 +1,17 @@
+[Event "2nd BGC Inter University  Team Battle"]
+[Site "https://lichess.org/pAf7seBk"]
+[Date "2020.05.25"]
+[White "ADI963"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2020.05.25"]
+[UTCTime "13:45:08"]
+[WhiteElo "1773"]
+[BlackElo "1876"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A06"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[Termination "Normal"]
+
+1. Nf3 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. b3 { [%clk 0:02:59] } 2... c5 { [%clk 0:02:59] } 3. Bb2 { [%clk 0:02:59] } 3... Nc6 { [%clk 0:02:59] } 4. e3 { [%clk 0:02:58] } 4... Nf6 { [%clk 0:02:58] } 5. Bb5 { [%clk 0:02:58] } 5... Bd7 { [%clk 0:02:56] } 6. O-O { [%clk 0:02:56] } 6... a6 { [%clk 0:02:55] } 7. Be2 { [%clk 0:02:55] } 7... e6 { [%clk 0:02:53] } 8. d4 { [%clk 0:02:54] } 8... Be7 { [%clk 0:02:53] } 9. dxc5 { [%clk 0:02:53] } 9... Bxc5 { [%clk 0:02:53] } 10. c4 { [%clk 0:02:52] } 10... O-O { [%clk 0:02:46] } 11. Ne5 { [%clk 0:02:26] } 11... Nxe5 { [%clk 0:02:43] } 12. Bxe5 { [%clk 0:02:24] } 12... Be7 { [%clk 0:02:42] } 13. cxd5 { [%clk 0:02:23] } 13... Nxd5 { [%clk 0:02:40] } 14. Nc3 { [%clk 0:02:22] } 14... Nxc3 { [%clk 0:02:38] } 15. Bxc3 { [%clk 0:02:21] } 15... Bf6 { [%clk 0:02:37] } 16. Rc1 { [%clk 0:02:18] } 16... Rc8 { [%clk 0:02:35] } 17. Bxf6 { [%clk 0:02:17] } 17... Qxf6 { [%clk 0:02:35] } 18. Qd2 { [%clk 0:02:15] } 18... Bc6 { [%clk 0:02:33] } 19. Bd3 { [%clk 0:02:03] } 19... Rfd8 { [%clk 0:02:30] } 20. Qe2 { [%clk 0:02:01] } 20... e5 { [%clk 0:02:21] } 21. e4 { [%clk 0:02:00] } 21... Qg5 { [%clk 0:02:05] } 22. Bc2 { [%clk 0:01:50] } 22... Bb5 { [%clk 0:02:01] } 0-1

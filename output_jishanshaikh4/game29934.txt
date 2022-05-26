@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/qqpaVvXl"]
+[Date "2019.09.30"]
+[White "Carlsen28"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.09.30"]
+[UTCTime "17:32:36"]
+[WhiteElo "2067"]
+[BlackElo "1901"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C00"]
+[Opening "Queen's Pawn Game: Franco-Sicilian Defense"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. e4 { [%clk 0:00:59] } 2... e6 { [%clk 0:00:59] } 3. c3 { [%clk 0:00:57] } 3... cxd4 { [%clk 0:00:58] } 4. cxd4 { [%clk 0:00:56] } 4... d5 { [%clk 0:00:58] } 5. exd5 { [%clk 0:00:56] } 5... exd5 { [%clk 0:00:58] } 6. Nc3 { [%clk 0:00:55] } 6... Nf6 { [%clk 0:00:58] } 7. Nf3 { [%clk 0:00:54] } 7... Be7 { [%clk 0:00:58] } 8. Be2 { [%clk 0:00:53] } 8... O-O { [%clk 0:00:58] } 9. O-O { [%clk 0:00:53] } 9... Re8 { [%clk 0:00:58] } 10. Re1 { [%clk 0:00:51] } 10... Bb4 { [%clk 0:00:57] } 11. Qb3 { [%clk 0:00:50] } 11... Bd6 { [%clk 0:00:55] } 12. Bg5 { [%clk 0:00:48] } 12... b6 { [%clk 0:00:55] } 13. Bxf6 { [%clk 0:00:47] } 13... Qxf6 { [%clk 0:00:54] } 14. Nxd5 { [%clk 0:00:47] } 14... Qg6 { [%clk 0:00:52] } 15. Bd3 { [%clk 0:00:44] } 15... Qh5 { [%clk 0:00:49] } 16. Rxe8+ { [%clk 0:00:42] } 16... Bf8 { [%clk 0:00:47] } 17. Ne7+ { [%clk 0:00:42] } 17... Kh8 { [%clk 0:00:41] } 18. Rxf8# { [%clk 0:00:41] } 1-0

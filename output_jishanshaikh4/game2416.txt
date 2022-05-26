@@ -1,0 +1,17 @@
+[Event "Weekend Practice Arena"]
+[Site "https://lichess.org/ofmy9wNg"]
+[Date "2022.02.06"]
+[White "ayush-jadhav"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2022.02.06"]
+[UTCTime "16:01:17"]
+[WhiteElo "1500"]
+[BlackElo "1997"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Abandoned"]
+
+0-1

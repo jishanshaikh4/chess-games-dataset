@@ -1,0 +1,17 @@
+[Event "Weekend Practice Arena"]
+[Site "https://lichess.org/1DmPrPXW"]
+[Date "2022.02.06"]
+[White "jishanshaikh4"]
+[Black "Ankita_ak"]
+[Result "1-0"]
+[UTCDate "2022.02.06"]
+[UTCTime "16:02:41"]
+[WhiteElo "1997"]
+[BlackElo "900"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C40"]
+[Opening "King's Pawn Game: McConnell Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:30] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:01:29] } 2... Qf6 { [%clk 0:02:57] } 3. Bc4 { [%clk 0:01:28] } 3... Bc5 { [%clk 0:02:56] } 4. O-O { [%clk 0:01:28] } 4... Qg6 { [%clk 0:02:52] } 5. c3 { [%clk 0:01:27] } 5... Be7 { [%clk 0:02:50] } 6. d4 { [%clk 0:01:26] } 6... exd4 { [%clk 0:02:44] } 7. cxd4 { [%clk 0:01:26] } 7... Nf6 { [%clk 0:02:44] } 8. e5 { [%clk 0:01:25] } 8... Ng4 { [%clk 0:02:42] } 9. h3 { [%clk 0:01:24] } 9... Nh6 { [%clk 0:02:33] } 10. Bd3 { [%clk 0:01:23] } 10... Qc6 { [%clk 0:02:22] } 11. Nc3 { [%clk 0:01:22] } 11... Bb4 { [%clk 0:02:13] } 12. d5 { [%clk 0:01:21] } 12... Qc5 { [%clk 0:02:04] } 13. Be3 { [%clk 0:01:20] } 13... Qa5 { [%clk 0:01:52] } 14. Ne4 { [%clk 0:01:19] } 14... d6 { [%clk 0:01:44] } 15. a3 { [%clk 0:01:17] } 15... Bc5 { [%clk 0:01:39] } 16. b4 { [%clk 0:01:16] } 16... Bxb4 { [%clk 0:01:26] } 17. axb4 { [%clk 0:01:13] } 17... Qxb4 { [%clk 0:01:25] } 18. exd6 { [%clk 0:01:12] } 18... cxd6 { [%clk 0:01:24] } 19. Re1 { [%clk 0:01:09] } 19... O-O { [%clk 0:01:19] } 20. Qd2 { [%clk 0:01:05] } 20... Qxd2 { [%clk 0:01:02] } 21. Bxd2 { [%clk 0:01:05] } 21... Nf5 { [%clk 0:01:01] } 22. g4 { [%clk 0:01:01] } 22... Ne7 { [%clk 0:00:51] } 23. Nxd6 { [%clk 0:01:00] } 23... Na6 { [%clk 0:00:40] } 24. Rxe7 { [%clk 0:00:58] } 24... Nb4 { [%clk 0:00:32] } 25. Bc4 { [%clk 0:00:56] } 25... Nc2 { [%clk 0:00:22] } 26. Rc1 { [%clk 0:00:55] } 26... Nb4 { [%clk 0:00:18] } 27. Bxb4 { [%clk 0:00:53] } 27... b6 { [%clk 0:00:16] } 28. Rc7 { [%clk 0:00:46] } 28... a5 { [%clk 0:00:14] } 29. Ba3 { [%clk 0:00:45] } 29... Rd8 { [%clk 0:00:09] } 30. Re1 { [%clk 0:00:43] } 30... g6 { [%clk 0:00:05] } 31. Nxc8 { [%clk 0:00:41] } 31... Raxc8 { [%clk 0:00:05] } 32. d6 { [%clk 0:00:40] } 1-0

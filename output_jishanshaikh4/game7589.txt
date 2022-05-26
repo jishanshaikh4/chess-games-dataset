@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/JilNumHp"]
+[Date "2021.09.14"]
+[White "jishanshaikh4"]
+[Black "killersam"]
+[Result "1-0"]
+[UTCDate "2021.09.14"]
+[UTCTime "07:21:32"]
+[WhiteElo "2126"]
+[BlackElo "2202"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Vos Gambit"]
+[Termination "Time forfeit"]
+
+1. d4 { [%clk 0:01:00] } 1... d6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... e5 { [%clk 0:01:00] } 3. dxe5 { [%clk 0:00:59] } 3... Bg4 { [%clk 0:00:59] } 4. exd6 { [%clk 0:00:58] } 4... Bxd6 { [%clk 0:00:59] } 5. h3 { [%clk 0:00:56] } 5... Bh5 { [%clk 0:00:58] } 6. g4 { [%clk 0:00:56] } 6... Bg6 { [%clk 0:00:57] } 7. Bg2 { [%clk 0:00:55] } 7... Nc6 { [%clk 0:00:56] } 8. O-O { [%clk 0:00:55] } 8... Qe7 { [%clk 0:00:56] } 9. Bg5 { [%clk 0:00:54] } 9... f6 { [%clk 0:00:55] } 10. Bh4 { [%clk 0:00:52] } 10... h5 { [%clk 0:00:54] } 11. Bg3 { [%clk 0:00:51] } 11... O-O-O { [%clk 0:00:50] } 12. Qc1 { [%clk 0:00:47] } 12... Bxg3 { [%clk 0:00:46] } 13. fxg3 { [%clk 0:00:47] } 13... hxg4 { [%clk 0:00:45] } 14. hxg4 { [%clk 0:00:46] } 14... Qxe2 { [%clk 0:00:41] } 15. Qf4 { [%clk 0:00:45] } 15... Nge7 { [%clk 0:00:34] } 16. Nc3 { [%clk 0:00:44] } 16... Qa6 { [%clk 0:00:31] } 17. Nh4 { [%clk 0:00:40] } 17... Qb6+ { [%clk 0:00:29] } 18. Kh2 { [%clk 0:00:35] } 18... Ne5 { [%clk 0:00:26] } 19. Ne4 { [%clk 0:00:31] } 19... Bf7 { [%clk 0:00:18] } 20. Rf2 { [%clk 0:00:29] } 20... g5 { [%clk 0:00:15] } 21. Qxf6 { [%clk 0:00:24] } 21... Qxf6 { [%clk 0:00:15] } 22. Nxf6 { [%clk 0:00:24] } 22... gxh4 { [%clk 0:00:14] } 23. gxh4 { [%clk 0:00:24] } 23... Rxh4+ { [%clk 0:00:10] } 24. Kg3 { [%clk 0:00:23] } 24... Rh6 { [%clk 0:00:08] } 25. Ne4 { [%clk 0:00:21] } 25... Bd5 { [%clk 0:00:05] } 26. Raf1 { [%clk 0:00:20] } 26... Bxe4 { [%clk 0:00:03] } 27. Bxe4 { [%clk 0:00:20] } 27... N7c6 { [%clk 0:00:03] } 28. Bf5+ { [%clk 0:00:19] } 28... Kb8 { [%clk 0:00:00] } 29. Re2 { [%clk 0:00:19] } 1-0

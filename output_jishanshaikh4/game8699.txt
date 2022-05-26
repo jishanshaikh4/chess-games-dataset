@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/ucvATQMQ"]
+[Date "2021.08.22"]
+[White "ujjwalchauhan1"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.08.22"]
+[UTCTime "15:42:49"]
+[WhiteElo "1918"]
+[BlackElo "2113"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. Bf4 { [%clk 0:00:59] } 2... g6 { [%clk 0:01:00] } 3. e3 { [%clk 0:00:59] } 3... Bg7 { [%clk 0:00:59] } 4. Nf3 { [%clk 0:00:59] } 4... d6 { [%clk 0:00:59] } 5. c4 { [%clk 0:00:58] } 5... Nh5 { [%clk 0:00:58] } 6. Bg5 { [%clk 0:00:57] } 6... f6 { [%clk 0:00:57] } 7. Bh4 { [%clk 0:00:56] } 7... g5 { [%clk 0:00:57] } 8. Nxg5 { [%clk 0:00:55] } 8... fxg5 { [%clk 0:00:56] } 9. Qxh5+ { [%clk 0:00:54] } 9... Kf8 { [%clk 0:00:54] } 10. Bxg5 { [%clk 0:00:52] } 10... c6 { [%clk 0:00:53] } 11. Bd3 { [%clk 0:00:50] } 11... Qa5+ { [%clk 0:00:52] } 12. Nd2 { [%clk 0:00:48] } 12... h6 { [%clk 0:00:51] } 13. Bf4 { [%clk 0:00:41] } 13... Qxh5 { [%clk 0:00:49] } 0-1

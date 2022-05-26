@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/UACUg0zR"]
+[Date "2021.08.20"]
+[White "Navodaya29"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.08.20"]
+[UTCTime "17:02:31"]
+[WhiteElo "1813"]
+[BlackElo "2115"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 0-1

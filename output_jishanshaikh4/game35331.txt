@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/9aNjuETK"]
+[Date "2019.01.26"]
+[White "JamesDBriggs"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.01.26"]
+[UTCTime "05:39:16"]
+[WhiteElo "1600"]
+[BlackElo "1501"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[Termination "Normal"]
+
+1. b3 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. c4 { [%clk 0:01:00] } 2... Nf6 { [%clk 0:00:59] } 3. Bb2 { [%clk 0:01:00] } 3... dxc4 { [%clk 0:00:58] } 4. bxc4 { [%clk 0:01:00] } 4... e6 { [%clk 0:00:58] } 5. Qc2 { [%clk 0:01:00] } 5... Bc5 { [%clk 0:00:56] } 6. d4 { [%clk 0:01:00] } 6... Bxd4 { [%clk 0:00:52] } 7. c5 { [%clk 0:01:00] } 7... Bxb2 { [%clk 0:00:48] } 8. Qxb2 { [%clk 0:01:00] } 8... Nc6 { [%clk 0:00:47] } 9. Nf3 { [%clk 0:00:59] } 9... Qd7 { [%clk 0:00:44] } 10. a3 { [%clk 0:00:58] } 10... O-O { [%clk 0:00:44] } 11. e3 { [%clk 0:00:56] } 11... Rd8 { [%clk 0:00:43] } 12. Be2 { [%clk 0:00:54] } 12... Ne4 { [%clk 0:00:40] } 13. O-O { [%clk 0:00:53] } 13... Nd2 { [%clk 0:00:37] } 14. Nfxd2 { [%clk 0:00:52] } 14... Qxd2 { [%clk 0:00:36] } 15. Nxd2 { [%clk 0:00:50] } 15... Rxd2 { [%clk 0:00:36] } 16. Qxd2 { [%clk 0:00:49] } 16... Ne5 { [%clk 0:00:32] } 17. Qd8# { [%clk 0:00:46] } 1-0

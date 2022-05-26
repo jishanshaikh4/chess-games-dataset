@@ -1,0 +1,17 @@
+[Event "Casual Atomic game"]
+[Site "https://lichess.org/lSZFauAu"]
+[Date "2021.04.16"]
+[White "jishanshaikh4"]
+[Black "SleekPig"]
+[Result "1-0"]
+[UTCDate "2021.04.16"]
+[UTCTime "13:03:34"]
+[WhiteElo "1095"]
+[BlackElo "1206"]
+[Variant "Atomic"]
+[TimeControl "0+1"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Normal"]
+
+1. e3 { [%clk 0:00:03] } 1... Nf6 { [%clk 0:00:03] } 2. Qf3 { [%clk 0:00:04] } 2... Nc6 { [%clk 0:00:01] } 3. Bc4 { [%clk 0:00:05] } 3... Ne5 { [%clk 0:00:01] } 4. Bxf7# { [%clk 0:00:03] } 1-0

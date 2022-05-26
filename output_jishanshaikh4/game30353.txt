@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/KDvuyxtK"]
+[Date "2019.08.24"]
+[White "elonmusk"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.08.24"]
+[UTCTime "03:00:06"]
+[WhiteElo "1311"]
+[BlackElo "1800"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. c4 { [%clk 0:01:00] } 2... c5 { [%clk 0:00:59] } 3. e3 { [%clk 0:00:57] } 3... e6 { [%clk 0:00:59] } 4. dxc5 { [%clk 0:00:55] } 4... Bxc5 { [%clk 0:00:59] } 5. b3 { [%clk 0:00:54] } 5... d5 { [%clk 0:00:59] } 6. Bb2 { [%clk 0:00:53] } 6... O-O { [%clk 0:00:57] } 7. Nf3 { [%clk 0:00:51] } 7... d4 { [%clk 0:00:56] } 8. exd4 { [%clk 0:00:49] } 8... Bb6 { [%clk 0:00:56] } 9. Be2 { [%clk 0:00:45] } 9... Bc7 { [%clk 0:00:55] } 10. Ne5 { [%clk 0:00:45] } 10... Nc6 { [%clk 0:00:54] } 11. Nxc6 { [%clk 0:00:43] } 11... bxc6 { [%clk 0:00:54] } 12. Bf3 { [%clk 0:00:42] } 12... Bb7 { [%clk 0:00:54] } 13. O-O { [%clk 0:00:40] } 13... Rb8 { [%clk 0:00:53] } 14. Nd2 { [%clk 0:00:31] } 14... Bd6 { [%clk 0:00:52] } 15. Ne4 { [%clk 0:00:30] } 15... Be7 { [%clk 0:00:51] } 16. Ng3 { [%clk 0:00:28] } 16... c5 { [%clk 0:00:50] } 17. dxc5 { [%clk 0:00:23] } 17... Bxf3 { [%clk 0:00:48] } 18. Qxf3 { [%clk 0:00:22] } 18... Qc7 { [%clk 0:00:46] } 19. Ne4 { [%clk 0:00:14] } 19... Nxe4 { [%clk 0:00:44] } 20. Qxe4 { [%clk 0:00:14] } 20... Qxc5 { [%clk 0:00:43] } 21. Qg4 { [%clk 0:00:13] } 21... f6 { [%clk 0:00:39] } 22. Qxe6+ { [%clk 0:00:11] } 22... Kh8 { [%clk 0:00:37] } 23. Rfe1 { [%clk 0:00:08] } 23... Rfe8 { [%clk 0:00:36] } 24. Bxf6 { [%clk 0:00:06] } 24... Bxf6 { [%clk 0:00:34] } 25. Qxe8+ { [%clk 0:00:06] } 25... Rxe8 { [%clk 0:00:33] } 26. Rxe8+ { [%clk 0:00:05] } 26... Qf8 { [%clk 0:00:31] } 27. Rxf8# { [%clk 0:00:05] } 1-0

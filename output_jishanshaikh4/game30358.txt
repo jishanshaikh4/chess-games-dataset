@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/bxI5gngM"]
+[Date "2019.08.23"]
+[White "klln"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.08.23"]
+[UTCTime "17:42:51"]
+[WhiteElo "1461"]
+[BlackElo "1800"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. exd5 { [%clk 0:00:59] } 2... Nf6 { [%clk 0:01:00] } 0-1

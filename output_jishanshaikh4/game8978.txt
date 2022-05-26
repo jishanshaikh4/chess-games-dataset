@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/lh3Ngi2A"]
+[Date "2021.08.19"]
+[White "Terema"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.08.19"]
+[UTCTime "08:48:53"]
+[WhiteElo "1818"]
+[BlackElo "2107"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. Nc3 { [%clk 0:00:59] } 2... d5 { [%clk 0:00:59] } 3. Nf3 { [%clk 0:00:59] } 3... dxe4 { [%clk 0:00:59] } 4. Ne5 { [%clk 0:00:57] } 4... Bf5 { [%clk 0:00:58] } 5. Bb5+ { [%clk 0:00:54] } 5... c6 { [%clk 0:00:57] } 6. Ba4 { [%clk 0:00:52] } 6... Qa5 { [%clk 0:00:55] } 7. Nc4 { [%clk 0:00:49] } 7... Qc7 { [%clk 0:00:53] } 8. Ne3 { [%clk 0:00:47] } 8... Bg6 { [%clk 0:00:51] } 9. g4 { [%clk 0:00:43] } 9... b5 { [%clk 0:00:50] } 10. Bb3 { [%clk 0:00:42] } 10... h6 { [%clk 0:00:46] } 11. h4 { [%clk 0:00:41] } 11... e6 { [%clk 0:00:44] } 12. d3 { [%clk 0:00:35] } 12... exd3 { [%clk 0:00:43] } 13. cxd3 { [%clk 0:00:34] } 13... Nbd7 { [%clk 0:00:43] } 14. f4 { [%clk 0:00:32] } 14... O-O-O { [%clk 0:00:41] } 15. f5 { [%clk 0:00:30] } 15... exf5 { [%clk 0:00:41] } 16. Nxf5 { [%clk 0:00:29] } 16... Re8+ { [%clk 0:00:38] } 17. Ne2 { [%clk 0:00:25] } 17... Nxg4 { [%clk 0:00:37] } 18. Rf1 { [%clk 0:00:20] } 18... Bxf5 { [%clk 0:00:34] } 19. Rxf5 { [%clk 0:00:19] } 19... Qg3+ { [%clk 0:00:32] } 20. Kd2 { [%clk 0:00:18] } 20... Qe3+ { [%clk 0:00:28] } 21. Kc2 { [%clk 0:00:16] } 21... Nc5 { [%clk 0:00:25] } 22. Bxe3 { [%clk 0:00:14] } 22... Nxe3+ { [%clk 0:00:22] } 23. Kc1 { [%clk 0:00:11] } 23... Nxf5 { [%clk 0:00:21] } 24. Nc3 { [%clk 0:00:07] } 24... Nxb3+ { [%clk 0:00:20] } 25. Qxb3 { [%clk 0:00:05] } 25... Ne3 { [%clk 0:00:20] } 26. Kd2 { [%clk 0:00:02] } 26... Bd6 { [%clk 0:00:17] } 27. Ne4 { [%clk 0:00:00] } 27... Nd5 { [%clk 0:00:15] } 0-1

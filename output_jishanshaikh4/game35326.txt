@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/FMMWZSDX"]
+[Date "2019.01.26"]
+[White "jishanshaikh4"]
+[Black "alquimista98"]
+[Result "0-1"]
+[UTCDate "2019.01.26"]
+[UTCTime "21:29:37"]
+[WhiteElo "1501"]
+[BlackElo "1885"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. exd5 { [%clk 0:00:58] } 2... Qxd5 { [%clk 0:01:00] } 3. Nf3 { [%clk 0:00:58] } 3... Qd8 { [%clk 0:01:00] } 4. Nc3 { [%clk 0:00:57] } 4... b6 { [%clk 0:01:00] } 5. d3 { [%clk 0:00:57] } 5... Bb7 { [%clk 0:00:59] } 6. g3 { [%clk 0:00:54] } 6... Nd7 { [%clk 0:00:59] } 7. Bg2 { [%clk 0:00:53] } 7... Ngf6 { [%clk 0:00:59] } 8. O-O { [%clk 0:00:52] } 8... e5 { [%clk 0:00:58] } 9. Re1 { [%clk 0:00:45] } 9... Bd6 { [%clk 0:00:57] } 10. d4 { [%clk 0:00:43] } 10... e4 { [%clk 0:00:54] } 11. Ng5 { [%clk 0:00:38] } 11... O-O { [%clk 0:00:53] } 12. Ngxe4 { [%clk 0:00:37] } 12... Bxe4 { [%clk 0:00:52] } 13. Nxe4 { [%clk 0:00:36] } 13... Nxe4 { [%clk 0:00:52] } 14. Bxe4 { [%clk 0:00:34] } 14... Rc8 { [%clk 0:00:52] } 15. Bd3 { [%clk 0:00:33] } 15... Nf6 { [%clk 0:00:51] } 16. Qf3 { [%clk 0:00:29] } 16... c5 { [%clk 0:00:51] } 17. Qf5 { [%clk 0:00:27] } 17... g6 { [%clk 0:00:49] } 18. Qd5 { [%clk 0:00:23] } 18... Nxd5 { [%clk 0:00:49] } 19. Bh6 { [%clk 0:00:20] } 19... Re8 { [%clk 0:00:47] } 20. Rxe8+ { [%clk 0:00:18] } 20... Qxe8 { [%clk 0:00:47] } 21. Kg2 { [%clk 0:00:17] } 21... cxd4 { [%clk 0:00:47] } 22. c3 { [%clk 0:00:15] } 22... dxc3 { [%clk 0:00:45] } 23. bxc3 { [%clk 0:00:15] } 23... Nxc3 { [%clk 0:00:45] } 24. Rc1 { [%clk 0:00:14] } 24... Bb4 { [%clk 0:00:44] } 25. Bc4 { [%clk 0:00:11] } 25... Qe4+ { [%clk 0:00:43] } 26. Kf1 { [%clk 0:00:09] } 26... Qxc4+ { [%clk 0:00:42] } 27. Kg2 { [%clk 0:00:06] } 0-1

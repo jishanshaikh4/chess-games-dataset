@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/P1DiyS4v"]
+[Date "2019.09.04"]
+[White "jishanshaikh4"]
+[Black "The_Great_Pness"]
+[Result "1-0"]
+[UTCDate "2019.09.04"]
+[UTCTime "16:29:30"]
+[WhiteElo "1792"]
+[BlackElo "1763"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Old Indian Attack"]
+[Termination "Normal"]
+
+1. d3 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... e6 { [%clk 0:01:00] } 3. e4 { [%clk 0:01:00] } 3... c5 { [%clk 0:01:00] } 4. exd5 { [%clk 0:00:59] } 4... exd5 { [%clk 0:01:00] } 5. d4 { [%clk 0:00:58] } 5... Nc6 { [%clk 0:01:00] } 6. dxc5 { [%clk 0:00:57] } 6... Bxc5 { [%clk 0:01:00] } 7. Nc3 { [%clk 0:00:57] } 7... Nf6 { [%clk 0:00:59] } 8. Bb5 { [%clk 0:00:57] } 8... a6 { [%clk 0:00:58] } 9. Bxc6+ { [%clk 0:00:57] } 9... bxc6 { [%clk 0:00:58] } 10. Be3 { [%clk 0:00:56] } 10... O-O { [%clk 0:00:58] } 11. Bxc5 { [%clk 0:00:55] } 11... Re8+ { [%clk 0:00:56] } 12. Be3 { [%clk 0:00:55] } 12... c5 { [%clk 0:00:52] } 13. O-O { [%clk 0:00:48] } 13... d4 { [%clk 0:00:52] } 14. Nxd4 { [%clk 0:00:48] } 14... cxd4 { [%clk 0:00:48] } 15. Bxd4 { [%clk 0:00:48] } 15... Re6 { [%clk 0:00:44] } 16. Bxf6 { [%clk 0:00:46] } 16... Qxf6 { [%clk 0:00:42] } 17. Qf3 { [%clk 0:00:44] } 17... Qxf3 { [%clk 0:00:40] } 18. gxf3 { [%clk 0:00:44] } 18... Rg6+ { [%clk 0:00:39] } 19. Kh1 { [%clk 0:00:43] } 19... Bb7 { [%clk 0:00:39] } 20. h3 { [%clk 0:00:41] } 20... Bxf3+ { [%clk 0:00:36] } 21. Kh2 { [%clk 0:00:41] } 21... Rg2+ { [%clk 0:00:35] } 22. Kh1 { [%clk 0:00:39] } 22... Rxf2+ { [%clk 0:00:30] } 23. Kg1 { [%clk 0:00:38] } 23... Rg2+ { [%clk 0:00:29] } 24. Kh1 { [%clk 0:00:36] } 24... Rxc2+ { [%clk 0:00:29] } 25. Kg1 { [%clk 0:00:36] } 25... Rg2+ { [%clk 0:00:29] } 26. Kh1 { [%clk 0:00:35] } 26... Rxb2+ { [%clk 0:00:29] } 27. Rxf3 { [%clk 0:00:34] } 27... Rg2 { [%clk 0:00:28] } 28. Kxg2 { [%clk 0:00:32] } 1-0

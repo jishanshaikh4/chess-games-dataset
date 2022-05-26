@@ -1,0 +1,17 @@
+[Event "28th Weekend Blitz Arena"]
+[Site "https://lichess.org/nhTeSwHi"]
+[Date "2022.02.20"]
+[White "jishanshaikh4"]
+[Black "Kishanahirwar123"]
+[Result "1-0"]
+[UTCDate "2022.02.20"]
+[UTCTime "16:56:19"]
+[WhiteElo "2027"]
+[BlackElo "1702"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Open"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 2. d4 { [%clk 0:03:01] } 2... cxd4 { [%clk 0:03:01] } 3. Nf3 { [%clk 0:03:02] } 3... Nc6 { [%clk 0:02:59] } 4. Nxd4 { [%clk 0:03:03] } 4... a6 { [%clk 0:03:00] } 5. Nf3 { [%clk 0:02:58] } 5... e5 { [%clk 0:03:00] } 6. c4 { [%clk 0:02:59] } 6... Bc5 { [%clk 0:02:59] } 7. Nc3 { [%clk 0:02:59] } 7... d6 { [%clk 0:02:55] } 8. Bg5 { [%clk 0:02:59] } 8... Qb6 { [%clk 0:02:42] } 9. Na4 { [%clk 0:02:48] } 9... Qb4+ { [%clk 0:02:16] } 10. Bd2 { [%clk 0:02:36] } 1-0

@@ -1,0 +1,17 @@
+[Event "IITGN vs NITB vs IITTP Team Battle"]
+[Site "https://lichess.org/pvo5t0QR"]
+[Date "2020.12.12"]
+[White "jishanshaikh4"]
+[Black "Raunak_Yadav"]
+[Result "0-1"]
+[UTCDate "2020.12.12"]
+[UTCTime "14:37:54"]
+[WhiteElo "1881"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e6 { [%clk 0:03:00] } 2. d4 { [%clk 0:03:00] } 2... d5 { [%clk 0:02:53] } 3. e5 { [%clk 0:03:00] } 3... c5 { [%clk 0:02:48] } 4. c3 { [%clk 0:03:01] } 4... Nc6 { [%clk 0:02:37] } 5. Nf3 { [%clk 0:03:01] } 5... Bd7 { [%clk 0:02:32] } 6. Bg5 { [%clk 0:02:52] } 6... Qb6 { [%clk 0:02:22] } 7. Qc2 { [%clk 0:02:40] } 7... cxd4 { [%clk 0:02:17] } 8. cxd4 { [%clk 0:02:42] } 8... Nxd4 { [%clk 0:02:10] } 9. Nxd4 { [%clk 0:02:43] } 9... Qxd4 { [%clk 0:02:06] } 10. Be3 { [%clk 0:02:18] } 10... Qxe5 { [%clk 0:02:00] } 11. Nc3 { [%clk 0:02:19] } 11... d4 { [%clk 0:01:54] } 0-1

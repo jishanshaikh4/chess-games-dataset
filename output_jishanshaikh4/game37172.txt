@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/IilXO3L8"]
+[Date "2018.09.26"]
+[White "jishanshaikh4"]
+[Black "Grey2a"]
+[Result "0-1"]
+[UTCDate "2018.09.26"]
+[UTCTime "18:27:07"]
+[WhiteElo "1316"]
+[BlackElo "1615"]
+[Variant "Standard"]
+[TimeControl "240+4"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:04:00] } 1... d5 { [%clk 0:04:00] } 2. e3 { [%clk 0:03:57] } 2... Bf5 { [%clk 0:03:55] } 3. c4 { [%clk 0:03:59] } 3... e6 { [%clk 0:03:57] } 4. cxd5 { [%clk 0:04:01] } 4... exd5 { [%clk 0:04:00] } 5. g4 { [%clk 0:04:03] } 5... Be4 { [%clk 0:04:01] } 6. f3 { [%clk 0:04:03] } 6... Bg6 { [%clk 0:04:00] } 7. e4 { [%clk 0:04:04] } 7... dxe4 { [%clk 0:04:00] } 8. fxe4 { [%clk 0:04:06] } 8... Bxe4 { [%clk 0:04:02] } 9. Qe2 { [%clk 0:04:05] } 9... Qe7 { [%clk 0:03:51] } 10. Qb5+ { [%clk 0:03:53] } 10... c6 { [%clk 0:03:53] } 11. Qe5 { [%clk 0:03:53] } 11... Bxh1 { [%clk 0:03:52] } 12. Qxe7+ { [%clk 0:03:54] } 12... Bxe7 { [%clk 0:03:56] } 13. Bc4 { [%clk 0:03:50] } 13... b5 { [%clk 0:03:52] } 14. Nc3 { [%clk 0:03:54] } 14... bxc4 { [%clk 0:03:54] } 0-1

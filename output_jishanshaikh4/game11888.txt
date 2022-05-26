@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/cpTAwx3L"]
+[Date "2021.05.27"]
+[White "jishanshaikh4"]
+[Black "gaa-li-na"]
+[Result "1-0"]
+[UTCDate "2021.05.27"]
+[UTCTime "15:59:40"]
+[WhiteElo "2065"]
+[BlackElo "1815"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A43"]
+[Opening "Benoni Defense: French Benoni"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e6 { [%clk 0:03:00] } 2. d4 { [%clk 0:02:58] } 2... c5 { [%clk 0:02:57] } 3. d5 { [%clk 0:02:57] } 3... d6 { [%clk 0:02:55] } 4. c4 { [%clk 0:02:56] } 4... Bd7 { [%clk 0:02:54] } 5. f4 { [%clk 0:02:55] } 5... Qc8 { [%clk 0:02:53] } 6. Nf3 { [%clk 0:02:53] } 6... Nf6 { [%clk 0:02:51] } 7. e5 { [%clk 0:02:52] } 7... dxe5 { [%clk 0:02:50] } 8. fxe5 { [%clk 0:02:51] } 8... Ng8 { [%clk 0:02:37] } 9. d6 { [%clk 0:02:51] } 9... Bc6 { [%clk 0:02:35] } 10. Bf4 { [%clk 0:02:47] } 10... Nd7 { [%clk 0:02:34] } 11. Nc3 { [%clk 0:02:46] } 11... a6 { [%clk 0:02:32] } 12. Bd3 { [%clk 0:02:44] } 12... h6 { [%clk 0:02:30] } 13. O-O { [%clk 0:02:42] } 13... g5 { [%clk 0:02:29] } 14. Nxg5 { [%clk 0:02:41] } 14... hxg5 { [%clk 0:02:28] } 15. Bxg5 { [%clk 0:02:41] } 15... Nxe5 { [%clk 0:02:25] } 16. Bf4 { [%clk 0:02:30] } 16... Bxd6 { [%clk 0:02:24] } 17. Bxe5 { [%clk 0:02:27] } 17... Bxe5 { [%clk 0:02:23] } 18. Qg4 { [%clk 0:02:25] } 18... Bxh2+ { [%clk 0:02:16] } 19. Kf2 { [%clk 0:02:22] } 19... Qd8 { [%clk 0:02:02] } 20. g3 { [%clk 0:02:16] } 20... Qxd3 { [%clk 0:01:55] } 21. Rad1 { [%clk 0:02:11] } 21... Qc2+ { [%clk 0:01:48] } 22. Ne2 { [%clk 0:02:07] } 22... Nf6 { [%clk 0:01:40] } 23. Qf4 { [%clk 0:02:02] } 23... Ne4+ { [%clk 0:01:36] } 24. Ke3 { [%clk 0:01:56] } 24... Qxc4 { [%clk 0:01:10] } 25. Qxf7# { [%clk 0:01:55] } 1-0

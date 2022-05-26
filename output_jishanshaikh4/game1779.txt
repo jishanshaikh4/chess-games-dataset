@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/v1HKe7rZ"]
+[Date "2022.02.19"]
+[White "jishanshaikh4"]
+[Black "Navodaya29"]
+[Result "1/2-1/2"]
+[UTCDate "2022.02.19"]
+[UTCTime "18:22:30"]
+[WhiteElo "2042"]
+[BlackElo "1982"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:59] } 2... Nc6 { [%clk 0:02:59] } 3. Nc3 { [%clk 0:02:58] } 3... Nf6 { [%clk 0:02:58] } 4. Bc4 { [%clk 0:02:56] } 4... Bc5 { [%clk 0:02:57] } 5. d3 { [%clk 0:02:54] } 5... O-O { [%clk 0:02:56] } 6. Be3 { [%clk 0:02:52] } 6... Bb6 { [%clk 0:02:54] } 7. Bxb6 { [%clk 0:02:51] } 7... axb6 { [%clk 0:02:53] } 8. h3 { [%clk 0:02:50] } 8... d6 { [%clk 0:02:52] } 9. O-O { [%clk 0:02:48] } 9... Na5 { [%clk 0:02:51] } 10. Bd5 { [%clk 0:02:45] } 10... c6 { [%clk 0:02:50] } 11. Bb3 { [%clk 0:02:44] } 11... Nxb3 { [%clk 0:02:48] } 12. axb3 { [%clk 0:02:44] } 12... Rxa1 { [%clk 0:02:46] } 13. Qxa1 { [%clk 0:02:44] } 13... Be6 { [%clk 0:02:45] } 14. Ng5 { [%clk 0:02:41] } 14... h6 { [%clk 0:02:39] } 15. Nxe6 { [%clk 0:02:39] } 15... fxe6 { [%clk 0:02:39] } 16. Qa7 { [%clk 0:02:36] } 16... Qe7 { [%clk 0:02:34] } 17. Qxb6 { [%clk 0:02:33] } 17... Nh5 { [%clk 0:02:31] } 18. f3 { [%clk 0:02:26] } 18... Ng3 { [%clk 0:02:28] } 19. Rf2 { [%clk 0:02:24] } 19... Qg5 { [%clk 0:02:16] } 20. Qxb7 { [%clk 0:02:16] } 20... Qc1+ { [%clk 0:02:13] } 21. Kh2 { [%clk 0:02:14] } 21... Nf1+ { [%clk 0:02:12] } 22. Kg1 { [%clk 0:02:10] } 22... Ng3+ { [%clk 0:01:53] } 23. Kh2 { [%clk 0:02:09] } 23... Nf1+ { [%clk 0:01:50] } 24. Kh1 { [%clk 0:02:05] } 24... Ng3+ { [%clk 0:01:41] } 25. Kh2 { [%clk 0:02:04] } 1/2-1/2

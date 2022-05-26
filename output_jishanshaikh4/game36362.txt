@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/kIoVmwka"]
+[Date "2018.11.22"]
+[White "jishanshaikh4"]
+[Black "fokss"]
+[Result "0-1"]
+[UTCDate "2018.11.22"]
+[UTCTime "13:34:50"]
+[WhiteElo "1400"]
+[BlackElo "1541"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "C43"]
+[Opening "Russian Game: Modern Attack"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... e5 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:02:00] } 2... Nf6 { [%clk 0:01:59] } 3. d4 { [%clk 0:01:59] } 3... exd4 { [%clk 0:01:57] } 4. Qxd4 { [%clk 0:01:54] } 4... Nc6 { [%clk 0:01:55] } 5. Qe3 { [%clk 0:01:52] } 5... b6 { [%clk 0:01:53] } 6. Nc3 { [%clk 0:01:51] } 6... Bc5 { [%clk 0:01:52] } 7. Qd3 { [%clk 0:01:48] } 7... O-O { [%clk 0:01:48] } 8. Be3 { [%clk 0:01:46] } 8... Nb4 { [%clk 0:01:44] } 9. Qd2 { [%clk 0:01:42] } 9... Bxe3 { [%clk 0:01:41] } 10. Qxe3 { [%clk 0:01:42] } 10... Nxc2+ { [%clk 0:01:40] } 11. Kd2 { [%clk 0:01:40] } 11... Nxe3 { [%clk 0:01:39] } 12. Kxe3 { [%clk 0:01:40] } 0-1

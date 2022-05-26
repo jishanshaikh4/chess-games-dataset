@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/saTO907c"]
+[Date "2019.03.11"]
+[White "jishanshaikh4"]
+[Black "sanjeet9"]
+[Result "0-1"]
+[UTCDate "2019.03.11"]
+[UTCTime "16:02:30"]
+[WhiteElo "1566"]
+[BlackElo "1256"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:01] } 2... Nc6 { [%clk 0:01:00] } 3. c4 { [%clk 0:01:02] } 3... dxc4 { [%clk 0:00:59] } 4. e3 { [%clk 0:01:03] } 4... e5 { [%clk 0:00:58] } 5. Bxc4 { [%clk 0:01:01] } 5... exd4 { [%clk 0:00:57] } 6. Nxd4 { [%clk 0:01:00] } 6... Nxd4 { [%clk 0:00:56] } 7. Qxd4 { [%clk 0:01:01] } 7... Qxd4 { [%clk 0:00:56] } 8. exd4 { [%clk 0:01:02] } 8... Be6 { [%clk 0:00:56] } 9. Nc3 { [%clk 0:01:03] } 9... Bxc4 { [%clk 0:00:56] } 10. Bf4 { [%clk 0:01:03] } 10... Rd8 { [%clk 0:00:55] } 11. Bxc7 { [%clk 0:01:01] } 11... Rxd4 { [%clk 0:00:55] } 12. f3 { [%clk 0:00:58] } 12... Bd6 { [%clk 0:00:52] } 13. Ba5 { [%clk 0:00:55] } 13... Nf6 { [%clk 0:00:51] } 14. Kf2 { [%clk 0:00:55] } 14... O-O { [%clk 0:00:48] } 15. b3 { [%clk 0:00:50] } 15... Rd2+ { [%clk 0:00:47] } 16. Ke3 { [%clk 0:00:49] } 16... Rd3+ { [%clk 0:00:46] } 17. Kf2 { [%clk 0:00:47] } 17... Bc5+ { [%clk 0:00:41] } 18. Kg3 { [%clk 0:00:45] } 18... Bd6+ { [%clk 0:00:38] } 19. Kf2 { [%clk 0:00:44] } 19... Rd2+ { [%clk 0:00:36] } 20. Ke3 { [%clk 0:00:43] } 20... Rxg2 { [%clk 0:00:33] } 21. bxc4 { [%clk 0:00:42] } 21... Re8+ { [%clk 0:00:33] } 22. Kd4 { [%clk 0:00:41] } 22... Rd2# { [%clk 0:00:31] } 0-1

@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/0pY2mrOW"]
+[Date "2018.11.18"]
+[White "gokulsonecha"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2018.11.18"]
+[UTCTime "08:25:23"]
+[WhiteElo "1500"]
+[BlackElo "1278"]
+[Variant "Standard"]
+[TimeControl "600+0"]
+[ECO "C22"]
+[Opening "Center Game: Paulsen Attack Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:57] } 2... exd4 { [%clk 0:09:58] } 3. Qxd4 { [%clk 0:09:55] } 3... Nc6 { [%clk 0:09:56] } 4. Qe3 { [%clk 0:09:53] } 4... Nb4 { [%clk 0:09:54] } 5. Qe2 { [%clk 0:09:42] } 5... Qe7 { [%clk 0:09:46] } 6. a3 { [%clk 0:09:41] } 6... Nc6 { [%clk 0:09:36] } 7. Nf3 { [%clk 0:09:32] } 7... d6 { [%clk 0:09:35] } 8. Bg5 { [%clk 0:09:29] } 8... Nf6 { [%clk 0:09:31] } 9. Bxf6 { [%clk 0:09:25] } 9... Qxf6 { [%clk 0:09:31] } 10. Qe3 { [%clk 0:09:20] } 10... Be6 { [%clk 0:09:19] } 11. c3 { [%clk 0:09:17] } 11... O-O-O { [%clk 0:08:55] } 12. Nd4 { [%clk 0:09:10] } 12... Nxd4 { [%clk 0:08:50] } 13. Qxd4 { [%clk 0:09:08] } 13... Qxd4 { [%clk 0:08:42] } 14. cxd4 { [%clk 0:09:06] } 14... d5 { [%clk 0:08:36] } 15. e5 { [%clk 0:09:04] } 15... Be7 { [%clk 0:08:31] } 16. Nc3 { [%clk 0:08:55] } 16... f6 { [%clk 0:08:29] } 17. Bb5 { [%clk 0:08:49] } 17... fxe5 { [%clk 0:08:26] } 18. dxe5 { [%clk 0:08:46] } 18... c6 { [%clk 0:08:24] } 19. Bd3 { [%clk 0:08:42] } 19... d4 { [%clk 0:08:17] } 20. Ne4 { [%clk 0:08:38] } 20... Bd5 { [%clk 0:08:14] } 21. O-O { [%clk 0:08:32] } 21... Rhf8 { [%clk 0:08:08] } 22. Rac1 { [%clk 0:08:27] } 22... g6 { [%clk 0:08:06] } 23. Nc5 { [%clk 0:07:50] } 23... b6 { [%clk 0:07:57] } 24. Ne6 { [%clk 0:07:47] } 24... Bxe6 { [%clk 0:07:51] } 25. Rxc6+ { [%clk 0:07:44] } 25... Kd7 { [%clk 0:07:47] } 26. Rfc1 { [%clk 0:07:41] } 26... Rc8 { [%clk 0:07:44] } 27. Bb5 { [%clk 0:07:39] } 27... Rxc6 { [%clk 0:07:29] } 28. Bxc6+ { [%clk 0:07:33] } 28... Kd8 { [%clk 0:07:26] } 29. Rd1 { [%clk 0:07:30] } 29... Kc7 { [%clk 0:07:17] } 30. Bf3 { [%clk 0:07:25] } 30... Rd8 { [%clk 0:07:15] } 0-1

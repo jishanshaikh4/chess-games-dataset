@@ -1,0 +1,17 @@
+[Event "New IITs and NITs Team Battle"]
+[Site "https://lichess.org/gQILL5ta"]
+[Date "2021.07.11"]
+[White "rishab2001"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2021.07.11"]
+[UTCTime "14:15:07"]
+[WhiteElo "1873"]
+[BlackElo "2078"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D23"]
+[Opening "Queen's Gambit Accepted"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. c4 { [%clk 0:02:58] } 2... dxc4 { [%clk 0:02:58] } 3. Nf3 { [%clk 0:02:56] } 3... Nf6 { [%clk 0:02:58] } 4. Ne5 { [%clk 0:02:55] } 4... Nbd7 { [%clk 0:02:55] } 5. Nxc4 { [%clk 0:02:54] } 5... g6 { [%clk 0:02:54] } 6. e3 { [%clk 0:02:53] } 6... Bg7 { [%clk 0:02:54] } 7. Bd3 { [%clk 0:02:51] } 7... b6 { [%clk 0:02:53] } 8. b3 { [%clk 0:02:49] } 8... Bb7 { [%clk 0:02:52] } 9. Bb2 { [%clk 0:02:49] } 9... Bxg2 { [%clk 0:02:50] } 10. Rf1 { [%clk 0:02:48] } 10... Bxf1 { [%clk 0:02:49] } 11. Bxf1 { [%clk 0:02:46] } 11... O-O { [%clk 0:02:48] } 12. Nbd2 { [%clk 0:02:45] } 12... b5 { [%clk 0:02:45] } 13. Na3 { [%clk 0:02:42] } 13... a6 { [%clk 0:02:45] } 14. Rc1 { [%clk 0:02:40] } 14... Nb6 { [%clk 0:02:43] } 15. Be2 { [%clk 0:02:37] } 15... Re8 { [%clk 0:02:39] } 16. Bf3 { [%clk 0:02:37] } 16... Rc8 { [%clk 0:02:37] } 17. Bb7 { [%clk 0:02:33] } 17... Rb8 { [%clk 0:02:36] } 18. Bxa6 { [%clk 0:02:31] } 18... b4 { [%clk 0:02:34] } 19. Nac4 { [%clk 0:02:27] } 19... Nxc4 { [%clk 0:02:32] } 20. Bxc4 { [%clk 0:02:25] } 20... Nd5 { [%clk 0:02:31] } 21. h4 { [%clk 0:02:22] } 21... e5 { [%clk 0:02:27] } 22. Nf3 { [%clk 0:02:20] } 22... exd4 { [%clk 0:02:26] } 23. Nxd4 { [%clk 0:02:18] } 23... h5 { [%clk 0:02:19] } 24. Qf3 { [%clk 0:02:16] } 24... Nf6 { [%clk 0:02:16] } 25. Nc6 { [%clk 0:02:13] } 25... Qc8 { [%clk 0:02:12] } 26. Nxb8 { [%clk 0:02:11] } 26... Qxb8 { [%clk 0:02:12] } 27. Bxf6 { [%clk 0:02:08] } 27... Qa7 { [%clk 0:02:05] } 28. Bxg7 { [%clk 0:02:06] } 28... Kxg7 { [%clk 0:02:05] } 29. Qxf7+ { [%clk 0:02:05] } 29... Kh6 { [%clk 0:02:01] } 30. Qxe8 { [%clk 0:02:04] } 30... Qxa2 { [%clk 0:02:00] } 31. Bd3 { [%clk 0:02:00] } 31... Qa6 { [%clk 0:01:54] } 32. Bxa6 { [%clk 0:01:58] } 1-0

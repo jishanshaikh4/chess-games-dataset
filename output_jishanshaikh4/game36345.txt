@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/oFazPvsV"]
+[Date "2018.11.26"]
+[White "jishanshaikh4"]
+[Black "cognizanto"]
+[Result "0-1"]
+[UTCDate "2018.11.26"]
+[UTCTime "17:21:08"]
+[WhiteElo "1175"]
+[BlackElo "1215"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Svenonius Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:05:00] } 1... e6 { [%clk 0:05:00] } 2. d4 { [%clk 0:04:57] } 2... d5 { [%clk 0:04:59] } 3. Nc3 { [%clk 0:04:53] } 3... Nf6 { [%clk 0:04:53] } 4. exd5 { [%clk 0:04:52] } 4... exd5 { [%clk 0:04:52] } 5. Bg5 { [%clk 0:04:50] } 5... c5 { [%clk 0:04:50] } 6. Qe2+ { [%clk 0:04:39] } 6... Be6 { [%clk 0:04:47] } 7. dxc5 { [%clk 0:04:38] } 7... Bxc5 { [%clk 0:04:44] } 8. O-O-O { [%clk 0:04:30] } 8... O-O { [%clk 0:04:42] } 9. Nf3 { [%clk 0:04:17] } 9... Qa5 { [%clk 0:04:30] } 10. Bxf6 { [%clk 0:04:09] } 10... gxf6 { [%clk 0:04:28] } 11. Nxd5 { [%clk 0:03:55] } 11... Bxd5 { [%clk 0:04:09] } 12. Rxd5 { [%clk 0:03:55] } 12... Qxa2 { [%clk 0:04:07] } 13. Rxc5 { [%clk 0:03:46] } 13... Qa1+ { [%clk 0:04:06] } 14. Kd2 { [%clk 0:03:45] } 14... Rd8+ { [%clk 0:04:04] } 15. Kc3 { [%clk 0:03:41] } 15... Nd7 { [%clk 0:03:27] } 16. Rd5 { [%clk 0:03:26] } 16... Rac8+ { [%clk 0:03:24] } 17. Kb3 { [%clk 0:03:20] } 17... Nc5+ { [%clk 0:02:52] } 18. Kc4 { [%clk 0:03:13] } 18... Qa6+ { [%clk 0:02:23] } 19. Kd4 { [%clk 0:02:53] } 19... Qa4+ { [%clk 0:01:39] } 20. Qc4 { [%clk 0:02:45] } 20... Ne6+ { [%clk 0:01:18] } 21. Kd3 { [%clk 0:02:02] } 21... Qxc4+ { [%clk 0:01:15] } 22. Ke3 { [%clk 0:01:57] } 22... Qxd5 { [%clk 0:01:10] } 0-1

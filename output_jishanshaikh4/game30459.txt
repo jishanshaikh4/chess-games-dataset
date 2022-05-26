@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/moUtSgyL"]
+[Date "2019.08.15"]
+[White "jishanshaikh4"]
+[Black "sanjeet9"]
+[Result "1-0"]
+[UTCDate "2019.08.15"]
+[UTCTime "17:53:49"]
+[WhiteElo "1575"]
+[BlackElo "1126"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "A00"]
+[Opening "Ware Opening"]
+[Termination "Normal"]
+
+1. a4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. a5 { [%clk 0:03:00] } 2... Nc6 { [%clk 0:02:57] } 3. a6 { [%clk 0:02:59] } 3... b6 { [%clk 0:02:53] } 4. e3 { [%clk 0:02:58] } 4... e5 { [%clk 0:01:53] } 5. Ke2 { [%clk 0:02:54] } 5... Bg4+ { [%clk 0:01:49] } 6. f3 { [%clk 0:02:53] } 6... Bh5 { [%clk 0:01:46] } 7. g4 { [%clk 0:02:51] } 7... Bg6 { [%clk 0:01:45] } 8. Ra2 { [%clk 0:02:47] } 8... e4 { [%clk 0:01:42] } 9. b3 { [%clk 0:02:46] } 9... exf3+ { [%clk 0:01:40] } 10. Nxf3 { [%clk 0:02:45] } 10... Na5 { [%clk 0:01:31] } 11. Bb2 { [%clk 0:02:42] } 11... c5 { [%clk 0:01:26] } 12. Bg2 { [%clk 0:02:36] } 12... Be4 { [%clk 0:01:19] } 13. Nh4 { [%clk 0:02:35] } 13... g5 { [%clk 0:01:15] } 14. Bxe4 { [%clk 0:02:32] } 14... dxe4 { [%clk 0:01:13] } 15. Ng2 { [%clk 0:02:31] } 15... Qc8 { [%clk 0:01:02] } 16. Bxh8 { [%clk 0:02:28] } 16... Qxg4+ { [%clk 0:00:58] } 17. Ke1 { [%clk 0:02:28] } 17... Qxg2 { [%clk 0:00:56] } 18. Rf1 { [%clk 0:02:23] } 18... Qxh2 { [%clk 0:00:44] } 19. d3 { [%clk 0:02:22] } 19... Qh4+ { [%clk 0:00:42] } 20. Kd2 { [%clk 0:02:20] } 20... exd3 { [%clk 0:00:38] } 21. Qf3 { [%clk 0:02:17] } 21... Rd8 { [%clk 0:00:36] } 22. Qxf7# { [%clk 0:02:16] } 1-0

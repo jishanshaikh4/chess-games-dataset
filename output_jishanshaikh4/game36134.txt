@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/N20uXtIi"]
+[Date "2018.12.04"]
+[White "jishanshaikh4"]
+[Black "seamate"]
+[Result "0-1"]
+[UTCDate "2018.12.04"]
+[UTCTime "17:05:56"]
+[WhiteElo "1289"]
+[BlackElo "1917"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Open"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:57] } 2... Nc6 { [%clk 0:01:00] } 3. d4 { [%clk 0:00:52] } 3... cxd4 { [%clk 0:01:00] } 4. Nxd4 { [%clk 0:00:51] } 4... Nf6 { [%clk 0:01:00] } 5. Nxc6 { [%clk 0:00:50] } 5... bxc6 { [%clk 0:01:00] } 6. f3 { [%clk 0:00:48] } 6... e5 { [%clk 0:00:58] } 7. Nc3 { [%clk 0:00:48] } 7... Bb4 { [%clk 0:00:57] } 8. Bc4 { [%clk 0:00:47] } 8... d5 { [%clk 0:00:56] } 9. Bd3 { [%clk 0:00:45] } 9... d4 { [%clk 0:00:55] } 10. a3 { [%clk 0:00:42] } 10... dxc3 { [%clk 0:00:54] } 11. axb4 { [%clk 0:00:40] } 11... cxb2 { [%clk 0:00:54] } 12. Bxb2 { [%clk 0:00:40] } 12... O-O { [%clk 0:00:53] } 13. O-O { [%clk 0:00:38] } 13... Re8 { [%clk 0:00:52] } 14. Re1 { [%clk 0:00:37] } 14... Qe7 { [%clk 0:00:51] } 15. Bc4 { [%clk 0:00:36] } 15... Bb7 { [%clk 0:00:46] } 16. c3 { [%clk 0:00:33] } 16... Rad8 { [%clk 0:00:46] } 17. Qc2 { [%clk 0:00:31] } 17... c5 { [%clk 0:00:45] } 18. bxc5 { [%clk 0:00:28] } 18... Qxc5+ { [%clk 0:00:45] } 19. Kh1 { [%clk 0:00:23] } 19... Qxc4 { [%clk 0:00:44] } 20. Red1 { [%clk 0:00:23] } 20... Rxd1+ { [%clk 0:00:42] } 21. Rxd1 { [%clk 0:00:23] } 21... h6 { [%clk 0:00:41] } 22. h4 { [%clk 0:00:19] } 22... Nxe4 { [%clk 0:00:40] } 23. fxe4 { [%clk 0:00:18] } 23... Bxe4 { [%clk 0:00:39] } 24. Qf2 { [%clk 0:00:04] } 24... Bg6 { [%clk 0:00:34] } 25. Rf1 { [%clk 0:00:04] } 25... e4 { [%clk 0:00:32] } 26. Re1 { [%clk 0:00:03] } 26... Qd3 { [%clk 0:00:28] } 27. Re3 { [%clk 0:00:01] } 27... Qd1+ { [%clk 0:00:25] } 0-1

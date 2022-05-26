@@ -1,0 +1,17 @@
+[Event "AICL 2.0 Finals Bullet Team Battle"]
+[Site "https://lichess.org/nysMaByT"]
+[Date "2020.12.27"]
+[White "sarthak18"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2020.12.27"]
+[UTCTime "12:40:59"]
+[WhiteElo "945"]
+[BlackElo "1921"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... c6 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:01:59] } 2... d5 { [%clk 0:02:00] } 3. exd5 { [%clk 0:01:58] } 3... cxd5 { [%clk 0:02:00] } 4. Nc3 { [%clk 0:01:57] } 4... Nf6 { [%clk 0:02:00] } 5. d4 { [%clk 0:01:56] } 5... Nc6 { [%clk 0:02:00] } 6. Bf4 { [%clk 0:01:54] } 6... Bg4 { [%clk 0:02:00] } 7. h3 { [%clk 0:01:51] } 7... Bxf3 { [%clk 0:01:58] } 8. Qxf3 { [%clk 0:01:51] } 8... e6 { [%clk 0:01:58] } 9. O-O-O { [%clk 0:01:49] } 9... Bd6 { [%clk 0:01:58] } 10. Bxd6 { [%clk 0:01:46] } 10... Qxd6 { [%clk 0:01:58] } 11. Kb1 { [%clk 0:01:46] } 11... O-O-O { [%clk 0:01:57] } 12. Bb5 { [%clk 0:01:42] } 12... Kb8 { [%clk 0:01:56] } 13. Bxc6 { [%clk 0:01:40] } 13... Qxc6 { [%clk 0:01:56] } 14. a3 { [%clk 0:01:39] } 14... a6 { [%clk 0:01:54] } 15. g4 { [%clk 0:01:34] } 15... Nd7 { [%clk 0:01:53] } 16. h4 { [%clk 0:01:33] } 16... Nb6 { [%clk 0:01:52] } 17. g5 { [%clk 0:01:32] } 17... Nc4 { [%clk 0:01:51] } 18. Qg4 { [%clk 0:01:26] } 18... Qb6 { [%clk 0:01:50] } 19. b3 { [%clk 0:01:24] } 19... Nxa3+ { [%clk 0:01:48] } 20. Ka2 { [%clk 0:01:22] } 20... Nb5 { [%clk 0:01:48] } 21. Nxb5 { [%clk 0:01:20] } 21... Qxb5 { [%clk 0:01:48] } 22. Kb2 { [%clk 0:01:18] } 22... Rc8 { [%clk 0:01:48] } 23. g6 { [%clk 0:01:15] } 23... fxg6 { [%clk 0:01:45] } 24. Qxe6 { [%clk 0:01:13] } 24... Qb4 { [%clk 0:01:42] } 25. Qxd5 { [%clk 0:01:07] } 25... Qc3+ { [%clk 0:01:41] } 26. Ka2 { [%clk 0:01:05] } 26... Qxc2+ { [%clk 0:01:40] } 27. Ka3 { [%clk 0:01:02] } 27... Rc3 { [%clk 0:01:28] } 28. Qe5+ { [%clk 0:00:59] } 28... Ka8 { [%clk 0:01:27] } 29. Rc1 { [%clk 0:00:54] } 29... Qxb3# { [%clk 0:01:25] } 0-1

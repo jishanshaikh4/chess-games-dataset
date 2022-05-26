@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/abel4KkG"]
+[Date "2019.04.20"]
+[White "JustenM51"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.04.20"]
+[UTCTime "00:07:14"]
+[WhiteElo "1331"]
+[BlackElo "1611"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B00"]
+[Opening "Ware Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... a5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59] } 2... a4 { [%clk 0:01:00] } 3. a3 { [%clk 0:00:58] } 3... b5 { [%clk 0:00:58] } 4. b3 { [%clk 0:00:57] } 4... b4 { [%clk 0:00:58] } 5. bxa4 { [%clk 0:00:56] } 5... e6 { [%clk 0:00:56] } 6. axb4 { [%clk 0:00:55] } 6... Bxb4 { [%clk 0:00:54] } 7. Ba3 { [%clk 0:00:49] } 7... Bxa3 { [%clk 0:00:51] } 8. Nxa3 { [%clk 0:00:47] } 8... d5 { [%clk 0:00:51] } 9. Rb1 { [%clk 0:00:45] } 9... Na6 { [%clk 0:00:49] } 10. exd5 { [%clk 0:00:44] } 10... Qxd5 { [%clk 0:00:47] } 11. Rb5 { [%clk 0:00:38] } 11... Qe4+ { [%clk 0:00:45] } 12. Be2 { [%clk 0:00:32] } 12... Qxa4 { [%clk 0:00:44] } 13. Re5 { [%clk 0:00:27] } 13... Nf6 { [%clk 0:00:44] } 14. Nb5 { [%clk 0:00:23] } 14... O-O { [%clk 0:00:40] } 15. Nxc7 { [%clk 0:00:19] } 15... Nxc7 { [%clk 0:00:38] } 16. Qb1 { [%clk 0:00:17] } 16... Qa1 { [%clk 0:00:37] } 17. Qxa1 { [%clk 0:00:15] } 17... Rxa1+ { [%clk 0:00:37] } 18. Bd1 { [%clk 0:00:14] } 18... Ng4 { [%clk 0:00:35] } 19. Nh4 { [%clk 0:00:09] } 19... Nxe5 { [%clk 0:00:33] } 20. Rf1 { [%clk 0:00:08] } 20... Nc4 { [%clk 0:00:33] } 21. f4 { [%clk 0:00:07] } 21... Nd5 { [%clk 0:00:31] } 22. g3 { [%clk 0:00:07] } 22... Nb4 { [%clk 0:00:30] } 23. Rf3 { [%clk 0:00:07] } 23... Nxc2+ { [%clk 0:00:29] } 24. Ke2 { [%clk 0:00:05] } 24... Nd4+ { [%clk 0:00:28] } 25. Kd3 { [%clk 0:00:04] } 25... Nxf3 { [%clk 0:00:28] } 26. Ng6 { [%clk 0:00:03] } 26... Nfxd2 { [%clk 0:00:26] } 27. Nxf8 { [%clk 0:00:01] } 27... Kxf8 { [%clk 0:00:24] } 0-1

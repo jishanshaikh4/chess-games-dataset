@@ -1,0 +1,17 @@
+[Event "Casual King of the Hill game"]
+[Site "https://lichess.org/llyrPa7q"]
+[Date "2020.09.15"]
+[White "jishanshaikh4"]
+[Black "Shiva2222"]
+[Result "0-1"]
+[UTCDate "2020.09.15"]
+[UTCTime "08:08:29"]
+[WhiteElo "1500"]
+[BlackElo "1500"]
+[Variant "King of the Hill"]
+[TimeControl "300+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:05:00] } 1... d5 { [%clk 0:05:00] } 2. exd5 { [%clk 0:04:59] } 2... Qxd5 { [%clk 0:04:59] } 3. Qe2 { [%clk 0:04:58] } 3... Bf5 { [%clk 0:04:56] } 4. Qe3 { [%clk 0:04:57] } 4... e5 { [%clk 0:04:55] } 5. Ke2 { [%clk 0:04:56] } 5... Nc6 { [%clk 0:04:53] } 6. Nf3 { [%clk 0:04:54] } 6... Nf6 { [%clk 0:04:49] } 7. Nc3 { [%clk 0:04:52] } 7... Qd7 { [%clk 0:04:41] } 8. g3 { [%clk 0:04:49] } 8... O-O-O { [%clk 0:04:40] } 9. Bg2 { [%clk 0:04:47] } 9... e4 { [%clk 0:04:33] } 10. Ng5 { [%clk 0:04:46] } 10... h6 { [%clk 0:04:25] } 11. Ngxe4 { [%clk 0:04:45] } 11... Nxe4 { [%clk 0:04:24] } 12. Bxe4 { [%clk 0:04:42] } 12... Bxe4 { [%clk 0:04:23] } 13. Qxe4 { [%clk 0:04:41] } 13... Re8 { [%clk 0:04:22] } 14. Ke3 { [%clk 0:04:41] } 14... Qd4+ { [%clk 0:04:17] } 15. Kf4 { [%clk 0:04:38] } 15... Rxe4+ { [%clk 0:04:15] } 16. Nxe4 { [%clk 0:04:37] } 16... g5+ { [%clk 0:04:10] } 17. Kf5 { [%clk 0:04:36] } 17... Qe5+ { [%clk 0:04:05] } 18. Kg4 { [%clk 0:04:34] } 18... h5+ { [%clk 0:04:03] } 19. Kf3 { [%clk 0:04:32] } 19... g4+ { [%clk 0:04:01] } 20. Ke3 { [%clk 0:04:32] } 20... Bc5+ { [%clk 0:03:57] } 21. Kd3 { [%clk 0:04:28] } 21... Rd8+ { [%clk 0:03:57] } 22. Kc4 { [%clk 0:04:27] } 22... Rd4+ { [%clk 0:03:51] } 23. Kc3 { [%clk 0:04:25] } 23... Rxe4+ { [%clk 0:03:46] } 24. d4 { [%clk 0:04:24] } 24... Qxd4+ { [%clk 0:03:44] } 25. Kb3 { [%clk 0:04:23] } 25... Qb4# { [%clk 0:03:43] } 0-1

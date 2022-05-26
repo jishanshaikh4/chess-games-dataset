@@ -1,0 +1,17 @@
+[Event "2nd BGC Inter University  Team Battle"]
+[Site "https://lichess.org/4VwOAsPw"]
+[Date "2020.05.25"]
+[White "RoHaNDaS1"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2020.05.25"]
+[UTCTime "14:15:29"]
+[WhiteElo "2033"]
+[BlackElo "1876"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D06"]
+[Opening "Queen's Gambit Declined: Marshall Defense"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. c4 { [%clk 0:02:59] } 2... Nf6 { [%clk 0:02:59] } 3. e3 { [%clk 0:02:58] } 3... e6 { [%clk 0:02:56] } 4. Nc3 { [%clk 0:02:58] } 4... b6 { [%clk 0:02:55] } 5. cxd5 { [%clk 0:02:57] } 5... exd5 { [%clk 0:02:54] } 6. Nf3 { [%clk 0:02:57] } 6... Bb7 { [%clk 0:02:53] } 7. Bd3 { [%clk 0:02:55] } 7... Be7 { [%clk 0:02:52] } 8. O-O { [%clk 0:02:54] } 8... O-O { [%clk 0:02:51] } 9. Re1 { [%clk 0:02:53] } 9... h6 { [%clk 0:02:49] } 10. Qc2 { [%clk 0:02:52] } 10... c5 { [%clk 0:02:48] } 11. dxc5 { [%clk 0:02:51] } 11... Bxc5 { [%clk 0:02:48] } 12. Ne5 { [%clk 0:02:46] } 12... Re8 { [%clk 0:02:42] } 13. f4 { [%clk 0:02:45] } 13... d4 { [%clk 0:02:38] } 14. exd4 { [%clk 0:02:39] } 14... Bxd4+ { [%clk 0:02:38] } 15. Kh1 { [%clk 0:02:37] } 15... Nc6 { [%clk 0:02:36] } 16. Nf3 { [%clk 0:02:11] } 16... Qd7 { [%clk 0:02:27] } 17. Bd2 { [%clk 0:02:05] } 17... Qg4 { [%clk 0:02:25] } 18. Bf5 { [%clk 0:01:59] } 18... Qh5 { [%clk 0:02:09] } 19. Ne2 { [%clk 0:01:46] } 19... g6 { [%clk 0:02:00] } 20. Ng3 { [%clk 0:01:44] } 20... Rxe1+ { [%clk 0:01:42] } 21. Rxe1 { [%clk 0:01:42] } 21... Nb4 { [%clk 0:01:41] } 22. Qb1 { [%clk 0:01:35] } 22... Be4 { [%clk 0:01:30] } 23. Rxe4 { [%clk 0:01:28] } 23... gxf5 { [%clk 0:01:19] } 24. Nxh5 { [%clk 0:01:27] } 24... Nxe4 { [%clk 0:01:17] } 25. h3 { [%clk 0:01:19] } 25... Bc5 { [%clk 0:01:13] } 26. Bxb4 { [%clk 0:01:17] } 26... Bxb4 { [%clk 0:01:13] } 27. Qd3 { [%clk 0:01:11] } 27... Rc8 { [%clk 0:01:07] } 28. Qd4 { [%clk 0:01:10] } 28... Rc1+ { [%clk 0:01:04] } 29. Kh2 { [%clk 0:01:10] } 29... Bc5 { [%clk 0:00:52] } 30. Qg7# { [%clk 0:01:08] } 1-0

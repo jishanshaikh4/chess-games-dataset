@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/TqkGjMwa"]
+[Date "2022.01.16"]
+[White "jishanshaikh4"]
+[Black "lichess AI level 6"]
+[Result "0-1"]
+[UTCDate "2022.01.16"]
+[UTCTime "11:54:41"]
+[WhiteElo "2133"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "60+1"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Normal"]
+
+1. e3 { [%clk 0:01:00] } 1... d6 { [%clk 0:01:00] } 2. d4 { [%clk 0:01:01] } 2... Nd7 { [%clk 0:01:01] } 3. Nf3 { [%clk 0:01:02] } 3... g6 { [%clk 0:01:01] } 4. c4 { [%clk 0:01:03] } 4... Bg7 { [%clk 0:01:02] } 5. Nc3 { [%clk 0:01:04] } 5... Ngf6 { [%clk 0:01:03] } 6. Bd3 { [%clk 0:01:05] } 6... O-O { [%clk 0:01:03] } 7. O-O { [%clk 0:01:06] } 7... e5 { [%clk 0:01:04] } 8. dxe5 { [%clk 0:01:06] } 8... dxe5 { [%clk 0:01:04] } 9. Re1 { [%clk 0:01:07] } 9... Qe7 { [%clk 0:01:05] } 10. Be2 { [%clk 0:01:07] } 10... e4 { [%clk 0:01:05] } 11. Nd4 { [%clk 0:01:08] } 11... Rd8 { [%clk 0:01:05] } 12. Qc2 { [%clk 0:01:08] } 12... h5 { [%clk 0:01:05] } 13. f3 { [%clk 0:01:08] } 13... c6 { [%clk 0:01:05] } 14. fxe4 { [%clk 0:01:08] } 14... Ng4 { [%clk 0:01:05] } 15. h3 { [%clk 0:01:06] } 15... Nge5 { [%clk 0:01:06] } 16. Bf3 { [%clk 0:01:04] } 16... Nc5 { [%clk 0:01:06] } 17. b4 { [%clk 0:01:03] } 17... Ncd3 { [%clk 0:01:06] } 18. Rd1 { [%clk 0:01:03] } 18... Nxf3+ { [%clk 0:01:06] } 19. gxf3 { [%clk 0:01:01] } 19... Rxd4 { [%clk 0:01:06] } 20. exd4 { [%clk 0:01:01] } 20... Bxd4+ { [%clk 0:01:07] } 21. Kg2 { [%clk 0:01:00] } 21... Qh4 { [%clk 0:01:07] } 22. Rxd3 { [%clk 0:00:57] } 22... Qxh3# { [%clk 0:01:06] } 0-1

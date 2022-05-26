@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/U0OUPgEb"]
+[Date "2019.04.10"]
+[White "dustinsprenger"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.04.10"]
+[UTCTime "18:25:29"]
+[WhiteElo "1064"]
+[BlackElo "1609"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Bb5+ { [%clk 0:00:58] } 2... c6 { [%clk 0:00:59] } 3. exd5 { [%clk 0:00:55] } 3... cxb5 { [%clk 0:00:58] } 4. Nc3 { [%clk 0:00:52] } 4... Nf6 { [%clk 0:00:57] } 5. a4 { [%clk 0:00:51] } 5... Nxd5 { [%clk 0:00:57] } 6. Nxb5 { [%clk 0:00:50] } 6... Nc7 { [%clk 0:00:55] } 7. c4 { [%clk 0:00:48] } 7... Nxb5 { [%clk 0:00:54] } 8. axb5 { [%clk 0:00:48] } 8... e6 { [%clk 0:00:53] } 9. d3 { [%clk 0:00:47] } 9... Bc5 { [%clk 0:00:52] } 10. Nh3 { [%clk 0:00:45] } 10... Qf6 { [%clk 0:00:52] } 11. f3 { [%clk 0:00:43] } 11... e5 { [%clk 0:00:51] } 12. Bg5 { [%clk 0:00:34] } 12... Qg6 { [%clk 0:00:46] } 13. Bh4 { [%clk 0:00:18] } 13... Qxg2 { [%clk 0:00:43] } 0-1

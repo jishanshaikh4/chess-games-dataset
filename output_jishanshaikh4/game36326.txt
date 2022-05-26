@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/Zg4WkGvA"]
+[Date "2018.11.27"]
+[White "AjejeBrazsorf89"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2018.11.27"]
+[UTCTime "21:05:07"]
+[WhiteElo "1329"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+[Termination "Normal"]
+
+1. b3 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. Bb2 { [%clk 0:01:00] } 2... g6 { [%clk 0:00:59] } 3. f3 { [%clk 0:00:59] } 3... Bg7 { [%clk 0:00:59] } 4. e3 { [%clk 0:00:59] } 4... O-O { [%clk 0:00:58] } 5. d3 { [%clk 0:00:58] } 5... Nh5 { [%clk 0:00:56] } 6. e4 { [%clk 0:00:58] } 0-1

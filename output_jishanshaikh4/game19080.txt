@@ -1,0 +1,17 @@
+[Event "AICL 2.0 Finals Bullet Team Battle"]
+[Site "https://lichess.org/AZrQZKU6"]
+[Date "2020.12.27"]
+[White "jishanshaikh4"]
+[Black "JENNISH"]
+[Result "0-1"]
+[UTCDate "2020.12.27"]
+[UTCTime "13:17:56"]
+[WhiteElo "1921"]
+[BlackElo "1595"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Abandoned"]
+
+0-1

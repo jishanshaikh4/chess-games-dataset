@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/VoTp2mKr"]
+[Date "2021.05.05"]
+[White "jishanshaikh4"]
+[Black "Therafik"]
+[Result "0-1"]
+[UTCDate "2021.05.05"]
+[UTCTime "18:58:13"]
+[WhiteElo "2035"]
+[BlackElo "1950"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Catalan Formation"]
+[Termination "Normal"]
+
+1. g3 { [%clk 0:00:30] } 1... d5 { [%clk 0:00:30] } 2. Bg2 { [%clk 0:00:30] } 2... e6 { [%clk 0:00:30] } 3. Nf3 { [%clk 0:00:30] } 3... Nf6 { [%clk 0:00:30] } 4. O-O { [%clk 0:00:30] } 4... Be7 { [%clk 0:00:30] } 5. d3 { [%clk 0:00:30] } 5... Nc6 { [%clk 0:00:30] } 6. h3 { [%clk 0:00:30] } 6... Bd7 { [%clk 0:00:30] } 7. c3 { [%clk 0:00:30] } 7... Bd6 { [%clk 0:00:30] } 8. d4 { [%clk 0:00:30] } 8... h6 { [%clk 0:00:29] } 9. Bf4 { [%clk 0:00:29] } 9... Bxf4 { [%clk 0:00:28] } 10. gxf4 { [%clk 0:00:29] } 10... g5 { [%clk 0:00:28] } 11. fxg5 { [%clk 0:00:28] } 11... hxg5 { [%clk 0:00:27] } 12. Nxg5 { [%clk 0:00:28] } 12... Ne4 { [%clk 0:00:27] } 13. Nf3 { [%clk 0:00:28] } 13... Rg8 { [%clk 0:00:26] } 14. Kh2 { [%clk 0:00:27] } 14... Qf6 { [%clk 0:00:25] } 15. Rg1 { [%clk 0:00:27] } 15... Qf4+ { [%clk 0:00:24] } 16. Kh1 { [%clk 0:00:16] } 16... Nxf2# { [%clk 0:00:23] } 0-1

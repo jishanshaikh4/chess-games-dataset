@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/7gx2PMqX"]
+[Date "2019.09.30"]
+[White "Carlsen28"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.09.30"]
+[UTCTime "17:40:43"]
+[WhiteElo "2067"]
+[BlackElo "1901"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59] } 2... e6 { [%clk 0:01:00] } 3. c3 { [%clk 0:00:58] } 3... Be7 { [%clk 0:01:00] } 4. d4 { [%clk 0:00:58] } 4... d5 { [%clk 0:01:00] } 5. exd5 { [%clk 0:00:57] } 5... exd5 { [%clk 0:01:00] } 6. Be2 { [%clk 0:00:56] } 6... Nf6 { [%clk 0:01:00] } 7. O-O { [%clk 0:00:55] } 7... c4 { [%clk 0:00:59] } 8. Bg5 { [%clk 0:00:53] } 8... O-O { [%clk 0:00:58] } 9. b3 { [%clk 0:00:52] } 9... b5 { [%clk 0:00:56] } 10. a4 { [%clk 0:00:51] } 10... h6 { [%clk 0:00:55] } 11. Bh4 { [%clk 0:00:49] } 11... Bb7 { [%clk 0:00:53] } 12. axb5 { [%clk 0:00:48] } 12... a6 { [%clk 0:00:51] } 13. bxc4 { [%clk 0:00:47] } 13... axb5 { [%clk 0:00:49] } 14. Rxa8 { [%clk 0:00:45] } 14... Bxa8 { [%clk 0:00:48] } 15. cxb5 { [%clk 0:00:45] } 15... Nbd7 { [%clk 0:00:45] } 16. Nbd2 { [%clk 0:00:43] } 16... Ne4 { [%clk 0:00:44] } 17. Nxe4 { [%clk 0:00:42] } 17... Bxh4 { [%clk 0:00:43] } 18. Nxh4 { [%clk 0:00:41] } 18... Qxh4 { [%clk 0:00:42] } 19. Nc5 { [%clk 0:00:40] } 19... Nf6 { [%clk 0:00:40] } 20. Bf3 { [%clk 0:00:39] } 20... Re8 { [%clk 0:00:35] } 21. Re1 { [%clk 0:00:38] } 21... Kf8 { [%clk 0:00:30] } 22. Rxe8+ { [%clk 0:00:36] } 22... Nxe8 { [%clk 0:00:29] } 23. b6 { [%clk 0:00:35] } 23... Nd6 { [%clk 0:00:28] } 24. Qa4 { [%clk 0:00:32] } 24... Ke7 { [%clk 0:00:26] } 25. Qxa8 { [%clk 0:00:30] } 25... Nc4 { [%clk 0:00:23] } 26. Qxd5 { [%clk 0:00:28] } 26... Qf4 { [%clk 0:00:21] } 27. Qd7+ { [%clk 0:00:26] } 27... Kf6 { [%clk 0:00:20] } 28. Qd8+ { [%clk 0:00:21] } 28... Kg6 { [%clk 0:00:17] } 29. h3 { [%clk 0:00:09] } 1-0

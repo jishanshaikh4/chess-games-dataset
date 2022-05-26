@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/Ye60pSLz"]
+[Date "2019.02.22"]
+[White "jishanshaikh4"]
+[Black "HappyWorm32"]
+[Result "0-1"]
+[UTCDate "2019.02.22"]
+[UTCTime "10:02:25"]
+[WhiteElo "1211"]
+[BlackElo "1407"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:00:15] } 1... e5 { [%clk 0:00:15] } 2. Nf3 { [%clk 0:00:15] } 2... d6 { [%clk 0:00:14] } 3. d4 { [%clk 0:00:15] } 3... Be7 { [%clk 0:00:14] } 4. dxe5 { [%clk 0:00:14] } 4... dxe5 { [%clk 0:00:14] } 5. Nxe5 { [%clk 0:00:13] } 5... Qxd1+ { [%clk 0:00:13] } 6. Kxd1 { [%clk 0:00:13] } 6... Nf6 { [%clk 0:00:13] } 7. Nc3 { [%clk 0:00:13] } 7... O-O { [%clk 0:00:13] } 8. Nd7 { [%clk 0:00:11] } 8... g6 { [%clk 0:00:13] } 9. Bd2 { [%clk 0:00:09] } 9... Nbxd7 { [%clk 0:00:12] } 10. Bd3 { [%clk 0:00:09] } 10... Ne5 { [%clk 0:00:12] } 11. Ke2 { [%clk 0:00:08] } 11... Bd7 { [%clk 0:00:12] } 12. Rhe1 { [%clk 0:00:07] } 12... Rae8 { [%clk 0:00:12] } 13. Bc4 { [%clk 0:00:06] } 13... c6 { [%clk 0:00:12] } 14. Bd3 { [%clk 0:00:06] } 14... Rd8 { [%clk 0:00:11] } 15. Nd5 { [%clk 0:00:03] } 15... Rde8 { [%clk 0:00:11] } 16. c4 { [%clk 0:00:02] } 16... Be6 { [%clk 0:00:10] } 17. Nc7 { [%clk 0:00:01] } 17... Bd7 { [%clk 0:00:10] } 0-1

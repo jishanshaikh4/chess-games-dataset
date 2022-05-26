@@ -1,0 +1,17 @@
+[Event "Casual Rapid game"]
+[Site "https://lichess.org/Y4THYe4j"]
+[Date "2018.10.04"]
+[White "jishanshaikh4"]
+[Black "haimabati"]
+[Result "1-0"]
+[UTCDate "2018.10.04"]
+[UTCTime "14:54:57"]
+[WhiteElo "1318"]
+[BlackElo "1013"]
+[Variant "Standard"]
+[TimeControl "900+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Wayward Queen Attack"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:15:00] } 1... e5 { [%clk 0:15:00] } 2. Qh5 { [%clk 0:14:59] } 2... g6 { [%clk 0:14:56] } 3. Qxe5+ { [%clk 0:14:58] } 3... Qe7 { [%clk 0:14:53] } 4. Qxh8 { [%clk 0:14:57] } 4... Nf6 { [%clk 0:14:49] } 5. Be2 { [%clk 0:14:50] } 5... Nxe4 { [%clk 0:14:42] } 6. Qxh7 { [%clk 0:14:36] } 6... d5 { [%clk 0:14:33] } 7. Qh8 { [%clk 0:14:25] } 7... Kd7 { [%clk 0:14:25] } 8. Qh3+ { [%clk 0:14:20] } 8... Kd6 { [%clk 0:14:21] } 9. Qe3 { [%clk 0:14:08] } 1-0

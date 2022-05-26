@@ -1,0 +1,17 @@
+[Event "Casual Three-check game"]
+[Site "https://lichess.org/CpkyPY4U"]
+[Date "2021.04.20"]
+[White "YoshiForPresident"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2021.04.20"]
+[UTCTime "13:34:21"]
+[WhiteElo "1729"]
+[BlackElo "1335"]
+[Variant "Three-check"]
+[TimeControl "60+0"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[Termination "Normal"]
+
+1. e3 { [%clk 0:01:00] } 1... e6 { [%clk 0:01:00] } 2. Nc3 { [%clk 0:00:56] } 2... Nf6 { [%clk 0:00:59] } 3. Nb5 { [%clk 0:00:49] } 3... Ke7 { [%clk 0:00:54] } 4. b3 { [%clk 0:00:45] } 4... a6 { [%clk 0:00:53] } 5. Ba3+ { [%clk 0:00:43] } 5... d6 { [%clk 0:00:49] } 6. Bxd6+ { [%clk 0:00:41] } 6... cxd6 { [%clk 0:00:49] } 7. Nd4 { [%clk 0:00:36] } 7... Ke8 { [%clk 0:00:46] } 8. Bb5+ { [%clk 0:00:34] } 1-0

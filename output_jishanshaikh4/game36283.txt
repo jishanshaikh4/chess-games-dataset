@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/6d0VnpHL"]
+[Date "2018.11.28"]
+[White "jishanshaikh4"]
+[Black "AncAr99"]
+[Result "0-1"]
+[UTCDate "2018.11.28"]
+[UTCTime "16:43:27"]
+[WhiteElo "1245"]
+[BlackElo "1604"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[Termination "Time forfeit"]
+
+1. g3 { [%clk 0:00:15] } 1... e5 { [%clk 0:00:15] } 2. Bg2 { [%clk 0:00:15] } 2... d6 { [%clk 0:00:15] } 3. Nf3 { [%clk 0:00:15] } 3... Qf6 { [%clk 0:00:15] } 4. O-O { [%clk 0:00:14] } 4... Be7 { [%clk 0:00:15] } 5. Re1 { [%clk 0:00:14] } 5... Qg6 { [%clk 0:00:15] } 6. e4 { [%clk 0:00:14] } 6... h5 { [%clk 0:00:14] } 7. d3 { [%clk 0:00:12] } 7... h4 { [%clk 0:00:14] } 8. Bg5 { [%clk 0:00:12] } 8... hxg3 { [%clk 0:00:14] } 9. Bxe7 { [%clk 0:00:10] } 9... gxf2+ { [%clk 0:00:14] } 10. Kxf2 { [%clk 0:00:09] } 10... Nxe7 { [%clk 0:00:13] } 11. Rg1 { [%clk 0:00:09] } 11... Qh7 { [%clk 0:00:13] } 12. Bf1 { [%clk 0:00:09] } 12... Qxh2+ { [%clk 0:00:13] } 13. Rg2 { [%clk 0:00:08] } 13... Qh6 { [%clk 0:00:11] } 14. Qe2 { [%clk 0:00:06] } 14... Qf6 { [%clk 0:00:11] } 15. Qe3 { [%clk 0:00:04] } 15... Bg4 { [%clk 0:00:11] } 16. Qe2 { [%clk 0:00:02] } 16... Bxf3 { [%clk 0:00:10] } 17. Qxf3 { [%clk 0:00:02] } 17... Qxf3+ { [%clk 0:00:10] } 18. Kxf3 { [%clk 0:00:01] } 18... Rh3+ { [%clk 0:00:09] } 19. Ke2 { [%clk 0:00:01] } 19... Re3+ { [%clk 0:00:08] } 0-1

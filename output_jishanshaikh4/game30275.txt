@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/Cdpcri5Q"]
+[Date "2019.09.04"]
+[White "jishanshaikh4"]
+[Black "MiguelAngelBM"]
+[Result "1-0"]
+[UTCDate "2019.09.04"]
+[UTCTime "14:01:42"]
+[WhiteElo "1792"]
+[BlackElo "1513"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... e6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... d5 { [%clk 0:01:00] } 3. exd5 { [%clk 0:00:59] } 3... exd5 { [%clk 0:01:00] } 4. d4 { [%clk 0:00:59] } 4... Nf6 { [%clk 0:01:00] } 5. Nc3 { [%clk 0:00:59] } 5... Bd6 { [%clk 0:01:00] } 6. Bb5+ { [%clk 0:00:59] } 6... c6 { [%clk 0:00:59] } 7. Bd3 { [%clk 0:00:57] } 7... O-O { [%clk 0:00:59] } 8. O-O { [%clk 0:00:57] } 8... h6 { [%clk 0:00:57] } 9. Re1 { [%clk 0:00:57] } 9... Re8 { [%clk 0:00:57] } 10. Be3 { [%clk 0:00:57] } 10... Bg4 { [%clk 0:00:55] } 11. Qd2 { [%clk 0:00:55] } 11... Bxf3 { [%clk 0:00:52] } 12. gxf3 { [%clk 0:00:55] } 12... Qc7 { [%clk 0:00:51] } 13. Bxh6 { [%clk 0:00:54] } 13... Bxh2+ { [%clk 0:00:50] } 14. Kg2 { [%clk 0:00:51] } 14... gxh6 { [%clk 0:00:50] } 15. Qxh6 { [%clk 0:00:50] } 15... Rxe1 { [%clk 0:00:45] } 16. Rxe1 { [%clk 0:00:48] } 16... Nbd7 { [%clk 0:00:43] } 17. Qxh2 { [%clk 0:00:46] } 17... Qxh2+ { [%clk 0:00:42] } 18. Kxh2 { [%clk 0:00:46] } 18... Kg7 { [%clk 0:00:40] } 19. Bf5 { [%clk 0:00:46] } 19... Rh8+ { [%clk 0:00:39] } 20. Kg3 { [%clk 0:00:43] } 20... Nh5+ { [%clk 0:00:38] } 21. Kg4 { [%clk 0:00:41] } 21... Ndf6+ { [%clk 0:00:35] } 22. Kg5 { [%clk 0:00:39] } 22... Nh7+ { [%clk 0:00:21] } 23. Kxh5 { [%clk 0:00:35] } 23... Nf6+ { [%clk 0:00:19] } 24. Kg5 { [%clk 0:00:35] } 24... Rh5+ { [%clk 0:00:18] } 25. Kf4 { [%clk 0:00:34] } 25... Rh4+ { [%clk 0:00:17] } 26. Bg4 { [%clk 0:00:33] } 26... Nh7 { [%clk 0:00:12] } 27. Rg1 { [%clk 0:00:31] } 27... Kg6 { [%clk 0:00:09] } 28. Kg3 { [%clk 0:00:28] } 28... Rxg4+ { [%clk 0:00:07] } 29. Kxg4 { [%clk 0:00:28] } 29... f5+ { [%clk 0:00:05] } 30. Kf4+ { [%clk 0:00:28] } 30... Kf6 { [%clk 0:00:05] } 31. Ke3 { [%clk 0:00:26] } 31... Ng5 { [%clk 0:00:04] } 32. Ne2 { [%clk 0:00:26] } 32... Ne6 { [%clk 0:00:03] } 33. Nf4 { [%clk 0:00:26] } 33... Nxf4 { [%clk 0:00:02] } 34. Kxf4 { [%clk 0:00:26] } 1-0

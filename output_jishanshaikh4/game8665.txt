@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/eCRO84X3"]
+[Date "2021.08.23"]
+[White "jishanshaikh4"]
+[Black "Ahmed-A-Elmandooh"]
+[Result "1-0"]
+[UTCDate "2021.08.23"]
+[UTCTime "17:50:29"]
+[WhiteElo "2134"]
+[BlackElo "1862"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D05"]
+[Opening "Queen's Pawn Game: Colle System"]
+[Termination "Normal"]
+
+1. e3 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. d4 { [%clk 0:01:00] } 2... Nf6 { [%clk 0:01:00] } 3. Nf3 { [%clk 0:01:00] } 3... e6 { [%clk 0:00:59] } 4. c4 { [%clk 0:01:00] } 4... c5 { [%clk 0:00:58] } 5. Nc3 { [%clk 0:01:00] } 5... cxd4 { [%clk 0:00:57] } 6. exd4 { [%clk 0:01:00] } 6... dxc4 { [%clk 0:00:56] } 7. Bxc4 { [%clk 0:01:00] } 7... Nc6 { [%clk 0:00:54] } 8. Bd3 { [%clk 0:01:00] } 8... Bb4 { [%clk 0:00:53] } 9. O-O { [%clk 0:01:00] } 9... a5 { [%clk 0:00:52] } 10. h3 { [%clk 0:01:00] } 10... O-O { [%clk 0:00:52] } 11. Be3 { [%clk 0:00:59] } 11... b6 { [%clk 0:00:51] } 12. Rc1 { [%clk 0:00:59] } 12... Bb7 { [%clk 0:00:51] } 13. a3 { [%clk 0:00:58] } 13... Bd6 { [%clk 0:00:50] } 14. Bb1 { [%clk 0:00:58] } 14... Rc8 { [%clk 0:00:50] } 15. Bg5 { [%clk 0:00:57] } 15... h6 { [%clk 0:00:49] } 16. Bxf6 { [%clk 0:00:57] } 16... Qxf6 { [%clk 0:00:48] } 17. Qd2 { [%clk 0:00:56] } 17... Ne7 { [%clk 0:00:44] } 18. Qe3 { [%clk 0:00:51] } 18... Bf4 { [%clk 0:00:43] } 19. Qd3 { [%clk 0:00:48] } 19... Bxc1 { [%clk 0:00:43] } 20. Rxc1 { [%clk 0:00:47] } 20... Bxf3 { [%clk 0:00:41] } 21. gxf3 { [%clk 0:00:47] } 21... Qg5+ { [%clk 0:00:38] } 22. Kh2 { [%clk 0:00:45] } 22... Qxc1 { [%clk 0:00:38] } 23. Qh7# { [%clk 0:00:44] } 1-0

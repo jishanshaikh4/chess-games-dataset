@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/1EUE9p4k"]
+[Date "2018.12.01"]
+[White "abuz"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.12.01"]
+[UTCTime "07:26:35"]
+[WhiteElo "1459"]
+[BlackElo "1435"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined: Reversed Alekhine"]
+[Termination "Time forfeit"]
+
+1. d4 { [%clk 0:02:00] } 1... e5 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:02:00] } 2... exd4 { [%clk 0:01:58] } 3. Nxd4 { [%clk 0:01:58] } 3... Nc6 { [%clk 0:01:58] } 4. Nxc6 { [%clk 0:01:57] } 4... dxc6 { [%clk 0:01:58] } 5. Nc3 { [%clk 0:01:57] } 5... Nf6 { [%clk 0:01:57] } 6. Bf4 { [%clk 0:01:56] } 6... Bb4 { [%clk 0:01:56] } 7. g3 { [%clk 0:01:53] } 7... Bxc3+ { [%clk 0:01:54] } 8. bxc3 { [%clk 0:01:53] } 8... O-O { [%clk 0:01:52] } 9. Bg2 { [%clk 0:01:53] } 9... Re8 { [%clk 0:01:52] } 10. O-O { [%clk 0:01:52] } 10... Qxd1 { [%clk 0:01:38] } 11. Raxd1 { [%clk 0:01:49] } 11... Bf5 { [%clk 0:01:35] } 12. Bxc7 { [%clk 0:01:37] } 12... Red8 { [%clk 0:01:35] } 13. Bxd8 { [%clk 0:01:34] } 1-0

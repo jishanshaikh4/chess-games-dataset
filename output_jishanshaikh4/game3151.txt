@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/DUMkJ9ad"]
+[Date "2022.01.25"]
+[White "jishanshaikh4"]
+[Black "Navodaya29"]
+[Result "0-1"]
+[UTCDate "2022.01.25"]
+[UTCTime "07:19:10"]
+[WhiteElo "1965"]
+[BlackElo "1945"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "A00"]
+[Opening "Englund Gambit Declined: Reversed French"]
+[Termination "Normal"]
+
+1. e3 { [%clk 0:00:30] } 1... e5 { [%clk 0:00:30] } 2. d4 { [%clk 0:00:30] } 2... d6 { [%clk 0:00:30] } 3. Nf3 { [%clk 0:00:30] } 3... exd4 { [%clk 0:00:28] } 4. exd4 { [%clk 0:00:30] } 4... c6 { [%clk 0:00:28] } 5. c3 { [%clk 0:00:30] } 5... Nd7 { [%clk 0:00:27] } 6. Be2 { [%clk 0:00:30] } 6... Be7 { [%clk 0:00:27] } 7. O-O { [%clk 0:00:30] } 7... Ngf6 { [%clk 0:00:27] } 8. Be3 { [%clk 0:00:30] } 8... O-O { [%clk 0:00:26] } 9. Qd2 { [%clk 0:00:30] } 9... Ne4 { [%clk 0:00:26] } 10. Bg5 { [%clk 0:00:30] } 10... Nxd2 { [%clk 0:00:25] } 11. Bxd2 { [%clk 0:00:30] } 11... Bf6 { [%clk 0:00:25] } 12. Be3 { [%clk 0:00:30] } 12... c5 { [%clk 0:00:24] } 13. Nbd2 { [%clk 0:00:30] } 13... cxd4 { [%clk 0:00:23] } 14. Nxd4 { [%clk 0:00:29] } 14... Bxd4 { [%clk 0:00:23] } 15. Bxd4 { [%clk 0:00:29] } 15... Nf6 { [%clk 0:00:22] } 16. Be3 { [%clk 0:00:29] } 16... d5 { [%clk 0:00:21] } 17. Nf3 { [%clk 0:00:29] } 17... Bg4 { [%clk 0:00:20] } 18. Nd4 { [%clk 0:00:29] } 18... Bxe2 { [%clk 0:00:19] } 19. Nxe2 { [%clk 0:00:29] } 19... Re8 { [%clk 0:00:19] } 20. Nd4 { [%clk 0:00:28] } 20... Rxe3 { [%clk 0:00:18] } 21. fxe3 { [%clk 0:00:27] } 21... Qe7 { [%clk 0:00:18] } 22. Rf2 { [%clk 0:00:26] } 22... Qxe3 { [%clk 0:00:16] } 23. Rf1 { [%clk 0:00:26] } 23... Ne4 { [%clk 0:00:16] } 24. Kh1 { [%clk 0:00:25] } 24... Nxf2+ { [%clk 0:00:15] } 25. Kg1 { [%clk 0:00:24] } 25... Nd1+ { [%clk 0:00:14] } 26. Kh1 { [%clk 0:00:22] } 26... Nf2+ { [%clk 0:00:13] } 27. Kg1 { [%clk 0:00:21] } 27... Nh3+ { [%clk 0:00:12] } 28. Kh1 { [%clk 0:00:21] } 28... Qg1+ { [%clk 0:00:12] } 29. Rxg1 { [%clk 0:00:21] } 29... Nf2# { [%clk 0:00:11] } 0-1

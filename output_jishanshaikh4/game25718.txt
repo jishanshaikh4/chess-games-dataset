@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/OB4PaqM6"]
+[Date "2020.05.01"]
+[White "aditya2620"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2020.05.01"]
+[UTCTime "14:39:48"]
+[WhiteElo "1573"]
+[BlackElo "1800"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 0-1

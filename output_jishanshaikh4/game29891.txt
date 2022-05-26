@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/6fKNwWv9"]
+[Date "2019.10.01"]
+[White "lichess AI level 6"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.10.01"]
+[UTCTime "18:56:19"]
+[WhiteElo "?"]
+[BlackElo "1872"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:02:00] } 1... c5 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:02:00] } 2... Nc6 { [%clk 0:01:55] } 3. Nc3 { [%clk 0:02:01] } 3... e6 { [%clk 0:01:25] } 4. d4 { [%clk 0:02:01] } 4... d5 { [%clk 0:01:05] } 5. exd5 { [%clk 0:02:01] } 5... exd5 { [%clk 0:01:00] } 6. Bb5 { [%clk 0:02:00] } 6... cxd4 { [%clk 0:00:29] } 7. Qxd4 { [%clk 0:02:01] } 1-0

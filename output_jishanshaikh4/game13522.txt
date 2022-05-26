@@ -1,0 +1,17 @@
+[Event "Casual Atomic game"]
+[Site "https://lichess.org/CAXNceCp"]
+[Date "2021.04.16"]
+[White "SleekPig"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.04.16"]
+[UTCTime "13:02:47"]
+[WhiteElo "1206"]
+[BlackElo "1095"]
+[Variant "Atomic"]
+[TimeControl "0+1"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Normal"]
+
+1. Nf3 { [%clk 0:00:03] } 1... f6 { [%clk 0:00:03] } 2. Ng5 { [%clk 0:00:04] } 2... e6 { [%clk 0:00:04] } 3. g3 { [%clk 0:00:04] } 3... fxg5 { [%clk 0:00:04] } 4. Bh3 { [%clk 0:00:04] } 4... Qg5 { [%clk 0:00:05] } 5. Bg4 { [%clk 0:00:03] } 5... Qxd2# { [%clk 0:00:04] } 0-1

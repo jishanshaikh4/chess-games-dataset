@@ -1,0 +1,17 @@
+[Event "2nd BGC Inter University  Team Battle"]
+[Site "https://lichess.org/fQ7YcYFn"]
+[Date "2020.05.25"]
+[White "jishanshaikh4"]
+[Black "PhenomAC"]
+[Result "1-0"]
+[UTCDate "2020.05.25"]
+[UTCTime "12:50:33"]
+[WhiteElo "1876"]
+[BlackElo "1773"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B45"]
+[Opening "Sicilian Defense: Taimanov Variation, Normal Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:03:00] } 1... e6 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:59] } 2... c5 { [%clk 0:02:58] } 3. d4 { [%clk 0:02:58] } 3... cxd4 { [%clk 0:02:56] } 4. Nxd4 { [%clk 0:02:58] } 4... Nc6 { [%clk 0:02:54] } 5. Nc3 { [%clk 0:02:57] } 5... Nxd4 { [%clk 0:02:53] } 6. Qxd4 { [%clk 0:02:57] } 6... b6 { [%clk 0:02:52] } 7. Be2 { [%clk 0:02:55] } 7... Bb7 { [%clk 0:02:51] } 8. Bf3 { [%clk 0:02:55] } 8... Bc5 { [%clk 0:02:49] } 9. Qd3 { [%clk 0:02:52] } 9... Nf6 { [%clk 0:02:47] } 10. Na4 { [%clk 0:02:51] } 10... Rc8 { [%clk 0:02:39] } 11. Nxc5 { [%clk 0:02:49] } 11... Rxc5 { [%clk 0:02:39] } 12. O-O { [%clk 0:02:48] } 12... d5 { [%clk 0:02:37] } 13. Be3 { [%clk 0:02:47] } 13... Ra5 { [%clk 0:02:26] } 14. e5 { [%clk 0:02:43] } 14... Ba6 { [%clk 0:02:23] } 15. c4 { [%clk 0:02:39] } 15... Bxc4 { [%clk 0:02:21] } 16. Qc3 { [%clk 0:02:35] } 16... Bxf1 { [%clk 0:01:55] } 17. exf6 { [%clk 0:02:34] } 17... Bc4 { [%clk 0:01:35] } 18. fxg7 { [%clk 0:02:31] } 18... Rg8 { [%clk 0:01:34] } 19. b3 { [%clk 0:02:23] } 19... Ba6 { [%clk 0:01:00] } 20. Qc6+ { [%clk 0:02:30] } 20... Ke7 { [%clk 0:00:56] } 21. Bg5+ { [%clk 0:02:27] } 21... f6 { [%clk 0:00:53] } 22. Bh6 { [%clk 0:02:19] } 22... Qc8 { [%clk 0:00:49] } 23. Rc1 { [%clk 0:01:53] } 1-0

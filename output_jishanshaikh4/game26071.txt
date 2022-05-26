@@ -1,0 +1,17 @@
+[Event "AICL IIT Bombay vs NITs United Arena"]
+[Site "https://lichess.org/7xQzS1B9"]
+[Date "2020.03.25"]
+[White "jishanshaikh4"]
+[Black "SlyCorsair7"]
+[Result "1-0"]
+[UTCDate "2020.03.25"]
+[UTCTime "17:18:47"]
+[WhiteElo "1847"]
+[BlackElo "1675"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:02:00] } 1-0

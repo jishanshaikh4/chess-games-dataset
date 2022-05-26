@@ -1,0 +1,18 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/DU11Asrv"]
+[Date "2021.03.12"]
+[White "RandomMoverBot"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.03.12"]
+[UTCTime "12:22:19"]
+[WhiteElo "984"]
+[BlackElo "1999"]
+[WhiteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "A11"]
+[Opening "English Opening: Caro-Kann Defensive System"]
+[Termination "Time forfeit"]
+
+1. c4 { [%clk 0:00:30] } 1... c6 { [%clk 0:00:30] } 2. g4 { [%clk 0:00:30] } 2... e6 { [%clk 0:00:30] } 3. Nh3 { [%clk 0:00:30] } 3... d5 { [%clk 0:00:30] } 4. d3 { [%clk 0:00:30] } 4... Nf6 { [%clk 0:00:29] } 5. Qc2 { [%clk 0:00:30] } 5... Be7 { [%clk 0:00:29] } 6. f4 { [%clk 0:00:30] } 6... dxc4 { [%clk 0:00:29] } 7. Qd1 { [%clk 0:00:30] } 7... cxd3 { [%clk 0:00:29] } 8. Nf2 { [%clk 0:00:30] } 8... dxe2 { [%clk 0:00:29] } 9. Nc3 { [%clk 0:00:30] } 9... Qb6 { [%clk 0:00:28] } 10. Qd4 { [%clk 0:00:30] } 10... Qxd4 { [%clk 0:00:27] } 11. Rb1 { [%clk 0:00:30] } 11... Qd1+ { [%clk 0:00:27] } 12. Ncxd1 { [%clk 0:00:30] } 12... exd1=Q+ { [%clk 0:00:25] } 13. Kxd1 { [%clk 0:00:30] } 13... O-O { [%clk 0:00:25] } 14. b4 { [%clk 0:00:30] } 14... Re8 { [%clk 0:00:25] } 15. Ke1 { [%clk 0:00:30] } 15... Rd8 { [%clk 0:00:24] } 16. Be2 { [%clk 0:00:30] } 16... Bd7 { [%clk 0:00:24] } 17. Nd3 { [%clk 0:00:30] } 17... c5 { [%clk 0:00:24] } 18. Bf1 { [%clk 0:00:30] } 18... cxb4 { [%clk 0:00:24] } 19. Nxb4 { [%clk 0:00:30] } 19... Bc6 { [%clk 0:00:24] } 20. Kf2 { [%clk 0:00:30] } 20... Nbd7 { [%clk 0:00:24] } 0-1

@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/rt5lj8rd"]
+[Date "2018.11.22"]
+[White "jishanshaikh4"]
+[Black "yessjah"]
+[Result "0-1"]
+[UTCDate "2018.11.22"]
+[UTCTime "12:27:23"]
+[WhiteElo "1400"]
+[BlackElo "2051"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Wing Gambit"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:02:00] } 1... c5 { [%clk 0:02:00] } 2. b4 { [%clk 0:01:56] } 2... cxb4 { [%clk 0:01:56] } 3. d3 { [%clk 0:01:51] } 3... Nc6 { [%clk 0:01:51] } 4. Nd2 { [%clk 0:01:49] } 4... d6 { [%clk 0:01:48] } 5. Ngf3 { [%clk 0:01:48] } 5... e5 { [%clk 0:01:44] } 6. Nc4 { [%clk 0:01:42] } 6... Nf6 { [%clk 0:01:43] } 7. Bg5 { [%clk 0:01:38] } 7... Be7 { [%clk 0:01:42] } 8. Be2 { [%clk 0:01:30] } 8... O-O { [%clk 0:01:40] } 9. O-O { [%clk 0:01:27] } 9... Be6 { [%clk 0:01:37] } 10. d4 { [%clk 0:01:15] } 10... Nxe4 { [%clk 0:01:19] } 11. Bxe7 { [%clk 0:01:11] } 11... Qxe7 { [%clk 0:01:17] } 12. dxe5 { [%clk 0:01:10] } 12... Nc3 { [%clk 0:01:11] } 13. exd6 { [%clk 0:00:58] } 13... Qf6 { [%clk 0:00:55] } 14. Qd2 { [%clk 0:00:49] } 14... Rad8 { [%clk 0:00:49] } 15. a3 { [%clk 0:00:28] } 15... Nxe2+ { [%clk 0:00:40] } 16. Qxe2 { [%clk 0:00:25] } 16... bxa3 { [%clk 0:00:40] } 17. Rxa3 { [%clk 0:00:23] } 17... Bxc4 { [%clk 0:00:39] } 18. Qxc4 { [%clk 0:00:18] } 18... Rxd6 { [%clk 0:00:39] } 19. Rd3 { [%clk 0:00:15] } 19... Rfd8 { [%clk 0:00:37] } 20. Rxd6 { [%clk 0:00:13] } 20... Qxd6 { [%clk 0:00:36] } 21. Re1 { [%clk 0:00:10] } 21... h6 { [%clk 0:00:34] } 22. Kf1 { [%clk 0:00:08] } 22... a6 { [%clk 0:00:29] } 23. Nd2 { [%clk 0:00:05] } 23... Qxd2 { [%clk 0:00:27] } 24. Qe2 { [%clk 0:00:04] } 24... Qxe2+ { [%clk 0:00:25] } 25. Rxe2 { [%clk 0:00:04] } 25... Rd1+ { [%clk 0:00:24] } 26. Re1 { [%clk 0:00:03] } 26... Rxe1+ { [%clk 0:00:24] } 27. Kxe1 { [%clk 0:00:02] } 27... Kf8 { [%clk 0:00:23] } 0-1

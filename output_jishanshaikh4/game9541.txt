@@ -1,0 +1,17 @@
+[Event "14th Weekend Bullet Arena"]
+[Site "https://lichess.org/cV920xIb"]
+[Date "2021.08.06"]
+[White "Aryansinghrajawat"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.08.06"]
+[UTCTime "16:14:53"]
+[WhiteElo "1173"]
+[BlackElo "2111"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Qf3 { [%clk 0:01:00] } 2... Nc6 { [%clk 0:01:00] } 3. Bc4 { [%clk 0:00:59] } 3... e6 { [%clk 0:00:59] } 4. Nc3 { [%clk 0:00:56] } 4... Nf6 { [%clk 0:00:58] } 5. Nd5 { [%clk 0:00:55] } 5... exd5 { [%clk 0:00:56] } 6. exd5 { [%clk 0:00:53] } 6... Ne5 { [%clk 0:00:55] } 7. d6 { [%clk 0:00:52] } 7... Nxf3+ { [%clk 0:00:53] } 8. gxf3 { [%clk 0:00:47] } 8... Bxd6 { [%clk 0:00:53] } 9. Ne2 { [%clk 0:00:46] } 9... a6 { [%clk 0:00:50] } 10. Rg1 { [%clk 0:00:45] } 10... b5 { [%clk 0:00:50] } 11. Rxg7 { [%clk 0:00:45] } 11... bxc4 { [%clk 0:00:48] } 12. Nf4 { [%clk 0:00:43] } 12... Bxf4 { [%clk 0:00:47] } 13. Kf1 { [%clk 0:00:41] } 13... Bxh2 { [%clk 0:00:44] } 14. d3 { [%clk 0:00:39] } 14... Rg8 { [%clk 0:00:44] } 15. Rxh7 { [%clk 0:00:37] } 15... Rg1+ { [%clk 0:00:42] } 16. Ke2 { [%clk 0:00:35] } 16... Qe7+ { [%clk 0:00:42] } 17. Kd2 { [%clk 0:00:34] } 17... Qe1# { [%clk 0:00:39] } 0-1

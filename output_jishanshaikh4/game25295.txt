@@ -1,0 +1,17 @@
+[Event "2nd BGC Inter University  Team Battle"]
+[Site "https://lichess.org/BnqIEn37"]
+[Date "2020.05.25"]
+[White "jishanshaikh4"]
+[Black "bla_nk"]
+[Result "0-1"]
+[UTCDate "2020.05.25"]
+[UTCTime "13:33:15"]
+[WhiteElo "1876"]
+[BlackElo "2255"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "E22"]
+[Opening "Nimzo-Indian Defense: Spielmann Variation"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... Nf6 { [%clk 0:03:00] } 2. c4 { [%clk 0:02:59] } 2... e6 { [%clk 0:03:00] } 3. Nc3 { [%clk 0:02:58] } 3... Bb4 { [%clk 0:03:00] } 4. Qb3 { [%clk 0:02:56] } 4... Bxc3+ { [%clk 0:02:59] } 5. Qxc3 { [%clk 0:02:56] } 5... O-O { [%clk 0:02:58] } 6. Bf4 { [%clk 0:02:56] } 6... d5 { [%clk 0:02:58] } 7. e3 { [%clk 0:02:55] } 7... c5 { [%clk 0:02:57] } 8. Be2 { [%clk 0:02:53] } 8... Nc6 { [%clk 0:02:56] } 9. Nf3 { [%clk 0:02:52] } 9... Ne4 { [%clk 0:02:55] } 10. Qc2 { [%clk 0:02:50] } 10... Nb4 { [%clk 0:02:54] } 11. Qc1 { [%clk 0:02:48] } 11... cxd4 { [%clk 0:02:51] } 12. exd4 { [%clk 0:02:44] } 12... Bd7 { [%clk 0:02:50] } 13. a3 { [%clk 0:02:43] } 13... Nc6 { [%clk 0:02:49] } 14. O-O { [%clk 0:02:39] } 14... Rc8 { [%clk 0:02:48] } 15. Qd1 { [%clk 0:02:34] } 15... Na5 { [%clk 0:02:46] } 16. cxd5 { [%clk 0:02:33] } 16... exd5 { [%clk 0:02:45] } 17. Bd3 { [%clk 0:02:32] } 17... Re8 { [%clk 0:02:38] } 18. Re1 { [%clk 0:02:31] } 18... Qf6 { [%clk 0:02:34] } 19. Be5 { [%clk 0:02:28] } 19... Qb6 { [%clk 0:02:34] } 20. b4 { [%clk 0:02:25] } 20... Nc6 { [%clk 0:02:33] } 21. Bxe4 { [%clk 0:02:21] } 21... dxe4 { [%clk 0:02:32] } 22. Rxe4 { [%clk 0:02:21] } 22... Nxe5 { [%clk 0:02:31] } 23. Nxe5 { [%clk 0:02:18] } 23... Bf5 { [%clk 0:02:30] } 24. Re2 { [%clk 0:02:13] } 24... Rcd8 { [%clk 0:02:29] } 25. Rd2 { [%clk 0:02:12] } 25... Qh6 { [%clk 0:02:26] } 26. Qb3 { [%clk 0:02:05] } 26... Rxe5 { [%clk 0:02:25] } 27. d5 { [%clk 0:01:24] } 27... Qxd2 { [%clk 0:02:23] } 28. Rf1 { [%clk 0:01:16] } 28... Re1 { [%clk 0:02:22] } 29. g3 { [%clk 0:01:14] } 29... Rxf1+ { [%clk 0:02:20] } 30. Kxf1 { [%clk 0:01:14] } 30... Bh3+ { [%clk 0:02:19] } 31. Kg1 { [%clk 0:01:08] } 31... Qe1# { [%clk 0:02:19] } 0-1

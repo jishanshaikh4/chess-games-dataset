@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/2Wc3x5oh"]
+[Date "2021.08.19"]
+[White "Ajay2001"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.08.19"]
+[UTCTime "11:05:27"]
+[WhiteElo "1721"]
+[BlackElo "2102"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Grand Prix Attack"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nc3 { [%clk 0:00:52] } 2... Nc6 { [%clk 0:00:57] } 3. f4 { [%clk 0:01:07] } 3... e6 { [%clk 0:00:57] } 4. Nf3 { [%clk 0:01:06] } 4... d5 { [%clk 0:00:57] } 5. e5 { [%clk 0:01:05] } 5... f6 { [%clk 0:00:56] } 6. d3 { [%clk 0:01:04] } 6... d4 { [%clk 0:00:55] } 7. Ne4 { [%clk 0:01:02] } 7... a6 { [%clk 0:00:54] } 8. Be2 { [%clk 0:01:01] } 8... fxe5 { [%clk 0:00:53] } 9. fxe5 { [%clk 0:01:00] } 9... Nge7 { [%clk 0:00:52] } 10. O-O { [%clk 0:00:59] } 10... Nf5 { [%clk 0:00:51] } 11. Bf4 { [%clk 0:00:56] } 11... Bd7 { [%clk 0:00:51] } 12. Nfg5 { [%clk 0:00:55] } 12... h6 { [%clk 0:00:49] } 13. Bh5+ { [%clk 0:00:54] } 13... Ke7 { [%clk 0:00:47] } 14. Qg4 { [%clk 0:00:48] } 14... Qb6 { [%clk 0:00:39] } 15. Nd6 { [%clk 0:00:46] } 15... Nxd6 { [%clk 0:00:38] } 16. exd6+ { [%clk 0:00:45] } 16... Kd8 { [%clk 0:00:37] } 17. Be5 { [%clk 0:00:44] } 17... Nxe5 { [%clk 0:00:35] } 18. Qf4 { [%clk 0:00:43] } 18... Kc8 { [%clk 0:00:33] } 19. Qxe5 { [%clk 0:00:42] } 19... hxg5 { [%clk 0:00:32] } 20. Qxg5 { [%clk 0:00:38] } 20... Bxd6 { [%clk 0:00:31] } 21. Qg6 { [%clk 0:00:37] } 21... Bc7 { [%clk 0:00:29] } 22. Rf7 { [%clk 0:00:36] } 22... Qd6 { [%clk 0:00:27] } 23. g3 { [%clk 0:00:33] } 23... Kb8 { [%clk 0:00:25] } 24. Bf3 { [%clk 0:00:32] } 24... Ka7 { [%clk 0:00:24] } 25. Qxg7 { [%clk 0:00:31] } 25... Rad8 { [%clk 0:00:19] } 26. Re1 { [%clk 0:00:29] } 26... Rhg8 { [%clk 0:00:17] } 27. Qf6 { [%clk 0:00:28] } 27... Rxg3+ { [%clk 0:00:16] } 28. hxg3 { [%clk 0:00:27] } 28... Qxg3+ { [%clk 0:00:16] } 29. Bg2 { [%clk 0:00:26] } 29... Bc6 { [%clk 0:00:13] } 30. Rf1 { [%clk 0:00:25] } 30... Qxg2# { [%clk 0:00:11] } 0-1

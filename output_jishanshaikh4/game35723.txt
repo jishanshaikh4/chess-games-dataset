@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/FNVjTAsW"]
+[Date "2019.01.07"]
+[White "jishanshaikh4"]
+[Black "A10Pilot"]
+[Result "0-1"]
+[UTCDate "2019.01.07"]
+[UTCTime "14:55:39"]
+[WhiteElo "1320"]
+[BlackElo "1427"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... Nc6 { [%clk 0:01:00] } 2. d4 { [%clk 0:00:59] } 2... e5 { [%clk 0:00:59] } 3. d5 { [%clk 0:00:58] } 3... Nce7 { [%clk 0:00:58] } 4. Nc3 { [%clk 0:00:57] } 4... Ng6 { [%clk 0:00:58] } 5. f3 { [%clk 0:00:57] } 5... Bb4 { [%clk 0:00:57] } 6. Ne2 { [%clk 0:00:56] } 6... Nf6 { [%clk 0:00:56] } 7. Bg5 { [%clk 0:00:54] } 7... h6 { [%clk 0:00:54] } 8. Bxf6 { [%clk 0:00:52] } 8... Qxf6 { [%clk 0:00:54] } 9. a3 { [%clk 0:00:51] } 9... Bxc3+ { [%clk 0:00:53] } 10. Nxc3 { [%clk 0:00:51] } 10... Nf4 { [%clk 0:00:52] } 11. Be2 { [%clk 0:00:49] } 11... Nxe2 { [%clk 0:00:51] } 12. Qxe2 { [%clk 0:00:49] } 12... d6 { [%clk 0:00:50] } 13. O-O { [%clk 0:00:48] } 13... Qg6 { [%clk 0:00:48] } 14. Rfd1 { [%clk 0:00:47] } 14... Bh3 { [%clk 0:00:47] } 15. g3 { [%clk 0:00:45] } 15... Bd7 { [%clk 0:00:46] } 16. Qg2 { [%clk 0:00:44] } 16... h5 { [%clk 0:00:45] } 17. Qh3 { [%clk 0:00:43] } 17... Bxh3 { [%clk 0:00:43] } 18. Kf2 { [%clk 0:00:30] } 18... Bd7 { [%clk 0:00:41] } 19. Rg1 { [%clk 0:00:30] } 19... h4 { [%clk 0:00:40] } 20. Rgd1 { [%clk 0:00:30] } 20... hxg3+ { [%clk 0:00:39] } 21. hxg3 { [%clk 0:00:29] } 21... Rh2+ { [%clk 0:00:39] } 22. Kg1 { [%clk 0:00:27] } 22... Qxg3+ { [%clk 0:00:38] } 23. Kf1 { [%clk 0:00:26] } 23... Qf2# { [%clk 0:00:38] } 0-1

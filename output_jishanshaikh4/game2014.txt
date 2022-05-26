@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/V7CbC5z7"]
+[Date "2022.02.11"]
+[White "Ajay2001"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2022.02.11"]
+[UTCTime "16:36:17"]
+[WhiteElo "1889"]
+[BlackElo "2007"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. Nc3 { [%clk 0:02:59] } 2... d4 { [%clk 0:02:53] } 3. Nce2 { [%clk 0:02:58] } 3... e5 { [%clk 0:02:52] } 4. Ng3 { [%clk 0:02:57] } 4... c5 { [%clk 0:02:50] } 5. Bc4 { [%clk 0:02:56] } 5... a5 { [%clk 0:02:42] } 6. d3 { [%clk 0:02:52] } 6... Bd7 { [%clk 0:02:39] } 7. a4 { [%clk 0:02:50] } 7... Nc6 { [%clk 0:02:34] } 8. f4 { [%clk 0:02:49] } 8... Nge7 { [%clk 0:02:26] } 9. f5 { [%clk 0:02:47] } 9... Nc8 { [%clk 0:02:23] } 10. Nf3 { [%clk 0:02:46] } 10... Be7 { [%clk 0:02:22] } 11. O-O { [%clk 0:02:44] } 11... O-O { [%clk 0:02:21] } 12. Nh5 { [%clk 0:02:42] } 12... Bf6 { [%clk 0:02:12] } 13. Nxf6+ { [%clk 0:02:34] } 13... Qxf6 { [%clk 0:02:12] } 14. Bg5 { [%clk 0:02:33] } 14... Qd6 { [%clk 0:02:11] } 15. f6 { [%clk 0:02:31] } 15... Nd8 { [%clk 0:02:03] } 16. Qe1 { [%clk 0:02:23] } 16... Ne6 { [%clk 0:02:01] } 17. Qh4 { [%clk 0:02:21] } 17... Nxg5 { [%clk 0:01:59] } 18. Qxg5 { [%clk 0:02:11] } 18... Qxf6 { [%clk 0:01:54] } 19. Qh5 { [%clk 0:02:01] } 19... Qg6 { [%clk 0:01:51] } 20. Qxe5 { [%clk 0:01:59] } 20... Nd6 { [%clk 0:01:33] } 21. h4 { [%clk 0:01:48] } 21... Nxc4 { [%clk 0:01:31] } 22. dxc4 { [%clk 0:01:45] } 22... Rae8 { [%clk 0:01:26] } 23. Qxc5 { [%clk 0:01:27] } 23... Bc6 { [%clk 0:01:22] } 24. Ne5 { [%clk 0:01:24] } 24... Qxe4 { [%clk 0:01:02] } 25. Nf3 { [%clk 0:01:09] } 25... Qe3+ { [%clk 0:00:52] } 26. Kh1 { [%clk 0:01:07] } 26... d3 { [%clk 0:00:51] } 27. cxd3 { [%clk 0:01:06] } 27... Qxc5 { [%clk 0:00:49] } 0-1

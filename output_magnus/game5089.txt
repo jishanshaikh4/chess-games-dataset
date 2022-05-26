@@ -1,0 +1,18 @@
+[Event "Casual Crazyhouse game"]
+[Site "https://lichess.org/3gMzDYU2"]
+[Date "2020.06.07"]
+[White "DumpItYouPigs"]
+[Black "DrNykterstein"]
+[Result "1-0"]
+[UTCDate "2020.06.07"]
+[UTCTime "17:07:10"]
+[WhiteElo "2034"]
+[BlackElo "1500"]
+[BlackTitle "GM"]
+[Variant "Crazyhouse"]
+[TimeControl "180+0"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[Termination "Normal"]
+
+1. e4 { [%eval 3.02] [%clk 0:03:00] } 1... Nf6 { [%eval 2.12] [%clk 0:03:00] } 2. Nc3 { [%eval 2.95] [%clk 0:02:59] } 2... d5 { [%eval 3.83] [%clk 0:02:59] } 3. exd5 { [%eval 2.9] [%clk 0:02:58] } 3... Nxd5 { [%eval 3.43] [%clk 0:02:59] } 4. Bc4 { [%eval 2.9] [%clk 0:02:57] } 4... e6 { [%eval 3.49] [%clk 0:02:56] } 5. Nf3 { [%eval 2.02] [%clk 0:02:55] } 5... Nf4 { [%eval 2.27] [%clk 0:02:54] } 6. Rg1 { [%eval 1.46] [%clk 0:02:49] } 6... Nc6 { [%eval 2.44] [%clk 0:02:52] } 7. d4 { [%eval 2.03] [%clk 0:02:45] } 7... P@g4 { [%eval 7.44] [%clk 0:02:36] } 8. Bxf4 { [%eval 7.0] [%clk 0:02:27] } 8... gxf3 { [%eval 6.61] [%clk 0:02:34] } 9. d5 { [%eval 5.7] [%clk 0:02:19] } 9... exd5 { [%eval 6.77] [%clk 0:02:26] } 10. Nxd5 { [%eval 5.86] [%clk 0:02:14] } 10... Bd6 { [%eval 11.33] [%clk 0:02:22] } 11. Bxd6 { [%eval 5.97] [%clk 0:02:08] } 11... Qxd6 { [%eval 6.59] [%clk 0:02:20] } 12. Nxc7+ { [%eval 2.35] [%clk 0:02:00] } 12... Qxc7 { [%eval 1.26] [%clk 0:02:19] } 13. B@d6 { [%eval -3.0] [%clk 0:01:57] } 13... B@b4+ { [%eval 4.01] [%clk 0:02:16] } 14. P@c3 { [%eval -11.29] [%clk 0:01:55] } 14... Bxd6 { [%eval -10.52] [%clk 0:02:15] } 15. N@d5 { [%eval -11.36] [%clk 0:01:51] } 15... Qd8 { [%eval -10.1] [%clk 0:02:11] } 16. Qxf3 { [%eval -14.22] [%clk 0:01:29] } 16... P@d2+ { [%eval -13.76] [%clk 0:02:08] } 17. Kxd2 { [%eval -13.48] [%clk 0:01:18] } 17... N@e5 { [%eval -12.87] [%clk 0:02:08] } 18. Rae1 { [%eval -21.38] [%clk 0:01:12] } 18... O-O { [%eval -14.88] [%clk 0:02:07] } 19. P@f6 { [%eval -36.27] [%clk 0:00:57] } 19... Nxf3+ { [%eval -21.82] [%clk 0:02:05] } 20. gxf3 { [%eval -22.69] [%clk 0:00:57] } 20... Bf4+ { [%eval -21.11] [%clk 0:02:04] } 21. P@e3 { [%eval -19.97] [%clk 0:00:55] } 21... N@g6 { [%eval 7.74] [%clk 0:01:47] } 22. fxg7 { [%eval 5.84] [%clk 0:00:49] } 22... Kxg7 { [%eval 11.76] [%clk 0:01:40] } 23. N@h5+ { [%eval 7.92] [%clk 0:00:48] } 23... Kh6 { [%eval 20.2] [%clk 0:01:37] } 24. Nxf4 { [%eval 7.12] [%clk 0:00:39] } 24... P@g5 { [%eval 13.43] [%clk 0:01:32] } 25. P@f6 { [%eval 10.95] [%clk 0:00:29] } 25... Rg8 { [%eval 11.71] [%clk 0:01:26] } 26. Rxg5 { [%eval 10.86] [%clk 0:00:25] } 26... Kxg5 { [%eval 17.77] [%clk 0:01:23] } 27. Rg1+ { [%eval 15.61] [%clk 0:00:24] } 27... Kf5 { [%eval #3] [%clk 0:01:15] } 28. Nd3 { [%eval 18.47] [%clk 0:00:15] } 28... Nce5 { [%eval #4] [%clk 0:01:03] } 29. B@h3+ { [%eval #6] [%clk 0:00:14] } 29... B@g4 { [%eval #6] [%clk 0:00:59] } 30. fxg4+ { [%eval #6] [%clk 0:00:12] } 30... Ke6 { [%eval #3] [%clk 0:00:57] } 31. g5+ { [%eval 31.87] [%clk 0:00:11] } 31... Kd6 { [%eval #2] [%clk 0:00:55] } 32. B@c5+ { [%eval #1] [%clk 0:00:10] } 32... Kc6 { [%eval #1] [%clk 0:00:51] } 33. P@b5# { [%clk 0:00:09] } 1-0

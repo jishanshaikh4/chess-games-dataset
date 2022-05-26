@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/krBFKQUi"]
+[Date "2019.08.25"]
+[White "notgoodatallsorry"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.08.25"]
+[UTCTime "11:03:35"]
+[WhiteElo "1605"]
+[BlackElo "1792"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[Termination "Normal"]
+
+1. e3 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. d4 { [%clk 0:01:00] } 2... Nc6 { [%clk 0:00:59] } 3. c4 { [%clk 0:01:00] } 3... e5 { [%clk 0:00:59] } 4. cxd5 { [%clk 0:00:59] } 4... Qxd5 { [%clk 0:00:57] } 5. dxe5 { [%clk 0:00:58] } 5... Qxd1+ { [%clk 0:00:55] } 6. Kxd1 { [%clk 0:00:58] } 6... Nxe5 { [%clk 0:00:54] } 7. f4 { [%clk 0:00:58] } 7... Nc6 { [%clk 0:00:53] } 0-1

@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/s0h658Cq"]
+[Date "2021.06.09"]
+[White "jishanshaikh4"]
+[Black "Animesh264"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "15:24:46"]
+[WhiteElo "2100"]
+[BlackElo "1791"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Macleod Attack"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. c3 { [%clk 0:00:59] } 2... Nc6 { [%clk 0:01:00] } 3. d4 { [%clk 0:00:59] } 3... exd4 { [%clk 0:01:00] } 4. cxd4 { [%clk 0:00:59] } 4... d5 { [%clk 0:00:58] } 5. e5 { [%clk 0:00:57] } 5... f6 { [%clk 0:00:57] } 6. f4 { [%clk 0:00:56] } 6... Bb4+ { [%clk 0:00:55] } 7. Nc3 { [%clk 0:00:54] } 7... Bxc3+ { [%clk 0:00:54] } 8. bxc3 { [%clk 0:00:54] } 8... Nge7 { [%clk 0:00:54] } 9. Nf3 { [%clk 0:00:53] } 9... fxe5 { [%clk 0:00:53] } 10. fxe5 { [%clk 0:00:53] } 10... Bd7 { [%clk 0:00:52] } 11. Bd3 { [%clk 0:00:53] } 11... O-O { [%clk 0:00:51] } 12. Bc2 { [%clk 0:00:51] } 12... Ng6 { [%clk 0:00:50] } 13. O-O { [%clk 0:00:50] } 13... Bg4 { [%clk 0:00:49] } 14. Qd3 { [%clk 0:00:48] } 14... Qd7 { [%clk 0:00:48] } 15. Bg5 { [%clk 0:00:42] } 15... Rae8 { [%clk 0:00:40] } 16. Rae1 { [%clk 0:00:41] } 16... Qe6 { [%clk 0:00:39] } 17. Nh4 { [%clk 0:00:28] } 17... Nxh4 { [%clk 0:00:37] } 18. Qxh7# { [%clk 0:00:26] } 1-0

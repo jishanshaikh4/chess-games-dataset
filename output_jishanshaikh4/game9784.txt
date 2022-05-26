@@ -1,0 +1,17 @@
+[Event "QCT Finale Team Battle"]
+[Site "https://lichess.org/9JgEfGWf"]
+[Date "2021.08.01"]
+[White "MAVERICK2205"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2021.08.01"]
+[UTCTime "14:23:00"]
+[WhiteElo "2029"]
+[BlackElo "2056"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:30] } 1... c6 { [%clk 0:01:30] } 2. Nf3 { [%clk 0:01:29] } 2... d5 { [%clk 0:01:30] } 3. exd5 { [%clk 0:01:29] } 3... cxd5 { [%clk 0:01:30] } 4. d4 { [%clk 0:01:29] } 4... e6 { [%clk 0:01:30] } 5. c4 { [%clk 0:01:29] } 5... Nc6 { [%clk 0:01:30] } 6. Nc3 { [%clk 0:01:29] } 6... Nf6 { [%clk 0:01:30] } 7. cxd5 { [%clk 0:01:29] } 7... exd5 { [%clk 0:01:30] } 8. Bb5 { [%clk 0:01:29] } 8... Bb4 { [%clk 0:01:29] } 9. Qa4 { [%clk 0:01:28] } 9... O-O { [%clk 0:01:29] } 10. O-O { [%clk 0:01:25] } 10... Bxc3 { [%clk 0:01:28] } 11. bxc3 { [%clk 0:01:25] } 11... Ne7 { [%clk 0:01:28] } 12. Ba3 { [%clk 0:01:24] } 12... Ng6 { [%clk 0:01:27] } 13. Bxf8 { [%clk 0:01:22] } 13... Qxf8 { [%clk 0:01:27] } 14. Rfe1 { [%clk 0:01:21] } 14... Qd6 { [%clk 0:01:26] } 15. Ne5 { [%clk 0:01:20] } 15... Bf5 { [%clk 0:01:22] } 16. c4 { [%clk 0:01:13] } 16... dxc4 { [%clk 0:01:20] } 17. Bxc4 { [%clk 0:01:13] } 17... h6 { [%clk 0:01:17] } 18. Nxf7 { [%clk 0:01:11] } 18... Kh7 { [%clk 0:01:16] } 19. Nxd6 { [%clk 0:01:09] } 19... Bd7 { [%clk 0:01:11] } 20. Qb3 { [%clk 0:01:06] } 20... b6 { [%clk 0:01:08] } 21. Bf7 { [%clk 0:01:04] } 21... Nf4 { [%clk 0:01:04] } 22. Re7 { [%clk 0:01:03] } 22... Bg4 { [%clk 0:01:00] } 23. h3 { [%clk 0:01:00] } 23... Bh5 { [%clk 0:00:58] } 24. g3 { [%clk 0:00:56] } 24... Nxh3+ { [%clk 0:00:57] } 25. Kh2 { [%clk 0:00:55] } 25... Ng5 { [%clk 0:00:56] } 26. Qd3+ { [%clk 0:00:53] } 26... Kh8 { [%clk 0:00:54] } 27. Bxh5 { [%clk 0:00:50] } 27... Nxh5 { [%clk 0:00:54] } 28. Qg6 { [%clk 0:00:48] } 28... Nf3+ { [%clk 0:00:45] } 29. Kg2 { [%clk 0:00:46] } 29... Rg8 { [%clk 0:00:39] } 30. Nf7# { [%clk 0:00:45] } 1-0

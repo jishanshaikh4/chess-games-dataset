@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/l4sbx1gI"]
+[Date "2019.01.11"]
+[White "KOQS"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.01.11"]
+[UTCTime "11:54:14"]
+[WhiteElo "1500"]
+[BlackElo "1379"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D07"]
+[Opening "Queen's Gambit Declined: Chigorin Defense, Main Line"]
+[Termination "Time forfeit"]
+
+1. d4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... Nc6 { [%clk 0:00:58] } 3. c4 { [%clk 0:01:00] } 3... Bg4 { [%clk 0:00:57] } 4. Nc3 { [%clk 0:01:00] } 4... Bxf3 { [%clk 0:00:55] } 5. gxf3 { [%clk 0:01:00] } 5... dxc4 { [%clk 0:00:54] } 6. e3 { [%clk 0:01:00] } 6... b5 { [%clk 0:00:52] } 7. Bxc4 { [%clk 0:01:00] } 7... bxc4 { [%clk 0:00:50] } 8. Qa4 { [%clk 0:01:00] } 8... Qd7 { [%clk 0:00:47] } 9. Qxc4 { [%clk 0:00:59] } 1-0

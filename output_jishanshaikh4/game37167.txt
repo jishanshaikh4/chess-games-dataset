@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/Ujb89G95"]
+[Date "2018.10.04"]
+[White "jishanshaikh4"]
+[Black "eng_hajir"]
+[Result "1-0"]
+[UTCDate "2018.10.04"]
+[UTCTime "13:28:07"]
+[WhiteElo "1295"]
+[BlackElo "1132"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:05:00] } 1... g6 { [%clk 0:05:00] } 2. Nc3 { [%clk 0:04:54] } 2... Bg7 { [%clk 0:04:59] } 3. Bc4 { [%clk 0:04:48] } 3... c6 { [%clk 0:04:43] } 4. Qf3 { [%clk 0:04:47] } 4... e6 { [%clk 0:04:31] } 5. d3 { [%clk 0:04:35] } 5... d5 { [%clk 0:04:18] } 6. exd5 { [%clk 0:04:34] } 6... exd5 { [%clk 0:04:17] } 7. Bb3 { [%clk 0:04:31] } 7... d4 { [%clk 0:04:13] } 8. Nce2 { [%clk 0:04:23] } 8... Nh6 { [%clk 0:04:06] } 9. Bxh6 { [%clk 0:04:14] } 9... Bxh6 { [%clk 0:04:05] } 10. Qxf7# { [%clk 0:04:12] } 1-0

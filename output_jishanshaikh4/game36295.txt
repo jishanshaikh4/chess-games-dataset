@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/SwW1OLmd"]
+[Date "2018.11.28"]
+[White "jishanshaikh4"]
+[Black "studentt"]
+[Result "0-1"]
+[UTCDate "2018.11.28"]
+[UTCTime "11:36:17"]
+[WhiteElo "1245"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[Termination "Normal"]
+
+1. g3 { [%clk 0:00:15] } 1... d5 { [%clk 0:00:15] } 2. Bg2 { [%clk 0:00:15] } 2... Nf6 { [%clk 0:00:15] } 3. Nf3 { [%clk 0:00:15] } 3... h5 { [%clk 0:00:13] } 4. O-O { [%clk 0:00:15] } 4... h4 { [%clk 0:00:13] } 5. Re1 { [%clk 0:00:15] } 5... g5 { [%clk 0:00:13] } 6. Nxg5 { [%clk 0:00:13] } 6... hxg3 { [%clk 0:00:13] } 7. Nf3 { [%clk 0:00:12] } 7... Bh3 { [%clk 0:00:13] } 8. Bxh3 { [%clk 0:00:11] } 8... Nc6 { [%clk 0:00:12] } 9. hxg3 { [%clk 0:00:10] } 9... Qd7 { [%clk 0:00:11] } 10. Kg2 { [%clk 0:00:09] } 10... Qxh3+ { [%clk 0:00:11] } 11. Kg1 { [%clk 0:00:08] } 11... Qh1# { [%clk 0:00:11] } 0-1

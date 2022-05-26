@@ -1,0 +1,17 @@
+[Event "QCT Finale Team Battle"]
+[Site "https://lichess.org/o6YZmrh9"]
+[Date "2021.08.01"]
+[White "jishanshaikh4"]
+[Black "vini_vidi_vici98"]
+[Result "0-1"]
+[UTCDate "2021.08.01"]
+[UTCTime "14:15:49"]
+[WhiteElo "2056"]
+[BlackElo "2303"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 2. Nc3 { [%clk 0:03:00] } 2... a6 { [%clk 0:02:58] } 3. f4 { [%clk 0:02:59] } 3... e6 { [%clk 0:02:54] } 4. d3 { [%clk 0:02:59] } 4... d5 { [%clk 0:02:53] } 5. exd5 { [%clk 0:02:58] } 5... exd5 { [%clk 0:02:53] } 6. Nf3 { [%clk 0:02:57] } 6... Nf6 { [%clk 0:02:50] } 7. Be2 { [%clk 0:02:56] } 7... Be7 { [%clk 0:02:48] } 8. O-O { [%clk 0:02:56] } 8... O-O { [%clk 0:02:47] } 9. Ne5 { [%clk 0:02:55] } 9... Nc6 { [%clk 0:02:42] } 10. Be3 { [%clk 0:02:52] } 10... d4 { [%clk 0:02:40] } 11. Nxc6 { [%clk 0:02:49] } 11... bxc6 { [%clk 0:02:39] } 12. Ne4 { [%clk 0:02:47] } 12... dxe3 { [%clk 0:02:35] } 13. Qe1 { [%clk 0:02:46] } 13... Nxe4 { [%clk 0:02:22] } 14. dxe4 { [%clk 0:02:46] } 14... Qd4 { [%clk 0:02:22] } 15. Qg3 { [%clk 0:02:44] } 15... Qxe4 { [%clk 0:02:18] } 16. Bd3 { [%clk 0:02:44] } 16... Qd4 { [%clk 0:02:16] } 17. Kh1 { [%clk 0:02:42] } 17... c4 { [%clk 0:02:07] } 18. Be2 { [%clk 0:02:35] } 18... Bf5 { [%clk 0:02:06] } 19. c3 { [%clk 0:02:33] } 19... Qc5 { [%clk 0:02:01] } 20. Rad1 { [%clk 0:02:28] } 20... Rad8 { [%clk 0:02:00] } 21. h3 { [%clk 0:02:26] } 21... Rd2 { [%clk 0:01:56] } 22. Qf3 { [%clk 0:02:25] } 22... Rfd8 { [%clk 0:01:53] } 23. g4 { [%clk 0:02:24] } 23... Bd3 { [%clk 0:01:41] } 24. Bxd3 { [%clk 0:02:16] } 24... R8xd3 { [%clk 0:01:36] } 25. Rxd2 { [%clk 0:02:05] } 25... exd2 { [%clk 0:01:34] } 26. Qd1 { [%clk 0:02:04] } 26... Rxh3+ { [%clk 0:01:31] } 27. Kg2 { [%clk 0:02:03] } 27... Qe3 { [%clk 0:01:30] } 28. Rf3 { [%clk 0:01:57] } 28... Qxf3+ { [%clk 0:01:28] } 29. Qxf3 { [%clk 0:01:55] } 29... Rxf3 { [%clk 0:01:28] } 30. Kxf3 { [%clk 0:01:55] } 0-1

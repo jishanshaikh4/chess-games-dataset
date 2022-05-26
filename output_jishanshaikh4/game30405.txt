@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/kGbIg853"]
+[Date "2019.08.20"]
+[White "Zhorobillionaires"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2019.08.20"]
+[UTCTime "19:31:05"]
+[WhiteElo "1675"]
+[BlackElo "1800"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Scandinavian Defense"]
+[Termination "Normal"]
+
+1. c4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. g3 { [%clk 0:00:56] } 2... Nf6 { [%clk 0:01:00] } 3. Bg2 { [%clk 0:00:55] } 3... dxc4 { [%clk 0:00:59] } 4. Qa4+ { [%clk 0:00:51] } 4... Bd7 { [%clk 0:00:58] } 5. Qxc4 { [%clk 0:00:51] } 5... Bc6 { [%clk 0:00:55] } 6. Nf3 { [%clk 0:00:49] } 6... a6 { [%clk 0:00:52] } 7. Nc3 { [%clk 0:00:49] } 7... b5 { [%clk 0:00:52] } 8. Qb3 { [%clk 0:00:48] } 8... e6 { [%clk 0:00:46] } 9. d4 { [%clk 0:00:47] } 9... Be7 { [%clk 0:00:42] } 10. Bg5 { [%clk 0:00:47] } 10... O-O { [%clk 0:00:41] } 11. Ne5 { [%clk 0:00:46] } 11... Bxg2 { [%clk 0:00:39] } 0-1

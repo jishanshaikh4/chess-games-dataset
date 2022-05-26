@@ -1,0 +1,17 @@
+[Event "Casual Atomic game"]
+[Site "https://lichess.org/FiPkZX8Y"]
+[Date "2019.03.30"]
+[White "jishanshaikh4"]
+[Black "TobiKnobi"]
+[Result "0-1"]
+[UTCDate "2019.03.30"]
+[UTCTime "21:58:59"]
+[WhiteElo "1278"]
+[BlackElo "1610"]
+[Variant "Atomic"]
+[TimeControl "120+1"]
+[ECO "?"]
+[Opening "?"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:02:00] } 1... Nf6 { [%clk 0:02:00] } 2. Nf3 { [%clk 0:02:00] } 2... Ne4 { [%clk 0:01:59] } 3. e3 { [%clk 0:01:39] } 3... Nxf2# { [%clk 0:01:55] } 0-1

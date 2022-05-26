@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/YEolesRN"]
+[Date "2019.01.07"]
+[White "A10Pilot"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.01.07"]
+[UTCTime "14:56:56"]
+[WhiteElo "1427"]
+[BlackElo "1320"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:58] } 2... dxe4 { [%clk 0:00:59] } 3. Ng5 { [%clk 0:00:58] } 3... f5 { [%clk 0:00:57] } 4. d3 { [%clk 0:00:57] } 4... exd3 { [%clk 0:00:55] } 5. Bxd3 { [%clk 0:00:57] } 5... g6 { [%clk 0:00:54] } 6. O-O { [%clk 0:00:52] } 6... e5 { [%clk 0:00:53] } 7. f3 { [%clk 0:00:49] } 7... h6 { [%clk 0:00:51] } 8. Nh3 { [%clk 0:00:48] } 8... Nc6 { [%clk 0:00:51] } 9. Nc3 { [%clk 0:00:45] } 9... g5 { [%clk 0:00:50] } 10. Qe1 { [%clk 0:00:39] } 10... Bb4 { [%clk 0:00:49] } 11. Bd2 { [%clk 0:00:38] } 11... Nge7 { [%clk 0:00:48] } 12. Nb5 { [%clk 0:00:36] } 12... Bxd2 { [%clk 0:00:47] } 13. Qxd2 { [%clk 0:00:36] } 13... a6 { [%clk 0:00:45] } 14. Nc3 { [%clk 0:00:34] } 14... Nb4 { [%clk 0:00:43] } 15. a3 { [%clk 0:00:33] } 15... Nxd3 { [%clk 0:00:42] } 16. cxd3 { [%clk 0:00:32] } 16... Be6 { [%clk 0:00:41] } 17. b4 { [%clk 0:00:31] } 17... Qd7 { [%clk 0:00:40] } 18. Nf2 { [%clk 0:00:30] } 18... Rd8 { [%clk 0:00:39] } 19. Qe2 { [%clk 0:00:29] } 1-0

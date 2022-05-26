@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/8XPSSvvZ"]
+[Date "2018.11.22"]
+[White "yessjah"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.11.22"]
+[UTCTime "12:33:37"]
+[WhiteElo "2051"]
+[BlackElo "1400"]
+[Variant "Standard"]
+[TimeControl "120+0"]
+[ECO "D15"]
+[Opening "Slav Defense: Three Knights Variation"]
+[Termination "Time forfeit"]
+
+1. d4 { [%clk 0:02:00] } 1... d5 { [%clk 0:02:00] } 2. c4 { [%clk 0:01:59] } 2... c6 { [%clk 0:01:58] } 3. Nc3 { [%clk 0:01:58] } 3... Nf6 { [%clk 0:01:55] } 4. Nf3 { [%clk 0:01:57] } 4... Nbd7 { [%clk 0:01:54] } 5. Qc2 { [%clk 0:01:55] } 5... e6 { [%clk 0:01:52] } 6. Bd2 { [%clk 0:01:53] } 6... Bb4 { [%clk 0:01:51] } 7. g4 { [%clk 0:01:51] } 7... O-O { [%clk 0:01:49] } 8. g5 { [%clk 0:01:50] } 8... Ne8 { [%clk 0:01:47] } 9. h4 { [%clk 0:01:49] } 9... f6 { [%clk 0:01:46] } 10. e3 { [%clk 0:01:42] } 10... Qe7 { [%clk 0:01:42] } 11. gxf6 { [%clk 0:01:36] } 11... Ndxf6 { [%clk 0:01:36] } 12. Bd3 { [%clk 0:01:35] } 12... Bd7 { [%clk 0:01:26] } 13. Ne5 { [%clk 0:01:32] } 13... Bc8 { [%clk 0:01:21] } 14. f4 { [%clk 0:01:27] } 14... Nc7 { [%clk 0:01:17] } 15. O-O-O { [%clk 0:01:25] } 15... a6 { [%clk 0:01:13] } 16. Rdg1 { [%clk 0:01:23] } 16... dxc4 { [%clk 0:01:09] } 17. Bxc4 { [%clk 0:01:22] } 17... Ncd5 { [%clk 0:01:05] } 18. h5 { [%clk 0:01:11] } 18... Nxc3 { [%clk 0:01:00] } 19. Bxc3 { [%clk 0:01:11] } 19... Bxc3 { [%clk 0:00:58] } 20. Qxc3 { [%clk 0:01:10] } 20... Ne4 { [%clk 0:00:51] } 21. Qc2 { [%clk 0:01:08] } 21... Bd7 { [%clk 0:00:38] } 22. Qxe4 { [%clk 0:01:05] } 22... Rf5 { [%clk 0:00:33] } 23. Bd3 { [%clk 0:01:04] } 23... Raf8 { [%clk 0:00:18] } 24. Rg5 { [%clk 0:01:00] } 24... b5 { [%clk 0:00:12] } 25. Rhg1 { [%clk 0:00:56] } 25... h6 { [%clk 0:00:09] } 26. Rxg7+ { [%clk 0:00:51] } 26... Kh8 { [%clk 0:00:03] } 27. Rxe7 { [%clk 0:00:45] } 1-0

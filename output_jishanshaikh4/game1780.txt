@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/jBG2Z9NV"]
+[Date "2022.02.19"]
+[White "jishanshaikh4"]
+[Black "Navodaya29"]
+[Result "1-0"]
+[UTCDate "2022.02.19"]
+[UTCTime "18:19:59"]
+[WhiteElo "2042"]
+[BlackElo "1982"]
+[Variant "Standard"]
+[TimeControl "300+0"]
+[ECO "C50"]
+[Opening "Italian Game"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:05:00] } 1... e5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:04:53] } 2... Nc6 { [%clk 0:04:53] } 3. Bc4 { [%clk 0:04:45] } 1-0

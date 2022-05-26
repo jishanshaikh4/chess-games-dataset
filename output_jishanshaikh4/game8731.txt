@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/NFjnScun"]
+[Date "2021.08.22"]
+[White "jishanshaikh4"]
+[Black "Titaniumn"]
+[Result "1-0"]
+[UTCDate "2021.08.22"]
+[UTCTime "12:03:54"]
+[WhiteElo "2114"]
+[BlackElo "2053"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "A05"]
+[Opening "Zukertort Opening"]
+[Termination "Time forfeit"]
+
+1. Nf3 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. c3 { [%clk 0:01:00] } 2... d5 { [%clk 0:00:59] } 3. d4 { [%clk 0:01:00] } 3... c5 { [%clk 0:00:59] } 4. Bf4 { [%clk 0:00:59] } 4... Nc6 { [%clk 0:00:58] } 5. e3 { [%clk 0:00:59] } 5... Bg4 { [%clk 0:00:56] } 6. Be2 { [%clk 0:00:58] } 6... e6 { [%clk 0:00:55] } 7. h3 { [%clk 0:00:57] } 7... Bxf3 { [%clk 0:00:54] } 8. Bxf3 { [%clk 0:00:57] } 8... Be7 { [%clk 0:00:53] } 9. Nd2 { [%clk 0:00:57] } 9... O-O { [%clk 0:00:53] } 10. Nf1 { [%clk 0:00:56] } 10... Qb6 { [%clk 0:00:52] } 11. Rb1 { [%clk 0:00:53] } 11... cxd4 { [%clk 0:00:50] } 12. cxd4 { [%clk 0:00:53] } 12... Rac8 { [%clk 0:00:49] } 13. Bh2 { [%clk 0:00:52] } 13... Nb4 { [%clk 0:00:48] } 14. a3 { [%clk 0:00:50] } 14... Nc2+ { [%clk 0:00:47] } 15. Ke2 { [%clk 0:00:49] } 15... Rc6 { [%clk 0:00:22] } 16. Rc1 { [%clk 0:00:48] } 16... Rfc8 { [%clk 0:00:21] } 17. Qd3 { [%clk 0:00:46] } 17... Qxb2 { [%clk 0:00:20] } 18. Nd2 { [%clk 0:00:44] } 18... Nxa3 { [%clk 0:00:18] } 19. Rxc6 { [%clk 0:00:41] } 19... Rxc6 { [%clk 0:00:17] } 20. Be5 { [%clk 0:00:40] } 20... Rc2 { [%clk 0:00:15] } 21. Rd1 { [%clk 0:00:38] } 21... Bb4 { [%clk 0:00:12] } 22. e4 { [%clk 0:00:34] } 22... Nc4 { [%clk 0:00:09] } 23. exd5 { [%clk 0:00:32] } 23... Nxd2 { [%clk 0:00:08] } 24. dxe6 { [%clk 0:00:30] } 24... Nxf3+ { [%clk 0:00:06] } 25. Kxf3 { [%clk 0:00:29] } 25... Rxf2+ { [%clk 0:00:05] } 26. Kg3 { [%clk 0:00:26] } 26... Rxg2+ { [%clk 0:00:04] } 27. Kh4 { [%clk 0:00:25] } 27... Qf2+ { [%clk 0:00:04] } 28. Bg3 { [%clk 0:00:24] } 28... Qxg3+ { [%clk 0:00:02] } 29. Qxg3 { [%clk 0:00:23] } 29... Rxg3 { [%clk 0:00:02] } 30. Kxg3 { [%clk 0:00:23] } 30... fxe6 { [%clk 0:00:00] } 31. Kf4 { [%clk 0:00:23] } 1-0

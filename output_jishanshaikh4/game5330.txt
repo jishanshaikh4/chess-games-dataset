@@ -1,0 +1,17 @@
+[Event "22nd Weekend Super Blitz Arena"]
+[Site "https://lichess.org/snEbdvK0"]
+[Date "2021.12.05"]
+[White "jishanshaikh4"]
+[Black "Swayam8tiwari"]
+[Result "0-1"]
+[UTCDate "2021.12.05"]
+[UTCTime "16:17:49"]
+[WhiteElo "2042"]
+[BlackElo "1857"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:30] } 1... e6 { [%clk 0:03:00] } 2. Nc3 { [%clk 0:01:30] } 2... d5 { [%clk 0:03:00] } 3. exd5 { [%clk 0:01:30] } 3... exd5 { [%clk 0:02:59] } 4. d4 { [%clk 0:01:30] } 4... Nf6 { [%clk 0:02:59] } 5. f4 { [%clk 0:01:30] } 5... Be7 { [%clk 0:02:58] } 6. Nf3 { [%clk 0:01:30] } 6... c6 { [%clk 0:02:58] } 7. Bd3 { [%clk 0:01:30] } 7... Nbd7 { [%clk 0:02:57] } 8. O-O { [%clk 0:01:30] } 8... O-O { [%clk 0:02:56] } 9. Re1 { [%clk 0:01:30] } 9... Re8 { [%clk 0:02:56] } 10. Ne5 { [%clk 0:01:30] } 10... Nf8 { [%clk 0:02:54] } 11. h3 { [%clk 0:01:29] } 11... Ne6 { [%clk 0:02:52] } 12. Qf3 { [%clk 0:01:28] } 12... Nxd4 { [%clk 0:02:48] } 13. Qf2 { [%clk 0:01:26] } 13... Ne6 { [%clk 0:02:41] } 14. b3 { [%clk 0:01:26] } 14... Bc5 { [%clk 0:02:38] } 15. Be3 { [%clk 0:01:21] } 15... Bxe3 { [%clk 0:02:35] } 16. Rxe3 { [%clk 0:01:11] } 16... d4 { [%clk 0:02:34] } 17. Bxh7+ { [%clk 0:01:08] } 17... Nxh7 { [%clk 0:02:31] } 18. Rd3 { [%clk 0:01:07] } 18... Qf6 { [%clk 0:01:59] } 19. Ne2 { [%clk 0:01:06] } 19... Nxf4 { [%clk 0:01:47] } 20. Nxf4 { [%clk 0:01:06] } 20... Qxe5 { [%clk 0:01:43] } 21. Rf1 { [%clk 0:01:03] } 21... Nf6 { [%clk 0:01:37] } 22. Ne2 { [%clk 0:01:00] } 22... Bf5 { [%clk 0:01:35] } 23. Rxd4 { [%clk 0:00:59] } 23... Qxe2 { [%clk 0:01:28] } 24. Qxf5 { [%clk 0:00:56] } 24... Qe3+ { [%clk 0:01:25] } 25. Kh1 { [%clk 0:00:55] } 25... Qxd4 { [%clk 0:01:24] } 26. c3 { [%clk 0:00:52] } 26... Qxc3 { [%clk 0:01:16] } 27. Rf3 { [%clk 0:00:51] } 27... Qe1+ { [%clk 0:01:13] } 28. Kh2 { [%clk 0:00:51] } 28... Qe5+ { [%clk 0:01:13] } 29. Qf4 { [%clk 0:00:49] } 29... Qxf4+ { [%clk 0:01:11] } 30. Rxf4 { [%clk 0:00:49] } 30... Re4 { [%clk 0:01:10] } 31. Rf3 { [%clk 0:00:48] } 31... Rae8 { [%clk 0:01:09] } 32. Kg3 { [%clk 0:00:47] } 32... Nh5+ { [%clk 0:01:06] } 33. Kf2 { [%clk 0:00:46] } 33... Re2+ { [%clk 0:01:05] } 34. Kf1 { [%clk 0:00:44] } 34... Re1+ { [%clk 0:01:00] } 0-1

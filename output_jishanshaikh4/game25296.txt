@@ -1,0 +1,17 @@
+[Event "2nd BGC Inter University  Team Battle"]
+[Site "https://lichess.org/ZMz6Mfat"]
+[Date "2020.05.25"]
+[White "jishanshaikh4"]
+[Black "Warhead3"]
+[Result "1-0"]
+[UTCDate "2020.05.25"]
+[UTCTime "13:31:43"]
+[WhiteElo "1876"]
+[BlackElo "2089"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Fianchetto Defense"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... e6 { [%clk 0:03:00] } 2. c4 { [%clk 0:02:57] } 2... d5 { [%clk 0:03:00] } 3. Nc3 { [%clk 0:02:56] } 3... Nf6 { [%clk 0:02:59] } 4. Bf4 { [%clk 0:02:55] } 4... Be7 { [%clk 0:02:58] } 5. e3 { [%clk 0:02:54] } 5... O-O { [%clk 0:02:57] } 6. Nf3 { [%clk 0:02:54] } 6... b6 { [%clk 0:02:57] } 7. cxd5 { [%clk 0:02:53] } 7... Nxd5 { [%clk 0:02:54] } 8. Bd3 { [%clk 0:02:52] } 8... Nxf4 { [%clk 0:02:53] } 9. exf4 { [%clk 0:02:52] } 9... Bb7 { [%clk 0:02:52] } 10. O-O { [%clk 0:02:51] } 10... Nd7 { [%clk 0:02:49] } 11. g3 { [%clk 0:02:50] } 11... Nf6 { [%clk 0:02:48] } 12. Re1 { [%clk 0:02:49] } 12... Bb4 { [%clk 0:02:45] } 13. Ne5 { [%clk 0:02:48] } 13... Bxc3 { [%clk 0:02:43] } 14. bxc3 { [%clk 0:02:48] } 14... Qd5 { [%clk 0:02:40] } 15. f3 { [%clk 0:02:45] } 15... Nd7 { [%clk 0:02:36] } 16. Be4 { [%clk 0:02:44] } 16... Qb5 { [%clk 0:02:25] } 17. Bxb7 { [%clk 0:02:41] } 17... Rab8 { [%clk 0:02:23] } 18. Bc6 { [%clk 0:02:40] } 1-0

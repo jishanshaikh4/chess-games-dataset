@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/8erqnul4"]
+[Date "2018.11.05"]
+[White "jishanshaikh4"]
+[Black "mammachepasta"]
+[Result "1-0"]
+[UTCDate "2018.11.05"]
+[UTCTime "14:00:47"]
+[WhiteElo "1125"]
+[BlackElo "1386"]
+[Variant "Standard"]
+[TimeControl "0+1"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:00:03] } 1... d5 { [%clk 0:00:03] } 2. Nf3 { [%clk 0:00:04] } 2... dxe4 { [%clk 0:00:03] } 3. d3 { [%clk 0:00:04] } 3... exf3 { [%clk 0:00:03] } 4. gxf3 { [%clk 0:00:05] } 4... Nf6 { [%clk 0:00:03] } 5. Qe2 { [%clk 0:00:05] } 5... Nc6 { [%clk 0:00:03] } 6. Bd2 { [%clk 0:00:04] } 6... Nd4 { [%clk 0:00:03] } 7. Nc3 { [%clk 0:00:03] } 7... Nxe2 { [%clk 0:00:02] } 8. Bxe2 { [%clk 0:00:04] } 8... Nd5 { [%clk 0:00:02] } 9. O-O { [%clk 0:00:05] } 9... Nxc3 { [%clk 0:00:02] } 10. Bxc3 { [%clk 0:00:04] } 10... e6 { [%clk 0:00:03] } 11. Bxg7 { [%clk 0:00:05] } 11... Bxg7 { [%clk 0:00:03] } 12. Rad1 { [%clk 0:00:03] } 12... Bxb2 { [%clk 0:00:03] } 13. c4 { [%clk 0:00:04] } 13... Bd4 { [%clk 0:00:02] } 14. Rd2 { [%clk 0:00:01] } 14... Bd7 { [%clk 0:00:02] } 15. Rc1 { [%clk 0:00:02] } 15... Bc6 { [%clk 0:00:02] } 16. Rb1 { [%clk 0:00:02] } 16... O-O { [%clk 0:00:02] } 17. Rc2 { [%clk 0:00:03] } 1-0

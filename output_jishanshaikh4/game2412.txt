@@ -1,0 +1,17 @@
+[Event "Weekend Practice Arena"]
+[Site "https://lichess.org/GqDt7VYi"]
+[Date "2022.02.06"]
+[White "jishanshaikh4"]
+[Black "Sangramsinghgour2001"]
+[Result "1-0"]
+[UTCDate "2022.02.06"]
+[UTCTime "16:31:54"]
+[WhiteElo "1997"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Franco-Nimzowitsch Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:30] } 1... Nc6 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:01:30] } 2... e6 { [%clk 0:02:57] } 3. Nc3 { [%clk 0:01:30] } 3... a6 { [%clk 0:02:57] } 4. d4 { [%clk 0:01:29] } 4... Be7 { [%clk 0:02:54] } 5. d5 { [%clk 0:01:28] } 5... exd5 { [%clk 0:02:54] } 6. exd5 { [%clk 0:01:28] } 6... Nb8 { [%clk 0:02:52] } 7. a3 { [%clk 0:01:28] } 7... Nf6 { [%clk 0:02:50] } 8. Bc4 { [%clk 0:01:27] } 8... b5 { [%clk 0:02:50] } 9. Bb3 { [%clk 0:01:26] } 9... Bb7 { [%clk 0:02:44] } 10. O-O { [%clk 0:01:23] } 10... c6 { [%clk 0:02:45] } 11. dxc6 { [%clk 0:01:22] } 11... Bxc6 { [%clk 0:02:45] } 12. Bg5 { [%clk 0:01:21] } 12... Ne4 { [%clk 0:02:41] } 13. Bxe7 { [%clk 0:01:19] } 13... Qxe7 { [%clk 0:02:40] } 14. Re1 { [%clk 0:01:18] } 14... Nxc3 { [%clk 0:02:37] } 15. Rxe7+ { [%clk 0:01:17] } 15... Kxe7 { [%clk 0:02:33] } 16. bxc3 { [%clk 0:01:14] } 16... Bxf3 { [%clk 0:02:32] } 17. Qxf3 { [%clk 0:01:13] } 17... Nc6 { [%clk 0:02:29] } 18. Qxf7+ { [%clk 0:01:10] } 18... Kd6 { [%clk 0:02:27] } 19. Rd1+ { [%clk 0:01:09] } 19... Kc7 { [%clk 0:02:27] } 20. Qxd7+ { [%clk 0:01:07] } 20... Kb6 { [%clk 0:02:25] } 21. c4 { [%clk 0:01:05] } 21... Rad8 { [%clk 0:02:26] } 22. c5+ { [%clk 0:00:56] } 22... Ka5 { [%clk 0:02:20] } 23. Qc7# { [%clk 0:00:52] } 1-0

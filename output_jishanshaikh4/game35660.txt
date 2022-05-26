@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/cxtYiXJm"]
+[Date "2019.01.11"]
+[White "jishanshaikh4"]
+[Black "nikolaus78"]
+[Result "1-0"]
+[UTCDate "2019.01.11"]
+[UTCTime "11:45:45"]
+[WhiteElo "1379"]
+[BlackElo "1250"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Bc4 { [%clk 0:00:59] } 2... e6 { [%clk 0:00:59] } 3. d3 { [%clk 0:00:59] } 3... a6 { [%clk 0:00:58] } 4. Bg5 { [%clk 0:00:58] } 4... b5 { [%clk 0:00:58] } 5. Bxd8 { [%clk 0:00:56] } 1-0

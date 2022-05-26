@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/xVgckNbO"]
+[Date "2019.09.30"]
+[White "hacki69"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.09.30"]
+[UTCTime "14:04:45"]
+[WhiteElo "1439"]
+[BlackElo "1901"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nc3 { [%clk 0:00:58] } 2... e6 { [%clk 0:01:00] } 3. Nf3 { [%clk 0:00:57] } 3... Be7 { [%clk 0:01:00] } 4. d4 { [%clk 0:00:56] } 4... Nc6 { [%clk 0:01:00] } 5. d5 { [%clk 0:00:54] } 5... exd5 { [%clk 0:01:00] } 6. exd5 { [%clk 0:00:53] } 6... Nb8 { [%clk 0:00:59] } 7. Bf4 { [%clk 0:00:51] } 7... Nf6 { [%clk 0:00:57] } 8. Bb5 { [%clk 0:00:47] } 8... Qb6 { [%clk 0:00:55] } 9. O-O { [%clk 0:00:43] } 9... Bd6 { [%clk 0:00:53] } 10. Qd2 { [%clk 0:00:35] } 10... Bxf4 { [%clk 0:00:53] } 11. Qxf4 { [%clk 0:00:32] } 11... O-O { [%clk 0:00:04] } 12. d6 { [%clk 0:00:25] } 12... a6 { [%clk 0:00:03] } 13. Bc4 { [%clk 0:00:22] } 13... Nc6 { [%clk 0:00:03] } 14. Rfe1 { [%clk 0:00:19] } 1-0

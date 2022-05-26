@@ -1,0 +1,17 @@
+[Event "2nd BGC Inter University  Team Battle"]
+[Site "https://lichess.org/Lt3AjhKa"]
+[Date "2020.05.25"]
+[White "jishanshaikh4"]
+[Black "Maverick-7"]
+[Result "1-0"]
+[UTCDate "2020.05.25"]
+[UTCTime "13:48:08"]
+[WhiteElo "1876"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:58] } 2... Nf6 { [%clk 0:02:59] } 3. c4 { [%clk 0:02:57] } 3... e6 { [%clk 0:02:57] } 4. Nc3 { [%clk 0:02:56] } 4... Bb4 { [%clk 0:02:52] } 5. Bd2 { [%clk 0:02:55] } 5... Nc6 { [%clk 0:02:50] } 6. Qa4 { [%clk 0:02:53] } 6... Bd7 { [%clk 0:02:45] } 7. e3 { [%clk 0:02:52] } 7... Nxd4 { [%clk 0:02:39] } 8. Qd1 { [%clk 0:02:43] } 8... Nc6 { [%clk 0:02:31] } 9. cxd5 { [%clk 0:02:39] } 9... Nxd5 { [%clk 0:02:26] } 10. Bc4 { [%clk 0:02:31] } 10... Bxc3 { [%clk 0:02:22] } 11. bxc3 { [%clk 0:02:31] } 11... O-O { [%clk 0:02:19] } 12. O-O { [%clk 0:02:29] } 12... a6 { [%clk 0:02:18] } 13. Bd3 { [%clk 0:02:26] } 13... Re8 { [%clk 0:02:14] } 14. Bc2 { [%clk 0:02:24] } 14... f5 { [%clk 0:02:12] } 15. c4 { [%clk 0:02:22] } 15... Nf6 { [%clk 0:02:05] } 16. Bc3 { [%clk 0:02:20] } 16... Kf7 { [%clk 0:02:00] } 17. Ne5+ { [%clk 0:02:19] } 17... Kg8 { [%clk 0:01:47] } 18. Bb3 { [%clk 0:02:06] } 18... Nxe5 { [%clk 0:01:44] } 19. Bxe5 { [%clk 0:02:06] } 19... Bc6 { [%clk 0:01:38] } 20. Qc2 { [%clk 0:02:00] } 20... Ng4 { [%clk 0:01:30] } 21. Bf4 { [%clk 0:01:55] } 21... Qh4 { [%clk 0:01:23] } 22. h3 { [%clk 0:01:51] } 22... Nf6 { [%clk 0:01:01] } 23. c5 { [%clk 0:01:49] } 23... Red8 { [%clk 0:00:56] } 24. Qxf5 { [%clk 0:01:45] } 24... Re8 { [%clk 0:00:43] } 25. Bxe6+ { [%clk 0:01:42] } 25... Rxe6 { [%clk 0:00:42] } 26. Qxe6+ { [%clk 0:01:42] } 26... Kf8 { [%clk 0:00:39] } 27. Bxc7 { [%clk 0:01:39] } 27... Re8 { [%clk 0:00:35] } 28. Bd6+ { [%clk 0:01:33] } 28... Re7 { [%clk 0:00:30] } 29. Qxe7+ { [%clk 0:01:31] } 29... Kg8 { [%clk 0:00:28] } 30. Qf8# { [%clk 0:01:30] } 1-0

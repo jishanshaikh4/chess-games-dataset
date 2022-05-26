@@ -1,0 +1,17 @@
+[Event "13th Weekend Super Blitz Arena"]
+[Site "https://lichess.org/7JCaGX8n"]
+[Date "2021.07.25"]
+[White "Ajay2001"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2021.07.25"]
+[UTCTime "16:58:07"]
+[WhiteElo "1830"]
+[BlackElo "2014"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:30] } 1... c6 { [%clk 0:01:30] } 2. Nc3 { [%clk 0:01:29] } 2... d5 { [%clk 0:01:30] } 3. e5 { [%clk 0:01:28] } 3... e6 { [%clk 0:01:30] } 4. f4 { [%clk 0:01:28] } 4... f6 { [%clk 0:01:30] } 5. Nf3 { [%clk 0:01:27] } 5... fxe5 { [%clk 0:01:30] } 6. Nxe5 { [%clk 0:01:26] } 6... Nd7 { [%clk 0:01:30] } 7. Qh5+ { [%clk 0:01:25] } 7... Ke7 { [%clk 0:01:27] } 8. Qf7+ { [%clk 0:01:24] } 8... Kd6 { [%clk 0:01:26] } 9. a4 { [%clk 0:01:12] } 9... Nxe5 { [%clk 0:01:25] } 10. fxe5+ { [%clk 0:01:10] } 10... Kxe5 { [%clk 0:01:24] } 11. d4+ { [%clk 0:01:04] } 11... Kd6 { [%clk 0:01:23] } 12. b3 { [%clk 0:01:00] } 12... Qh4+ { [%clk 0:01:22] } 13. g3 { [%clk 0:00:59] } 13... Qf6 { [%clk 0:01:20] } 14. Ba3+ { [%clk 0:00:57] } 14... c5 { [%clk 0:01:18] } 15. Bxc5+ { [%clk 0:00:56] } 15... Kc6 { [%clk 0:01:17] } 16. Bb5# { [%clk 0:00:49] } 1-0

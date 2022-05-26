@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/fPh8hk8x"]
+[Date "2018.12.03"]
+[White "jishanshaikh4"]
+[Black "The_Computer"]
+[Result "1-0"]
+[UTCDate "2018.12.03"]
+[UTCTime "15:54:48"]
+[WhiteElo "1376"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "30+0"]
+[ECO "C40"]
+[Opening "King's Pawn Game: Busch-Gass Gambit"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:00:30] } 1... e5 { [%clk 0:00:30] } 2. Nf3 { [%clk 0:00:30] } 2... Bc5 { [%clk 0:00:29] } 3. d4 { [%clk 0:00:30] } 3... Bd6 { [%clk 0:00:27] } 4. dxe5 { [%clk 0:00:29] } 4... Nf6 { [%clk 0:00:26] } 5. exd6 { [%clk 0:00:27] } 5... cxd6 { [%clk 0:00:25] } 6. Nc3 { [%clk 0:00:26] } 6... Nxe4 { [%clk 0:00:24] } 7. Ne2 { [%clk 0:00:23] } 7... Nxf2 { [%clk 0:00:22] } 8. Kxf2 { [%clk 0:00:22] } 8... b6 { [%clk 0:00:21] } 9. Ke1 { [%clk 0:00:22] } 9... Ba6 { [%clk 0:00:21] } 10. Nfd4 { [%clk 0:00:19] } 10... Qf6 { [%clk 0:00:20] } 11. g3 { [%clk 0:00:15] } 11... Bxe2 { [%clk 0:00:19] } 12. Bg2 { [%clk 0:00:15] } 12... Qxd4 { [%clk 0:00:10] } 13. Qxe2+ { [%clk 0:00:13] } 13... Qe4 { [%clk 0:00:06] } 14. Qxe4+ { [%clk 0:00:12] } 14... Kd8 { [%clk 0:00:03] } 15. Qxa8 { [%clk 0:00:12] } 15... a6 { [%clk 0:00:01] } 16. Qxb8+ { [%clk 0:00:11] } 1-0

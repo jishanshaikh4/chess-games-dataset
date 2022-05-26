@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/0CtSIHuJ"]
+[Date "2021.04.15"]
+[White "AceBlackburn"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2021.04.15"]
+[UTCTime "11:47:12"]
+[WhiteElo "2062"]
+[BlackElo "2100"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B34"]
+[Opening "Sicilian Defense: Accelerated Dragon, Modern Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59] } 2... Nc6 { [%clk 0:00:59] } 3. d4 { [%clk 0:00:59] } 3... cxd4 { [%clk 0:00:59] } 4. Nxd4 { [%clk 0:00:59] } 4... g6 { [%clk 0:00:58] } 5. Nc3 { [%clk 0:00:59] } 5... Bg7 { [%clk 0:00:57] } 6. Bb5 { [%clk 0:00:59] } 6... Nf6 { [%clk 0:00:57] } 7. O-O { [%clk 0:00:57] } 7... O-O { [%clk 0:00:56] } 8. Re1 { [%clk 0:00:57] } 8... a6 { [%clk 0:00:56] } 9. Ba4 { [%clk 0:00:56] } 9... b5 { [%clk 0:00:54] } 10. Bb3 { [%clk 0:00:55] } 10... Na5 { [%clk 0:00:51] } 11. e5 { [%clk 0:00:54] } 11... Nxb3 { [%clk 0:00:50] } 12. exf6 { [%clk 0:00:53] } 12... Nxa1 { [%clk 0:00:49] } 13. fxg7 { [%clk 0:00:53] } 13... Nxc2 { [%clk 0:00:46] } 14. gxf8=Q+ { [%clk 0:00:51] } 14... Qxf8 { [%clk 0:00:46] } 15. Qxc2 { [%clk 0:00:49] } 15... Bb7 { [%clk 0:00:45] } 16. Nf3 { [%clk 0:00:46] } 16... f5 { [%clk 0:00:43] } 17. Bg5 { [%clk 0:00:43] } 17... e6 { [%clk 0:00:42] } 18. Qd2 { [%clk 0:00:41] } 18... Qc8 { [%clk 0:00:38] } 19. Bh6 { [%clk 0:00:38] } 19... Kf7 { [%clk 0:00:36] } 20. Ne5+ { [%clk 0:00:34] } 20... Ke7 { [%clk 0:00:35] } 21. Qg5+ { [%clk 0:00:33] } 21... Kd6 { [%clk 0:00:33] } 22. Rd1+ { [%clk 0:00:32] } 22... Kxe5 { [%clk 0:00:31] } 23. Bg7# { [%clk 0:00:31] } 1-0

@@ -1,0 +1,17 @@
+[Event "Casual Classical game"]
+[Site "https://lichess.org/tH2lTKML"]
+[Date "2018.10.10"]
+[White "Zvonimir1932"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2018.10.10"]
+[UTCTime "08:45:16"]
+[WhiteElo "2142"]
+[BlackElo "1486"]
+[Variant "Standard"]
+[TimeControl "1800+0"]
+[ECO "C50"]
+[Opening "Italian Game: Anti-Fried Liver Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:57] } 2... Nc6 { [%clk 0:29:58] } 3. Bc4 { [%clk 0:29:55] } 3... h6 { [%clk 0:29:53] } 4. d4 { [%clk 0:29:50] } 4... exd4 { [%clk 0:29:50] } 5. Nxd4 { [%clk 0:29:48] } 5... Nxd4 { [%clk 0:29:46] } 6. Qxd4 { [%clk 0:29:45] } 6... Nf6 { [%clk 0:29:46] } 7. O-O { [%clk 0:29:38] } 7... d6 { [%clk 0:29:32] } 8. Nc3 { [%clk 0:29:32] } 8... c5 { [%clk 0:29:25] } 9. Qd1 { [%clk 0:29:16] } 9... Bd7 { [%clk 0:29:24] } 10. Bf4 { [%clk 0:29:08] } 10... a6 { [%clk 0:29:17] } 11. Bxd6 { [%clk 0:29:01] } 11... b5 { [%clk 0:29:12] } 12. Bxf8 { [%clk 0:28:53] } 12... Rxf8 { [%clk 0:29:06] } 13. Bd5 { [%clk 0:28:48] } 13... Nxd5 { [%clk 0:29:02] } 14. Nxd5 { [%clk 0:28:38] } 14... Bc6 { [%clk 0:28:54] } 15. Re1 { [%clk 0:28:29] } 15... Qg5 { [%clk 0:28:39] } 16. Nc7+ { [%clk 0:28:17] } 16... Ke7 { [%clk 0:28:34] } 17. Nxa8 { [%clk 0:28:13] } 17... Rxa8 { [%clk 0:28:32] } 18. f3 { [%clk 0:27:48] } 18... Rd8 { [%clk 0:28:32] } 19. Qc1 { [%clk 0:27:37] } 19... f5 { [%clk 0:28:25] } 20. Qxg5+ { [%clk 0:27:33] } 20... hxg5 { [%clk 0:28:23] } 21. exf5+ { [%clk 0:27:30] } 21... Kf6 { [%clk 0:28:21] } 22. Re6+ { [%clk 0:27:24] } 22... Kxf5 { [%clk 0:28:16] } 23. Rxc6 { [%clk 0:27:21] } 23... c4 { [%clk 0:28:14] } 24. Rxa6 { [%clk 0:27:17] } 24... Rd2 { [%clk 0:28:10] } 25. Rb6 { [%clk 0:27:11] } 25... Kf4 { [%clk 0:28:08] } 26. Rxb5 { [%clk 0:27:05] } 26... Ke3 { [%clk 0:28:08] } 27. Rxg5 { [%clk 0:26:44] } 27... Ke2 { [%clk 0:27:52] } 28. Rc1 { [%clk 0:26:19] } 28... Rd1+ { [%clk 0:19:21] } 29. Rxd1 { [%clk 0:25:40] } 29... Kxd1 { [%clk 0:19:17] } 30. Rc5 { [%clk 0:25:37] } 30... Kxc2 { [%clk 0:19:14] } 31. Rxc4+ { [%clk 0:25:35] } 31... Kxb2 { [%clk 0:19:14] } 32. Rg4 { [%clk 0:25:29] } 32... Kxa2 { [%clk 0:19:14] } 33. Rxg7 { [%clk 0:25:26] } 1-0

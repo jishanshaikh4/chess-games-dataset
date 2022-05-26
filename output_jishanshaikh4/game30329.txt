@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/wvzY9NPt"]
+[Date "2019.08.25"]
+[White "jishanshaikh4"]
+[Black "Cloude59"]
+[Result "1-0"]
+[UTCDate "2019.08.25"]
+[UTCTime "16:19:52"]
+[WhiteElo "1648"]
+[BlackElo "1304"]
+[Variant "Standard"]
+[TimeControl "180+1"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... e6 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:03:01] } 2... d5 { [%clk 0:02:59] } 3. c4 { [%clk 0:03:02] } 3... c6 { [%clk 0:02:58] } 4. Nc3 { [%clk 0:03:03] } 4... Bb4 { [%clk 0:02:55] } 5. Bf4 { [%clk 0:03:03] } 5... dxc4 { [%clk 0:02:52] } 6. e3 { [%clk 0:03:03] } 6... Nf6 { [%clk 0:02:48] } 7. Qc2 { [%clk 0:03:01] } 7... Na6 { [%clk 0:02:41] } 8. Bxc4 { [%clk 0:03:01] } 8... c5 { [%clk 0:02:35] } 9. a3 { [%clk 0:02:58] } 9... cxd4 { [%clk 0:02:30] } 10. axb4 { [%clk 0:02:54] } 10... dxc3 { [%clk 0:02:28] } 11. bxc3 { [%clk 0:02:52] } 11... Nc7 { [%clk 0:02:22] } 12. O-O { [%clk 0:02:48] } 12... O-O { [%clk 0:02:17] } 13. Rfd1 { [%clk 0:02:48] } 13... Qe8 { [%clk 0:02:16] } 14. Bxc7 { [%clk 0:02:46] } 14... Bd7 { [%clk 0:02:11] } 15. Be5 { [%clk 0:02:45] } 15... Ba4 { [%clk 0:02:04] } 16. Rxa4 { [%clk 0:02:34] } 16... Nd5 { [%clk 0:01:57] } 17. Bxd5 { [%clk 0:02:33] } 17... exd5 { [%clk 0:01:55] } 18. Rxd5 { [%clk 0:02:33] } 18... Rd8 { [%clk 0:01:53] } 19. Rxd8 { [%clk 0:02:31] } 19... Qxd8 { [%clk 0:01:51] } 20. g3 { [%clk 0:02:31] } 20... f6 { [%clk 0:01:47] } 21. Bd4 { [%clk 0:02:26] } 21... b6 { [%clk 0:01:45] } 22. Rxa7 { [%clk 0:02:25] } 22... Qb8 { [%clk 0:01:43] } 23. Qb3+ { [%clk 0:02:25] } 23... Kh8 { [%clk 0:01:40] } 24. Rd7 { [%clk 0:02:21] } 24... Qd8 { [%clk 0:01:39] } 25. Rxd8 { [%clk 0:02:20] } 25... Rxd8 { [%clk 0:01:36] } 26. Qe6 { [%clk 0:02:21] } 26... Ra8 { [%clk 0:01:33] } 27. Qxb6 { [%clk 0:02:20] } 27... Ra1+ { [%clk 0:01:32] } 28. Kg2 { [%clk 0:02:20] } 28... Rd1 { [%clk 0:01:28] } 29. Qd8# { [%clk 0:02:17] } 1-0

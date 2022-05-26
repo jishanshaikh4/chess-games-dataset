@@ -1,0 +1,17 @@
+[Event "Casual Correspondence game"]
+[Site "https://lichess.org/WKdVTcgs"]
+[Date "2020.07.27"]
+[White "spags1078"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2020.07.27"]
+[UTCTime "05:20:01"]
+[WhiteElo "1479"]
+[BlackElo "1500"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Bowdler Attack"]
+[Termination "Time forfeit"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 Nc6 4. c3 Nf6 5. d3 Be7 6. Nbd2 d5 0-1

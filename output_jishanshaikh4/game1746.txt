@@ -1,0 +1,17 @@
+[Event "28th Weekend Blitz Arena"]
+[Site "https://lichess.org/8zKDZlth"]
+[Date "2022.02.20"]
+[White "Fruit0098"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2022.02.20"]
+[UTCTime "16:43:58"]
+[WhiteElo "1567"]
+[BlackElo "2027"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... d5 { [%clk 0:03:00] } 2. d3 { [%clk 0:02:58] } 2... dxe4 { [%clk 0:03:01] } 3. dxe4 { [%clk 0:02:59] } 3... Qxd1+ { [%clk 0:03:01] } 4. Kxd1 { [%clk 0:03:01] } 4... Nf6 { [%clk 0:03:03] } 5. Nc3 { [%clk 0:03:03] } 5... Bg4+ { [%clk 0:03:03] } 6. Nf3 { [%clk 0:03:04] } 6... Nc6 { [%clk 0:03:02] } 7. Bd3 { [%clk 0:03:01] } 7... Nd4 { [%clk 0:02:55] } 8. Kd2 { [%clk 0:02:56] } 8... Nxf3+ { [%clk 0:02:53] } 9. gxf3 { [%clk 0:02:57] } 9... Bxf3 { [%clk 0:02:55] } 10. Re1 { [%clk 0:02:58] } 10... O-O-O { [%clk 0:02:55] } 11. e5 { [%clk 0:02:59] } 11... Ng4 { [%clk 0:02:52] } 12. b4 { [%clk 0:02:53] } 12... e6 { [%clk 0:02:52] } 13. h3 { [%clk 0:02:53] } 13... Nh6 { [%clk 0:02:47] } 14. a3 { [%clk 0:02:52] } 14... Nf5 { [%clk 0:02:47] } 15. Nb5 { [%clk 0:02:50] } 15... a6 { [%clk 0:02:44] } 16. Na7+ { [%clk 0:02:51] } 16... Kb8 { [%clk 0:02:45] } 17. b5 { [%clk 0:02:43] } 17... Kxa7 { [%clk 0:02:45] } 18. bxa6 { [%clk 0:02:44] } 18... bxa6 { [%clk 0:02:45] } 19. Kc3 { [%clk 0:02:41] } 19... Bc5 { [%clk 0:02:42] } 20. Kc4 { [%clk 0:02:40] } 20... Bxf2 { [%clk 0:02:31] } 21. Rf1 { [%clk 0:02:37] } 21... Bd5+ { [%clk 0:02:32] } 22. Kc3 { [%clk 0:02:37] } 22... Bd4+ { [%clk 0:02:33] } 23. Kb4 { [%clk 0:02:30] } 23... Rb8+ { [%clk 0:02:22] } 24. Bb5 { [%clk 0:02:20] } 24... Rxb5+ { [%clk 0:02:21] } 25. Ka4 { [%clk 0:02:21] } 25... Rbb8 { [%clk 0:02:18] } 26. c3 { [%clk 0:01:50] } 26... Bc6+ { [%clk 0:02:13] } 27. Ka5 { [%clk 0:01:51] } 27... Bxc3# { [%clk 0:02:11] } 0-1

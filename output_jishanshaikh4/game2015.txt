@@ -1,0 +1,17 @@
+[Event "Casual Blitz game"]
+[Site "https://lichess.org/08kY3f63"]
+[Date "2022.02.11"]
+[White "lomu2801"]
+[Black "jishanshaikh4"]
+[Result "1/2-1/2"]
+[UTCDate "2022.02.11"]
+[UTCTime "15:17:43"]
+[WhiteElo "1786"]
+[BlackElo "2007"]
+[Variant "Standard"]
+[TimeControl "180+2"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 2. c4 { [%clk 0:03:01] } 2... cxd4 { [%clk 0:03:01] } 3. Qxd4 { [%clk 0:03:02] } 3... Nc6 { [%clk 0:03:02] } 4. Qd1 { [%clk 0:03:02] } 4... e5 { [%clk 0:03:03] } 5. g3 { [%clk 0:03:04] } 5... Bc5 { [%clk 0:03:04] } 6. Bg2 { [%clk 0:03:04] } 6... d6 { [%clk 0:03:05] } 7. Nf3 { [%clk 0:03:05] } 7... f5 { [%clk 0:03:06] } 8. Ng5 { [%clk 0:02:52] } 8... h6 { [%clk 0:03:01] } 9. Nh3 { [%clk 0:02:43] } 9... Nf6 { [%clk 0:03:01] } 10. Qa4 { [%clk 0:02:41] } 10... O-O { [%clk 0:03:01] } 11. Bxc6 { [%clk 0:02:35] } 11... bxc6 { [%clk 0:03:03] } 12. Qxc6 { [%clk 0:02:33] } 12... Rb8 { [%clk 0:02:47] } 13. Qa4 { [%clk 0:02:11] } 13... f4 { [%clk 0:02:37] } 14. Ng1 { [%clk 0:01:45] } 14... fxg3 { [%clk 0:02:24] } 15. hxg3 { [%clk 0:01:47] } 15... Ng4 { [%clk 0:02:20] } 16. Nh3 { [%clk 0:01:25] } 16... Nxf2 { [%clk 0:02:16] } 17. Nxf2 { [%clk 0:01:26] } 17... Bxf2+ { [%clk 0:02:16] } 18. Kd1 { [%clk 0:01:26] } 18... Bd7 { [%clk 0:02:10] } 19. Qc2 { [%clk 0:01:24] } 19... Bc6 { [%clk 0:02:02] } 20. Rxh6 { [%clk 0:01:19] } 20... gxh6 { [%clk 0:01:56] } 21. Qg6+ { [%clk 0:01:20] } 21... Kh8 { [%clk 0:01:53] } 22. Qxh6+ { [%clk 0:01:21] } 22... Kg8 { [%clk 0:01:45] } 23. Qg6+ { [%clk 0:01:23] } 23... Kh8 { [%clk 0:01:47] } 24. Qh6+ { [%clk 0:01:23] } 24... Kg8 { [%clk 0:01:48] } 25. Qg6+ { [%clk 0:01:25] } 25... Kh8 { [%clk 0:01:48] } 26. Qh6+ { [%clk 0:01:26] } 1/2-1/2

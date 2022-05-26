@@ -1,0 +1,17 @@
+[Event "14th Weekend Bullet Arena"]
+[Site "https://lichess.org/SaNc7IOm"]
+[Date "2021.08.06"]
+[White "Aryansinghrajawat"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2021.08.06"]
+[UTCTime "16:19:24"]
+[WhiteElo "1173"]
+[BlackElo "2111"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Hillbilly Attack"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... c6 { [%clk 0:01:00] } 2. Bc4 { [%clk 0:00:59] } 2... d5 { [%clk 0:01:00] } 3. exd5 { [%clk 0:00:58] } 3... cxd5 { [%clk 0:01:00] } 4. Bb3 { [%clk 0:00:57] } 4... a5 { [%clk 0:00:59] } 5. d4 { [%clk 0:00:56] } 5... a4 { [%clk 0:00:59] } 6. Bxa4+ { [%clk 0:00:50] } 6... Rxa4 { [%clk 0:00:59] } 7. b3 { [%clk 0:00:49] } 7... Ra8 { [%clk 0:00:58] } 8. Nf3 { [%clk 0:00:48] } 8... e6 { [%clk 0:00:57] } 9. Ng5 { [%clk 0:00:45] } 9... h6 { [%clk 0:00:56] } 10. Nf3 { [%clk 0:00:42] } 10... Nf6 { [%clk 0:00:55] } 11. Ne5 { [%clk 0:00:41] } 11... Nbd7 { [%clk 0:00:55] } 12. Nxd7 { [%clk 0:00:39] } 12... Bxd7 { [%clk 0:00:55] } 13. Qf3 { [%clk 0:00:38] } 13... Bd6 { [%clk 0:00:54] } 14. O-O { [%clk 0:00:37] } 14... O-O { [%clk 0:00:53] } 15. Bf4 { [%clk 0:00:27] } 15... Bxf4 { [%clk 0:00:52] } 16. Qxf4 { [%clk 0:00:26] } 16... Bc6 { [%clk 0:00:51] } 17. Nc3 { [%clk 0:00:24] } 17... Ne4 { [%clk 0:00:50] } 18. Qf3 { [%clk 0:00:19] } 18... Ng5 { [%clk 0:00:48] } 19. Qg3 { [%clk 0:00:17] } 19... f6 { [%clk 0:00:46] } 20. Rae1 { [%clk 0:00:15] } 20... Re8 { [%clk 0:00:45] } 21. f4 { [%clk 0:00:12] } 21... Ne4 { [%clk 0:00:43] } 22. Qg4 { [%clk 0:00:09] } 22... Nxc3 { [%clk 0:00:42] } 23. f5 { [%clk 0:00:07] } 23... e5 { [%clk 0:00:41] } 24. dxe5 { [%clk 0:00:05] } 24... Rxe5 { [%clk 0:00:37] } 25. Rxe5 { [%clk 0:00:03] } 25... fxe5 { [%clk 0:00:36] } 26. f6 { [%clk 0:00:02] } 26... Qd7 { [%clk 0:00:34] } 27. Qf3 { [%clk 0:00:01] } 27... Qf7 { [%clk 0:00:33] } 0-1

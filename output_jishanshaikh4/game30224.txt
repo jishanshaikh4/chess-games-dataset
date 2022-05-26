@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/2FTT6WZc"]
+[Date "2019.09.09"]
+[White "jishanshaikh4"]
+[Black "polypheme699"]
+[Result "1-0"]
+[UTCDate "2019.09.09"]
+[UTCTime "17:14:08"]
+[WhiteElo "1792"]
+[BlackElo "1802"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Normal"]
+
+1. d4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... e6 { [%clk 0:00:59] } 3. g3 { [%clk 0:01:00] } 3... Nf6 { [%clk 0:00:59] } 4. Bg2 { [%clk 0:01:00] } 4... g6 { [%clk 0:00:58] } 5. O-O { [%clk 0:01:00] } 5... Bg7 { [%clk 0:00:58] } 6. c4 { [%clk 0:01:00] } 6... O-O { [%clk 0:00:57] } 7. Nc3 { [%clk 0:01:00] } 7... c6 { [%clk 0:00:55] } 8. Bf4 { [%clk 0:00:59] } 8... Nbd7 { [%clk 0:00:55] } 9. e3 { [%clk 0:00:59] } 9... a6 { [%clk 0:00:53] } 10. Nd2 { [%clk 0:00:58] } 10... b5 { [%clk 0:00:53] } 11. cxd5 { [%clk 0:00:58] } 11... cxd5 { [%clk 0:00:51] } 12. e4 { [%clk 0:00:57] } 12... Bb7 { [%clk 0:00:50] } 13. exd5 { [%clk 0:00:56] } 13... Nxd5 { [%clk 0:00:49] } 14. Nf3 { [%clk 0:00:53] } 14... Nxc3 { [%clk 0:00:47] } 15. bxc3 { [%clk 0:00:53] } 15... Rc8 { [%clk 0:00:46] } 16. Re1 { [%clk 0:00:52] } 16... Rxc3 { [%clk 0:00:44] } 17. Nh4 { [%clk 0:00:50] } 17... Rc8 { [%clk 0:00:41] } 18. Bxb7 { [%clk 0:00:48] } 18... Rc7 { [%clk 0:00:38] } 19. Bxa6 { [%clk 0:00:48] } 19... Nf6 { [%clk 0:00:34] } 20. Bxb5 { [%clk 0:00:46] } 20... Nd5 { [%clk 0:00:33] } 21. Bxc7 { [%clk 0:00:42] } 21... Qxc7 { [%clk 0:00:32] } 22. Bd3 { [%clk 0:00:41] } 1-0

@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/0Wo6AFzL"]
+[Date "2019.01.26"]
+[White "Vegasdoc"]
+[Black "jishanshaikh4"]
+[Result "1-0"]
+[UTCDate "2019.01.26"]
+[UTCTime "05:36:26"]
+[WhiteElo "1659"]
+[BlackElo "1501"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. e5 { [%clk 0:00:58] } 2... d4 { [%clk 0:00:59] } 3. f4 { [%clk 0:00:57] } 3... Nc6 { [%clk 0:00:58] } 4. Nf3 { [%clk 0:00:57] } 4... e6 { [%clk 0:00:56] } 5. c3 { [%clk 0:00:56] } 5... dxc3 { [%clk 0:00:55] } 6. Nxc3 { [%clk 0:00:56] } 6... f6 { [%clk 0:00:53] } 7. d4 { [%clk 0:00:56] } 7... fxe5 { [%clk 0:00:49] } 8. fxe5 { [%clk 0:00:56] } 8... Be7 { [%clk 0:00:44] } 9. g3 { [%clk 0:00:55] } 9... Bb4 { [%clk 0:00:43] } 10. Bg2 { [%clk 0:00:53] } 10... Bxc3+ { [%clk 0:00:40] } 11. bxc3 { [%clk 0:00:53] } 11... Nce7 { [%clk 0:00:38] } 12. O-O { [%clk 0:00:52] } 12... c6 { [%clk 0:00:35] } 13. Bg5 { [%clk 0:00:51] } 13... Qd7 { [%clk 0:00:32] } 14. Qd2 { [%clk 0:00:49] } 14... h6 { [%clk 0:00:28] } 15. Be3 { [%clk 0:00:48] } 15... Nd5 { [%clk 0:00:24] } 16. Bh3 { [%clk 0:00:46] } 16... Nxe3 { [%clk 0:00:21] } 17. Qxe3 { [%clk 0:00:46] } 17... b5 { [%clk 0:00:17] } 18. Nd2 { [%clk 0:00:41] } 18... Bb7 { [%clk 0:00:17] } 19. Nb3 { [%clk 0:00:40] } 19... Qd5 { [%clk 0:00:07] } 20. Qf3 { [%clk 0:00:25] } 20... Ne7 { [%clk 0:00:06] } 21. Qxd5 { [%clk 0:00:21] } 21... Nxd5 { [%clk 0:00:06] } 22. Nc5 { [%clk 0:00:20] } 22... Nxc3 { [%clk 0:00:06] } 23. Nxe6 { [%clk 0:00:20] } 23... Ne2+ { [%clk 0:00:05] } 24. Kg2 { [%clk 0:00:17] } 24... Nxd4 { [%clk 0:00:03] } 25. Nc7+ { [%clk 0:00:15] } 25... Kd8 { [%clk 0:00:00] } 26. Nxa8 { [%clk 0:00:15] } 1-0

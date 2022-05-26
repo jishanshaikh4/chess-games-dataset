@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/5MpPj4WZ"]
+[Date "2019.01.12"]
+[White "jishanshaikh4"]
+[Black "A10Pilot"]
+[Result "0-1"]
+[UTCDate "2019.01.12"]
+[UTCTime "01:38:57"]
+[WhiteElo "1379"]
+[BlackElo "1427"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Lean Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... Nc6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:01:00] } 2... f5 { [%clk 0:00:59] } 3. Bb5 { [%clk 0:00:59] } 3... fxe4 { [%clk 0:00:59] } 0-1

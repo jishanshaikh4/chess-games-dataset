@@ -1,0 +1,17 @@
+[Event "AICL 2.0 Semifinals A Blitz Team Battle"]
+[Site "https://lichess.org/obyqJfIK"]
+[Date "2020.12.25"]
+[White "shrinish0803"]
+[Black "jishanshaikh4"]
+[Result "0-1"]
+[UTCDate "2020.12.25"]
+[UTCTime "13:09:57"]
+[WhiteElo "1144"]
+[BlackElo "1809"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... c6 { [%clk 0:01:30] } 2. Nc3 { [%clk 0:02:59] } 2... d5 { [%clk 0:01:30] } 3. exd5 { [%clk 0:02:58] } 3... cxd5 { [%clk 0:01:30] } 4. d4 { [%clk 0:02:55] } 4... Nf6 { [%clk 0:01:30] } 5. Nf3 { [%clk 0:02:53] } 5... Nc6 { [%clk 0:01:30] } 6. Bd2 { [%clk 0:02:52] } 6... Bg4 { [%clk 0:01:30] } 7. Be2 { [%clk 0:02:51] } 7... e6 { [%clk 0:01:29] } 8. Be3 { [%clk 0:02:49] } 8... Bd6 { [%clk 0:01:29] } 9. Qd2 { [%clk 0:02:48] } 9... Bc7 { [%clk 0:01:29] } 10. O-O-O { [%clk 0:02:47] } 10... a5 { [%clk 0:01:28] } 11. Kb1 { [%clk 0:02:46] } 11... b5 { [%clk 0:01:28] } 12. Nxb5 { [%clk 0:02:44] } 12... Rb8 { [%clk 0:01:26] } 13. Nxc7+ { [%clk 0:02:43] } 13... Qxc7 { [%clk 0:01:26] } 14. Qc3 { [%clk 0:02:37] } 14... Qb6 { [%clk 0:01:25] } 15. Rd3 { [%clk 0:02:28] } 15... Nb4 { [%clk 0:01:24] } 16. Rdd1 { [%clk 0:02:26] } 16... Ne4 { [%clk 0:01:22] } 17. Qb3 { [%clk 0:02:19] } 17... a4 { [%clk 0:01:21] } 18. Qxa4+ { [%clk 0:02:13] } 18... Kd8 { [%clk 0:01:16] } 19. Bd2 { [%clk 0:02:10] } 19... Nxc2 { [%clk 0:01:10] } 20. Ba5 { [%clk 0:02:06] } 20... Qxa5 { [%clk 0:01:03] } 21. Qxa5+ { [%clk 0:02:05] } 21... Ke7 { [%clk 0:01:01] } 22. Kxc2 { [%clk 0:02:04] } 22... Rhc8+ { [%clk 0:01:00] } 23. Kb1 { [%clk 0:02:03] } 23... Nxf2 { [%clk 0:00:57] } 24. Rhf1 { [%clk 0:01:56] } 24... Nxd1 { [%clk 0:00:55] } 25. Rxd1 { [%clk 0:01:56] } 25... Bf5+ { [%clk 0:00:52] } 26. Ka1 { [%clk 0:01:53] } 26... Rc2 { [%clk 0:00:51] } 27. Re1 { [%clk 0:01:48] } 27... Rbc8 { [%clk 0:00:50] } 28. a4 { [%clk 0:01:43] } 28... Kf6 { [%clk 0:00:48] } 29. Ka2 { [%clk 0:01:42] } 29... Rb8 { [%clk 0:00:45] } 30. Ka3 { [%clk 0:01:38] } 30... Rcxb2 { [%clk 0:00:43] } 31. Rb1 { [%clk 0:01:35] } 31... R8b3# { [%clk 0:00:39] } 0-1

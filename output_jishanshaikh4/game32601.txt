@@ -1,0 +1,17 @@
+[Event "Casual UltraBullet game"]
+[Site "https://lichess.org/YzvKqwwZ"]
+[Date "2019.05.28"]
+[White "jishanshaikh4"]
+[Black "Clobberella"]
+[Result "0-1"]
+[UTCDate "2019.05.28"]
+[UTCTime "17:53:55"]
+[WhiteElo "1273"]
+[BlackElo "2084"]
+[Variant "Standard"]
+[TimeControl "15+0"]
+[ECO "A10"]
+[Opening "English Opening"]
+[Termination "Time forfeit"]
+
+1. c4 { [%clk 0:00:15] } 1... b6 { [%clk 0:00:15] } 2. Nc3 { [%clk 0:00:15] } 2... Nc6 { [%clk 0:00:15] } 3. Nd5 { [%clk 0:00:14] } 3... e5 { [%clk 0:00:15] } 4. Nxc7+ { [%clk 0:00:14] } 4... Qxc7 { [%clk 0:00:14] } 5. Nf3 { [%clk 0:00:13] } 5... Bb4 { [%clk 0:00:14] } 6. Ng5 { [%clk 0:00:12] } 6... Bxd2+ { [%clk 0:00:14] } 7. Qxd2 { [%clk 0:00:11] } 7... d5 { [%clk 0:00:14] } 8. Qf4 { [%clk 0:00:09] } 8... Nd4 { [%clk 0:00:14] } 9. Qxf7+ { [%clk 0:00:09] } 9... Qxf7 { [%clk 0:00:13] } 10. Nxf7 { [%clk 0:00:09] } 10... Kxf7 { [%clk 0:00:13] } 11. e3 { [%clk 0:00:08] } 11... Nc2+ { [%clk 0:00:13] } 12. Ke2 { [%clk 0:00:07] } 12... Nxa1 { [%clk 0:00:13] } 13. Kd1 { [%clk 0:00:06] } 13... dxc4 { [%clk 0:00:13] } 14. Be2 { [%clk 0:00:06] } 14... Be6 { [%clk 0:00:13] } 15. Bd2 { [%clk 0:00:05] } 15... Rd8 { [%clk 0:00:13] } 16. Ke1 { [%clk 0:00:03] } 16... Nb3 { [%clk 0:00:13] } 17. Bc3 { [%clk 0:00:02] } 17... Nd2 { [%clk 0:00:12] } 18. Kd1 { [%clk 0:00:01] } 18... Ne7 { [%clk 0:00:12] } 19. Kc2 { [%clk 0:00:00] } 19... Nc6 { [%clk 0:00:12] } 20. Bd3 { [%clk 0:00:00] } 20... Nb4+ { [%clk 0:00:12] } 0-1

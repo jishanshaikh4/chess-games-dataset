@@ -1,0 +1,17 @@
+[Event "20th Weekend Blitz Arena"]
+[Site "https://lichess.org/hPE6Ewju"]
+[Date "2021.09.19"]
+[White "jishanshaikh4"]
+[Black "Navodaya29"]
+[Result "1-0"]
+[UTCDate "2021.09.19"]
+[UTCTime "15:30:40"]
+[WhiteElo "2141"]
+[BlackElo "1865"]
+[Variant "Standard"]
+[TimeControl "180+0"]
+[ECO "C50"]
+[Opening "Four Knights Game: Italian Variation"]
+[Termination "Normal"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nc3 { [%clk 0:02:59] } 2... Nc6 { [%clk 0:02:59] } 3. Bc4 { [%clk 0:02:58] } 3... Bc5 { [%clk 0:02:59] } 4. Nf3 { [%clk 0:02:57] } 4... Nf6 { [%clk 0:02:57] } 5. h3 { [%clk 0:02:55] } 5... a6 { [%clk 0:02:54] } 6. O-O { [%clk 0:02:53] } 6... O-O { [%clk 0:02:53] } 7. Nd5 { [%clk 0:02:53] } 7... d6 { [%clk 0:02:51] } 8. c3 { [%clk 0:02:50] } 8... Nxe4 { [%clk 0:02:49] } 9. d4 { [%clk 0:02:47] } 9... exd4 { [%clk 0:02:48] } 10. cxd4 { [%clk 0:02:47] } 10... Ba7 { [%clk 0:02:46] } 11. Re1 { [%clk 0:02:44] } 11... Nf6 { [%clk 0:02:38] } 12. Bg5 { [%clk 0:02:41] } 12... Be6 { [%clk 0:02:17] } 13. Nxf6+ { [%clk 0:02:37] } 13... gxf6 { [%clk 0:02:16] } 14. Bxe6 { [%clk 0:02:35] } 14... fxe6 { [%clk 0:02:09] } 15. Bh6 { [%clk 0:02:32] } 15... Re8 { [%clk 0:02:07] } 16. Qb3 { [%clk 0:02:26] } 16... Qc8 { [%clk 0:02:02] } 17. Rad1 { [%clk 0:02:21] } 17... b5 { [%clk 0:01:46] } 18. Nh4 { [%clk 0:02:19] } 18... Nxd4 { [%clk 0:01:43] } 19. Qg3+ { [%clk 0:02:17] } 19... Kf7 { [%clk 0:01:38] } 20. Qg7# { [%clk 0:02:16] } 1-0

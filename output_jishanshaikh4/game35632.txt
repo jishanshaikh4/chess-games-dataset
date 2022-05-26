@@ -1,0 +1,17 @@
+[Event "Casual Bullet game"]
+[Site "https://lichess.org/FpmNiXC9"]
+[Date "2019.01.12"]
+[White "jishanshaikh4"]
+[Black "ZM_DKeyzz"]
+[Result "0-1"]
+[UTCDate "2019.01.12"]
+[UTCTime "14:47:39"]
+[WhiteElo "1379"]
+[BlackElo "1900"]
+[Variant "Standard"]
+[TimeControl "60+0"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[Termination "Time forfeit"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59] } 2... e6 { [%clk 0:00:59] } 3. Bb5 { [%clk 0:00:59] } 3... a6 { [%clk 0:00:56] } 4. Bc4 { [%clk 0:00:57] } 4... b5 { [%clk 0:00:56] } 5. Be2 { [%clk 0:00:55] } 5... Nc6 { [%clk 0:00:54] } 6. O-O { [%clk 0:00:54] } 6... d6 { [%clk 0:00:52] } 7. Re1 { [%clk 0:00:54] } 7... Nf6 { [%clk 0:00:51] } 8. d4 { [%clk 0:00:51] } 8... cxd4 { [%clk 0:00:50] } 9. Nxd4 { [%clk 0:00:51] } 9... Nxe4 { [%clk 0:00:48] } 10. Nxc6 { [%clk 0:00:50] } 10... Qc7 { [%clk 0:00:45] } 11. Nd4 { [%clk 0:00:48] } 11... Bb7 { [%clk 0:00:43] } 12. f3 { [%clk 0:00:43] } 12... Nc5 { [%clk 0:00:42] } 13. Nb3 { [%clk 0:00:41] } 13... Nd7 { [%clk 0:00:40] } 14. Bd3 { [%clk 0:00:38] } 14... Be7 { [%clk 0:00:39] } 15. Re3 { [%clk 0:00:36] } 15... Nf6 { [%clk 0:00:38] } 16. Nc3 { [%clk 0:00:36] } 16... Rc8 { [%clk 0:00:36] } 17. Bd2 { [%clk 0:00:34] } 17... O-O { [%clk 0:00:35] } 18. Rc1 { [%clk 0:00:33] } 18... h6 { [%clk 0:00:34] } 19. Qe2 { [%clk 0:00:32] } 19... Rfd8 { [%clk 0:00:33] } 20. Re1 { [%clk 0:00:32] } 20... d5 { [%clk 0:00:32] } 21. Nd1 { [%clk 0:00:31] } 21... Nd7 { [%clk 0:00:26] } 22. Ba5 { [%clk 0:00:28] } 22... Nb6 { [%clk 0:00:24] } 23. Bxb6 { [%clk 0:00:24] } 23... Qxb6 { [%clk 0:00:23] } 24. Kf1 { [%clk 0:00:17] } 24... a5 { [%clk 0:00:22] } 25. Re5 { [%clk 0:00:14] } 25... Bf6 { [%clk 0:00:19] } 26. Re3 { [%clk 0:00:11] } 26... a4 { [%clk 0:00:18] } 27. Nd2 { [%clk 0:00:10] } 27... d4 { [%clk 0:00:17] } 28. Re5 { [%clk 0:00:04] } 28... Bxe5 { [%clk 0:00:16] } 29. Qxe5 { [%clk 0:00:04] } 29... Rd5 { [%clk 0:00:15] } 30. Qe4 { [%clk 0:00:02] } 30... Rdc5 { [%clk 0:00:13] } 0-1
